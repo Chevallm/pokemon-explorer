@@ -34,7 +34,8 @@ function App() {
           {pokemonSelected ? (
             <PokemonInfoComponent
               pokemonSelected={pokemonSelected}
-              onGoBack={() => setPokemonSelected(null)}/>
+              onGoBack={() => setPokemonSelected(null)}
+              onPokemonSelected={onPokemonSelected}/>
           ) : (
             <PokedexComponent onPokemonSelected={onPokemonSelected}/>
           )}

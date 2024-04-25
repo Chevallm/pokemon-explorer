@@ -2,10 +2,12 @@ import { Box, Fab, Paper, Typography } from "@mui/material"
 import { Pokemon } from "../types/Pokemon"
 import { ArrowBack } from "@mui/icons-material"
 import { pokedexData } from "../pokedex"
+import { getPokemon } from "../utils/pokemon"
 
 type PokemonInfoComponentProps = {
     pokemonSelected: string,
-    onGoBack: () => void
+    onGoBack: () => void,
+    onPokemonSelected: (pokemonSelectedId: string) => void
 }
 export default function PokemonInfoComponent(props: PokemonInfoComponentProps) {
 
@@ -27,12 +29,14 @@ export default function PokemonInfoComponent(props: PokemonInfoComponentProps) {
     let previousPokemon = undefined;
     let nextPokemons: (Pokemon | undefined)[] = [];
     if (previousPokemonId) {
-        previousPokemon = pokedexData.find(pokemonInPokedex => pokemonInPokedex.id === previousPokemonId)
+        previousPokemon = getPokemon(previousPokemonId);
     }
     if (nextPokemonsIds.length > 0) {
-        nextPokemons = nextPokemonsIds.map(nextPokemonId =>
-            pokedexData.find(pokemonInPokedex => pokemonInPokedex.id === nextPokemonId)
-        )
+        nextPokemons = nextPokemonsIds.map(getPokemon);
+    }
+
+    function setPokemonSelected(pokemonSelectedId: number): void {
+        props.onPokemonSelected(pokemonSelectedId.toString());
     }
 
     return (
@@ -40,16 +44,50 @@ export default function PokemonInfoComponent(props: PokemonInfoComponentProps) {
             <Box>
                 <Paper elevation={2} sx={{mx: 20, display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
                     {/* Identity */}
-                        <img src={pokemon.image.hires} height="400" width="400"/>
-                        <Typography>{pokemon.name.english}</Typography>
-                        <Box sx={{display: 'flex', columnGap: 5}}>
-                            <Typography>🇫🇷 {pokemon.name.french}</Typography>
-                            <Typography>🇯🇵 {pokemon.name.japanese}</Typography>
-                            <Typography>🇨🇳 {pokemon.name.chinese}</Typography>
-                        </Box>
-                    
-                    <p>prev: {previousPokemon?.name.english}</p>
-                    <p>next: {nextPokemons.map(nextPokemon => (<span>{nextPokemon?.name.english}</span>))}</p>
+                    <img src={pokemon.image.hires} height="400" width="400"/>
+                    <Typography>{pokemon.name.english}</Typography>
+                    <Box sx={{display: 'flex', columnGap: 5}}>
+                        <Typography>🇫🇷 {pokemon.name.french}</Typography>
+                        <Typography>🇯🇵 {pokemon.name.japanese}</Typography>
+                        <Typography>🇨🇳 {pokemon.name.chinese}</Typography>
+                    </Box>
+
+                    {/* Evolutions */}
+                    <Box sx={{width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+                        {(previousPokemon || nextPokemons.length > 0) && (
+                        <>
+                            <Typography>Evolutions</Typography>
+                            <Box sx={{display: 'flex', justifyContent: 'space-around', width: '100%'}}>
+                                {previousPokemon && (
+                                    <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+                                        <Typography sx={{mb: 2}}>Previous evolution</Typography>
+                                        <Paper onClick={() => setPokemonSelected(previousPokemon.id)} elevation={1} sx={{padding: 2, display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+                                            <img src={previousPokemon.image.thumbnail}/>
+                                            <Typography sx={{mt: 1}}>{previousPokemon.name.english} with {pokemon.evolution.prev?.[1]}</Typography>
+                                        </Paper>
+                                    </Box>
+                                )}
+                                {nextPokemons.length > 0 && (
+                                    <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+                                        <Typography sx={{mb: 2}}>Next evolutions</Typography>
+                                        <Box sx={{display: 'flex', justifyContent: 'center', columnGap: 2}}>
+                                        {nextPokemons.filter(p => !!p).map((nextPokemon, evolutionIndex) => {
+                                                const pokemonName = nextPokemon?.name.english;
+                                                const when = pokemon.evolution.next?.[evolutionIndex][1];
+                                                return (
+                                                    <Paper key={nextPokemon.id} onClick={() => setPokemonSelected(nextPokemon.id)} elevation={1} sx={{padding: 2, display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+                                                        <img src={nextPokemon?.image.thumbnail}/>
+                                                        <Typography sx={{mt: 1}}>{pokemonName} with {when}</Typography>
+                                                    </Paper>
+                                                );
+                                        })}
+                                        </Box>
+                                    </Box>
+                                )}
+                            </Box>
+                        </>
+                    )}
+                    </Box>
                 </Paper>
             </Box>
             

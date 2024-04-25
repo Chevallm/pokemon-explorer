@@ -3,6 +3,7 @@ import { Pokemon } from "../types/Pokemon"
 import { ArrowBack } from "@mui/icons-material"
 import { pokedexData } from "../pokedex"
 import { getPokemon } from "../utils/pokemon"
+import Type from "./Type"
 
 type PokemonInfoComponentProps = {
     pokemonSelected: string,
@@ -46,6 +47,11 @@ export default function PokemonInfoComponent(props: PokemonInfoComponentProps) {
                     {/* Identity */}
                     <img src={pokemon.image.hires} height="400" width="400"/>
                     <Typography>{pokemon.name.english}</Typography>
+                    <Box>
+                        <Type type={pokemon.type[0]}></Type>
+                        {pokemon.type[1] && (<Type type={pokemon.type[1]}></Type>)}
+                    </Box>
+                    
                     <Box sx={{display: 'flex', columnGap: 5}}>
                         <Typography>🇫🇷 {pokemon.name.french}</Typography>
                         <Typography>🇯🇵 {pokemon.name.japanese}</Typography>

@@ -9,12 +9,15 @@ import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 import PokedexComponent from './components/Pokedex';
 import PokemonInfoComponent from './components/PokemonInfo';
-import { Pokemon } from './types/Pokemon';
+import SearchBar from './components/SearchBar';
+import { pokedexData, pokemonNames } from './pokedex';
+import { Pokedex } from './types/Pokedex';
 
 function App() {
   
   const [page, setPage] = useState(0);
   const [pokemonSelected, setPokemonSelected] = useState<string | null>(null);
+  const [filteredPokedex, setFilteredPokedex] = useState<Pokedex>([]);
   
   const darkTheme = createTheme({
     palette: {
@@ -25,19 +28,42 @@ function App() {
   function onPokemonSelected(pokemonSelected: string) {
     setPokemonSelected(pokemonSelected);
   }
+
+  function onGoBack() {
+    setPokemonSelected(null);
+    setFilteredPokedex([]);
+  }
+
+  function filterPokedex(query: string) {
+    const lowerCaseQuery = query.toLocaleLowerCase();
+    const filteredPokemonNamesIndexes = pokemonNames.reduce<number[]>((indexes, pokemonName, index) => {
+      console.log(pokemonName)
+      if (pokemonName.includes(lowerCaseQuery)) {
+        indexes.push(index);
+      }
+      return indexes;
+    }, []);
+    const _filteredPokedex: Pokedex = filteredPokemonNamesIndexes.map(index => pokedexData[index]);
+    setFilteredPokedex(_filteredPokedex);
+  }
   
   return (
     <>
     <Box sx={{ pb: 7 }}>
       <ThemeProvider
         theme={darkTheme}>
-          {pokemonSelected ? (
+        {pokemonSelected ? (
             <PokemonInfoComponent
               pokemonSelected={pokemonSelected}
-              onGoBack={() => setPokemonSelected(null)}
+              onGoBack={onGoBack}
               onPokemonSelected={onPokemonSelected}/>
           ) : (
-            <PokedexComponent onPokemonSelected={onPokemonSelected}/>
+            <>
+            <Box sx={{width: '100%'}}>
+              <SearchBar onSearch={filterPokedex}></SearchBar>
+            </Box>
+            <PokedexComponent filteredPokedex={filteredPokedex} onPokemonSelected={onPokemonSelected}/>
+            </>
           )}
         <Paper sx={{ position: 'fixed', bottom: 0, left: 0, right: 0 }} elevation={3}>
           <BottomNavigation

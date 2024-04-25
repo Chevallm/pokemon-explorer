@@ -5,7 +5,8 @@ import {pokedexData} from '../pokedex'
 import { Box } from '@mui/material'
 
 type PokedexComponentProps = {
-    onPokemonSelected: (pokemonSelected: string) => void
+    onPokemonSelected: (pokemonSelected: string) => void,
+    filteredPokedex: Pokedex
 }
 export default function PokedexComponent(props: PokedexComponentProps) {
 
@@ -18,7 +19,7 @@ export default function PokedexComponent(props: PokedexComponentProps) {
     return (
         <>
         <Box className="flex flex-wrap flex-row gap-3 place-content-center">
-        {pokedex.map(pokemon =>
+        {(props.filteredPokedex.length > 0 ? props.filteredPokedex : pokedex).map(pokemon =>
             <Box className='w-1/4' key={pokemon.id}>
                 <PokemonComponent pokemon={pokemon} onPokemonSelected={onPokemonSelected}></PokemonComponent>
             </Box>      

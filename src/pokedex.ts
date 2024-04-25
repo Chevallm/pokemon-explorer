@@ -31783,3 +31783,5 @@ export const pokedexData: Pokedex = [
       }
     }
   ]
+
+export const pokemonNames: string[] = pokedexData.map(pokemon => pokemon.name.english.toLocaleLowerCase());

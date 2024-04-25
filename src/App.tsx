@@ -1,4 +1,4 @@
-import { BottomNavigation, BottomNavigationAction, createTheme, Paper, ThemeProvider } from '@mui/material'
+import { BottomNavigation, BottomNavigationAction, Box, createTheme, Paper, ThemeProvider } from '@mui/material'
 import './App.css'
 import { useState } from 'react'
 import MenuBookIcon from '@mui/icons-material/MenuBook';
@@ -28,28 +28,29 @@ function App() {
   
   return (
     <>
-    <ThemeProvider
-      theme={darkTheme}>
-        {pokemonSelected ? (
-          <PokemonInfoComponent
-            pokemonSelected={pokemonSelected}
-            onGoBack={() => setPokemonSelected(null)}/>
-        ) : (
-          <PokedexComponent onPokemonSelected={onPokemonSelected}/>
-        )}
-      <Paper sx={{ position: 'fixed', bottom: 0, left: 0, right: 0 }} elevation={3}>
-        <BottomNavigation
-          showLabels
-          value={page}
-          onChange={(page, newPage) => {
-            setPage(newPage);
-          }}>
-          <BottomNavigationAction label="Pokédex" icon={<MenuBookIcon/>}></BottomNavigationAction>
-          <BottomNavigationAction label="Types (soon)" icon={<WatchLaterIcon/>}></BottomNavigationAction>
-        </BottomNavigation>
-      </Paper>
-    </ThemeProvider>
-    
+    <Box sx={{ pb: 7 }}>
+      <ThemeProvider
+        theme={darkTheme}>
+          {pokemonSelected ? (
+            <PokemonInfoComponent
+              pokemonSelected={pokemonSelected}
+              onGoBack={() => setPokemonSelected(null)}/>
+          ) : (
+            <PokedexComponent onPokemonSelected={onPokemonSelected}/>
+          )}
+        <Paper sx={{ position: 'fixed', bottom: 0, left: 0, right: 0 }} elevation={3}>
+          <BottomNavigation
+            showLabels
+            value={page}
+            onChange={(page, newPage) => {
+              setPage(newPage);
+            }}>
+            <BottomNavigationAction label="Pokédex" icon={<MenuBookIcon/>}></BottomNavigationAction>
+            <BottomNavigationAction label="Types (soon)" icon={<WatchLaterIcon/>}></BottomNavigationAction>
+          </BottomNavigation>
+        </Paper>
+      </ThemeProvider>
+    </Box>
     </>
   )
 }

@@ -32,9 +32,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/001.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/001.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+        "sprite": "src/assets/sprites/001.png",
+        "thumbnail": "src/assets/thumbnails/001.png",
+        "hires": "src/assets/hires/001.png"
       }
     },
     {
@@ -68,9 +68,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/002.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/002.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/002.png"
+        "sprite": "src/assets/sprites/002.png",
+        "thumbnail": "src/assets/thumbnails/002.png",
+        "hires": "src/assets/hires/002.png"
       }
     },
     {
@@ -104,9 +104,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/003.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/003.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/003.png"
+        "sprite": "src/assets/sprites/003.png",
+        "thumbnail": "src/assets/thumbnails/003.png",
+        "hires": "src/assets/hires/003.png"
       }
     },
     {
@@ -140,9 +140,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/004.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/004.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/004.png"
+        "sprite": "src/assets/sprites/004.png",
+        "thumbnail": "src/assets/thumbnails/004.png",
+        "hires": "src/assets/hires/004.png"
       }
     },
     {
@@ -176,9 +176,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/005.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/005.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/005.png"
+        "sprite": "src/assets/sprites/005.png",
+        "thumbnail": "src/assets/thumbnails/005.png",
+        "hires": "src/assets/hires/005.png"
       }
     },
     {
@@ -212,9 +212,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/006.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/006.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/006.png"
+        "sprite": "src/assets/sprites/006.png",
+        "thumbnail": "src/assets/thumbnails/006.png",
+        "hires": "src/assets/hires/006.png"
       }
     },
     {
@@ -248,9 +248,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/007.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/007.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/007.png"
+        "sprite": "src/assets/sprites/007.png",
+        "thumbnail": "src/assets/thumbnails/007.png",
+        "hires": "src/assets/hires/007.png"
       }
     },
     {
@@ -284,9 +284,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/008.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/008.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/008.png"
+        "sprite": "src/assets/sprites/008.png",
+        "thumbnail": "src/assets/thumbnails/008.png",
+        "hires": "src/assets/hires/008.png"
       }
     },
     {
@@ -320,9 +320,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/009.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/009.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/009.png"
+        "sprite": "src/assets/sprites/009.png",
+        "thumbnail": "src/assets/thumbnails/009.png",
+        "hires": "src/assets/hires/009.png"
       }
     },
     {
@@ -356,9 +356,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/010.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/010.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/010.png"
+        "sprite": "src/assets/sprites/010.png",
+        "thumbnail": "src/assets/thumbnails/010.png",
+        "hires": "src/assets/hires/010.png"
       }
     },
     {
@@ -389,9 +389,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/011.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/011.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/011.png"
+        "sprite": "src/assets/sprites/011.png",
+        "thumbnail": "src/assets/thumbnails/011.png",
+        "hires": "src/assets/hires/011.png"
       }
     },
     {
@@ -425,9 +425,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/012.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/012.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/012.png"
+        "sprite": "src/assets/sprites/012.png",
+        "thumbnail": "src/assets/thumbnails/012.png",
+        "hires": "src/assets/hires/012.png"
       }
     },
     {
@@ -461,9 +461,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/013.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/013.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/013.png"
+        "sprite": "src/assets/sprites/013.png",
+        "thumbnail": "src/assets/thumbnails/013.png",
+        "hires": "src/assets/hires/013.png"
       }
     },
     {
@@ -494,9 +494,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/014.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/014.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/014.png"
+        "sprite": "src/assets/sprites/014.png",
+        "thumbnail": "src/assets/thumbnails/014.png",
+        "hires": "src/assets/hires/014.png"
       }
     },
     {
@@ -530,9 +530,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/015.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/015.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/015.png"
+        "sprite": "src/assets/sprites/015.png",
+        "thumbnail": "src/assets/thumbnails/015.png",
+        "hires": "src/assets/hires/015.png"
       }
     },
     {
@@ -567,9 +567,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/016.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/016.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/016.png"
+        "sprite": "src/assets/sprites/016.png",
+        "thumbnail": "src/assets/thumbnails/016.png",
+        "hires": "src/assets/hires/016.png"
       }
     },
     {
@@ -604,9 +604,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/017.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/017.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/017.png"
+        "sprite": "src/assets/sprites/017.png",
+        "thumbnail": "src/assets/thumbnails/017.png",
+        "hires": "src/assets/hires/017.png"
       }
     },
     {
@@ -641,9 +641,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/018.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/018.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/018.png"
+        "sprite": "src/assets/sprites/018.png",
+        "thumbnail": "src/assets/thumbnails/018.png",
+        "hires": "src/assets/hires/018.png"
       }
     },
     {
@@ -678,9 +678,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/019.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/019.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/019.png"
+        "sprite": "src/assets/sprites/019.png",
+        "thumbnail": "src/assets/thumbnails/019.png",
+        "hires": "src/assets/hires/019.png"
       }
     },
     {
@@ -715,9 +715,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/020.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/020.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/020.png"
+        "sprite": "src/assets/sprites/020.png",
+        "thumbnail": "src/assets/thumbnails/020.png",
+        "hires": "src/assets/hires/020.png"
       }
     },
     {
@@ -751,9 +751,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/021.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/021.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/021.png"
+        "sprite": "src/assets/sprites/021.png",
+        "thumbnail": "src/assets/thumbnails/021.png",
+        "hires": "src/assets/hires/021.png"
       }
     },
     {
@@ -787,9 +787,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/022.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/022.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/022.png"
+        "sprite": "src/assets/sprites/022.png",
+        "thumbnail": "src/assets/thumbnails/022.png",
+        "hires": "src/assets/hires/022.png"
       }
     },
     {
@@ -824,9 +824,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/023.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/023.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/023.png"
+        "sprite": "src/assets/sprites/023.png",
+        "thumbnail": "src/assets/thumbnails/023.png",
+        "hires": "src/assets/hires/023.png"
       }
     },
     {
@@ -861,9 +861,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/024.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/024.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/024.png"
+        "sprite": "src/assets/sprites/024.png",
+        "thumbnail": "src/assets/thumbnails/024.png",
+        "hires": "src/assets/hires/024.png"
       }
     },
     {
@@ -900,9 +900,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/025.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/025.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/025.png"
+        "sprite": "src/assets/sprites/025.png",
+        "thumbnail": "src/assets/thumbnails/025.png",
+        "hires": "src/assets/hires/025.png"
       }
     },
     {
@@ -936,9 +936,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/026.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/026.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/026.png"
+        "sprite": "src/assets/sprites/026.png",
+        "thumbnail": "src/assets/thumbnails/026.png",
+        "hires": "src/assets/hires/026.png"
       }
     },
     {
@@ -972,9 +972,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/027.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/027.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/027.png"
+        "sprite": "src/assets/sprites/027.png",
+        "thumbnail": "src/assets/thumbnails/027.png",
+        "hires": "src/assets/hires/027.png"
       }
     },
     {
@@ -1008,9 +1008,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/028.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/028.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/028.png"
+        "sprite": "src/assets/sprites/028.png",
+        "thumbnail": "src/assets/thumbnails/028.png",
+        "hires": "src/assets/hires/028.png"
       }
     },
     {
@@ -1045,9 +1045,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/029.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/029.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/029.png"
+        "sprite": "src/assets/sprites/029.png",
+        "thumbnail": "src/assets/thumbnails/029.png",
+        "hires": "src/assets/hires/029.png"
       }
     },
     {
@@ -1085,9 +1085,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/030.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/030.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/030.png"
+        "sprite": "src/assets/sprites/030.png",
+        "thumbnail": "src/assets/thumbnails/030.png",
+        "hires": "src/assets/hires/030.png"
       }
     },
     {
@@ -1122,9 +1122,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/031.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/031.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/031.png"
+        "sprite": "src/assets/sprites/031.png",
+        "thumbnail": "src/assets/thumbnails/031.png",
+        "hires": "src/assets/hires/031.png"
       }
     },
     {
@@ -1159,9 +1159,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/032.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/032.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/032.png"
+        "sprite": "src/assets/sprites/032.png",
+        "thumbnail": "src/assets/thumbnails/032.png",
+        "hires": "src/assets/hires/032.png"
       }
     },
     {
@@ -1199,9 +1199,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/033.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/033.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/033.png"
+        "sprite": "src/assets/sprites/033.png",
+        "thumbnail": "src/assets/thumbnails/033.png",
+        "hires": "src/assets/hires/033.png"
       }
     },
     {
@@ -1236,9 +1236,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/034.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/034.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/034.png"
+        "sprite": "src/assets/sprites/034.png",
+        "thumbnail": "src/assets/thumbnails/034.png",
+        "hires": "src/assets/hires/034.png"
       }
     },
     {
@@ -1276,9 +1276,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/035.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/035.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/035.png"
+        "sprite": "src/assets/sprites/035.png",
+        "thumbnail": "src/assets/thumbnails/035.png",
+        "hires": "src/assets/hires/035.png"
       }
     },
     {
@@ -1313,9 +1313,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/036.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/036.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/036.png"
+        "sprite": "src/assets/sprites/036.png",
+        "thumbnail": "src/assets/thumbnails/036.png",
+        "hires": "src/assets/hires/036.png"
       }
     },
     {
@@ -1349,9 +1349,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/037.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/037.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/037.png"
+        "sprite": "src/assets/sprites/037.png",
+        "thumbnail": "src/assets/thumbnails/037.png",
+        "hires": "src/assets/hires/037.png"
       }
     },
     {
@@ -1385,9 +1385,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/038.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/038.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/038.png"
+        "sprite": "src/assets/sprites/038.png",
+        "thumbnail": "src/assets/thumbnails/038.png",
+        "hires": "src/assets/hires/038.png"
       }
     },
     {
@@ -1425,9 +1425,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/039.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/039.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/039.png"
+        "sprite": "src/assets/sprites/039.png",
+        "thumbnail": "src/assets/thumbnails/039.png",
+        "hires": "src/assets/hires/039.png"
       }
     },
     {
@@ -1462,9 +1462,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/040.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/040.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/040.png"
+        "sprite": "src/assets/sprites/040.png",
+        "thumbnail": "src/assets/thumbnails/040.png",
+        "hires": "src/assets/hires/040.png"
       }
     },
     {
@@ -1498,9 +1498,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/041.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/041.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/041.png"
+        "sprite": "src/assets/sprites/041.png",
+        "thumbnail": "src/assets/thumbnails/041.png",
+        "hires": "src/assets/hires/041.png"
       }
     },
     {
@@ -1537,9 +1537,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/042.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/042.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/042.png"
+        "sprite": "src/assets/sprites/042.png",
+        "thumbnail": "src/assets/thumbnails/042.png",
+        "hires": "src/assets/hires/042.png"
       }
     },
     {
@@ -1573,9 +1573,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/043.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/043.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/043.png"
+        "sprite": "src/assets/sprites/043.png",
+        "thumbnail": "src/assets/thumbnails/043.png",
+        "hires": "src/assets/hires/043.png"
       }
     },
     {
@@ -1615,9 +1615,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/044.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/044.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/044.png"
+        "sprite": "src/assets/sprites/044.png",
+        "thumbnail": "src/assets/thumbnails/044.png",
+        "hires": "src/assets/hires/044.png"
       }
     },
     {
@@ -1651,9 +1651,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/045.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/045.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/045.png"
+        "sprite": "src/assets/sprites/045.png",
+        "thumbnail": "src/assets/thumbnails/045.png",
+        "hires": "src/assets/hires/045.png"
       }
     },
     {
@@ -1688,9 +1688,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/046.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/046.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/046.png"
+        "sprite": "src/assets/sprites/046.png",
+        "thumbnail": "src/assets/thumbnails/046.png",
+        "hires": "src/assets/hires/046.png"
       }
     },
     {
@@ -1725,9 +1725,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/047.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/047.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/047.png"
+        "sprite": "src/assets/sprites/047.png",
+        "thumbnail": "src/assets/thumbnails/047.png",
+        "hires": "src/assets/hires/047.png"
       }
     },
     {
@@ -1762,9 +1762,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/048.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/048.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/048.png"
+        "sprite": "src/assets/sprites/048.png",
+        "thumbnail": "src/assets/thumbnails/048.png",
+        "hires": "src/assets/hires/048.png"
       }
     },
     {
@@ -1799,9 +1799,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/049.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/049.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/049.png"
+        "sprite": "src/assets/sprites/049.png",
+        "thumbnail": "src/assets/thumbnails/049.png",
+        "hires": "src/assets/hires/049.png"
       }
     },
     {
@@ -1836,9 +1836,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/050.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/050.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/050.png"
+        "sprite": "src/assets/sprites/050.png",
+        "thumbnail": "src/assets/thumbnails/050.png",
+        "hires": "src/assets/hires/050.png"
       }
     },
     {
@@ -1873,9 +1873,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/051.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/051.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/051.png"
+        "sprite": "src/assets/sprites/051.png",
+        "thumbnail": "src/assets/thumbnails/051.png",
+        "hires": "src/assets/hires/051.png"
       }
     },
     {
@@ -1910,9 +1910,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/052.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/052.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/052.png"
+        "sprite": "src/assets/sprites/052.png",
+        "thumbnail": "src/assets/thumbnails/052.png",
+        "hires": "src/assets/hires/052.png"
       }
     },
     {
@@ -1947,9 +1947,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/053.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/053.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/053.png"
+        "sprite": "src/assets/sprites/053.png",
+        "thumbnail": "src/assets/thumbnails/053.png",
+        "hires": "src/assets/hires/053.png"
       }
     },
     {
@@ -1984,9 +1984,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/054.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/054.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/054.png"
+        "sprite": "src/assets/sprites/054.png",
+        "thumbnail": "src/assets/thumbnails/054.png",
+        "hires": "src/assets/hires/054.png"
       }
     },
     {
@@ -2021,9 +2021,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/055.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/055.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/055.png"
+        "sprite": "src/assets/sprites/055.png",
+        "thumbnail": "src/assets/thumbnails/055.png",
+        "hires": "src/assets/hires/055.png"
       }
     },
     {
@@ -2058,9 +2058,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/056.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/056.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/056.png"
+        "sprite": "src/assets/sprites/056.png",
+        "thumbnail": "src/assets/thumbnails/056.png",
+        "hires": "src/assets/hires/056.png"
       }
     },
     {
@@ -2095,9 +2095,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/057.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/057.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/057.png"
+        "sprite": "src/assets/sprites/057.png",
+        "thumbnail": "src/assets/thumbnails/057.png",
+        "hires": "src/assets/hires/057.png"
       }
     },
     {
@@ -2132,9 +2132,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/058.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/058.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/058.png"
+        "sprite": "src/assets/sprites/058.png",
+        "thumbnail": "src/assets/thumbnails/058.png",
+        "hires": "src/assets/hires/058.png"
       }
     },
     {
@@ -2169,9 +2169,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/059.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/059.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/059.png"
+        "sprite": "src/assets/sprites/059.png",
+        "thumbnail": "src/assets/thumbnails/059.png",
+        "hires": "src/assets/hires/059.png"
       }
     },
     {
@@ -2206,9 +2206,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/060.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/060.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/060.png"
+        "sprite": "src/assets/sprites/060.png",
+        "thumbnail": "src/assets/thumbnails/060.png",
+        "hires": "src/assets/hires/060.png"
       }
     },
     {
@@ -2249,9 +2249,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/061.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/061.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/061.png"
+        "sprite": "src/assets/sprites/061.png",
+        "thumbnail": "src/assets/thumbnails/061.png",
+        "hires": "src/assets/hires/061.png"
       }
     },
     {
@@ -2286,9 +2286,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/062.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/062.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/062.png"
+        "sprite": "src/assets/sprites/062.png",
+        "thumbnail": "src/assets/thumbnails/062.png",
+        "hires": "src/assets/hires/062.png"
       }
     },
     {
@@ -2323,9 +2323,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/063.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/063.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/063.png"
+        "sprite": "src/assets/sprites/063.png",
+        "thumbnail": "src/assets/thumbnails/063.png",
+        "hires": "src/assets/hires/063.png"
       }
     },
     {
@@ -2360,9 +2360,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/064.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/064.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/064.png"
+        "sprite": "src/assets/sprites/064.png",
+        "thumbnail": "src/assets/thumbnails/064.png",
+        "hires": "src/assets/hires/064.png"
       }
     },
     {
@@ -2397,9 +2397,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/065.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/065.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/065.png"
+        "sprite": "src/assets/sprites/065.png",
+        "thumbnail": "src/assets/thumbnails/065.png",
+        "hires": "src/assets/hires/065.png"
       }
     },
     {
@@ -2434,9 +2434,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/066.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/066.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/066.png"
+        "sprite": "src/assets/sprites/066.png",
+        "thumbnail": "src/assets/thumbnails/066.png",
+        "hires": "src/assets/hires/066.png"
       }
     },
     {
@@ -2471,9 +2471,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/067.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/067.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/067.png"
+        "sprite": "src/assets/sprites/067.png",
+        "thumbnail": "src/assets/thumbnails/067.png",
+        "hires": "src/assets/hires/067.png"
       }
     },
     {
@@ -2508,9 +2508,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/068.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/068.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/068.png"
+        "sprite": "src/assets/sprites/068.png",
+        "thumbnail": "src/assets/thumbnails/068.png",
+        "hires": "src/assets/hires/068.png"
       }
     },
     {
@@ -2544,9 +2544,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/069.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/069.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/069.png"
+        "sprite": "src/assets/sprites/069.png",
+        "thumbnail": "src/assets/thumbnails/069.png",
+        "hires": "src/assets/hires/069.png"
       }
     },
     {
@@ -2583,9 +2583,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/070.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/070.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/070.png"
+        "sprite": "src/assets/sprites/070.png",
+        "thumbnail": "src/assets/thumbnails/070.png",
+        "hires": "src/assets/hires/070.png"
       }
     },
     {
@@ -2619,9 +2619,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/071.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/071.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/071.png"
+        "sprite": "src/assets/sprites/071.png",
+        "thumbnail": "src/assets/thumbnails/071.png",
+        "hires": "src/assets/hires/071.png"
       }
     },
     {
@@ -2656,9 +2656,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/072.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/072.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/072.png"
+        "sprite": "src/assets/sprites/072.png",
+        "thumbnail": "src/assets/thumbnails/072.png",
+        "hires": "src/assets/hires/072.png"
       }
     },
     {
@@ -2693,9 +2693,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/073.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/073.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/073.png"
+        "sprite": "src/assets/sprites/073.png",
+        "thumbnail": "src/assets/thumbnails/073.png",
+        "hires": "src/assets/hires/073.png"
       }
     },
     {
@@ -2730,9 +2730,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/074.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/074.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/074.png"
+        "sprite": "src/assets/sprites/074.png",
+        "thumbnail": "src/assets/thumbnails/074.png",
+        "hires": "src/assets/hires/074.png"
       }
     },
     {
@@ -2767,9 +2767,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/075.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/075.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/075.png"
+        "sprite": "src/assets/sprites/075.png",
+        "thumbnail": "src/assets/thumbnails/075.png",
+        "hires": "src/assets/hires/075.png"
       }
     },
     {
@@ -2804,9 +2804,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/076.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/076.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/076.png"
+        "sprite": "src/assets/sprites/076.png",
+        "thumbnail": "src/assets/thumbnails/076.png",
+        "hires": "src/assets/hires/076.png"
       }
     },
     {
@@ -2841,9 +2841,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/077.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/077.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/077.png"
+        "sprite": "src/assets/sprites/077.png",
+        "thumbnail": "src/assets/thumbnails/077.png",
+        "hires": "src/assets/hires/077.png"
       }
     },
     {
@@ -2878,9 +2878,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/078.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/078.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/078.png"
+        "sprite": "src/assets/sprites/078.png",
+        "thumbnail": "src/assets/thumbnails/078.png",
+        "hires": "src/assets/hires/078.png"
       }
     },
     {
@@ -2920,9 +2920,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/079.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/079.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/079.png"
+        "sprite": "src/assets/sprites/079.png",
+        "thumbnail": "src/assets/thumbnails/079.png",
+        "hires": "src/assets/hires/079.png"
       }
     },
     {
@@ -2957,9 +2957,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/080.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/080.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/080.png"
+        "sprite": "src/assets/sprites/080.png",
+        "thumbnail": "src/assets/thumbnails/080.png",
+        "hires": "src/assets/hires/080.png"
       }
     },
     {
@@ -2994,9 +2994,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/081.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/081.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/081.png"
+        "sprite": "src/assets/sprites/081.png",
+        "thumbnail": "src/assets/thumbnails/081.png",
+        "hires": "src/assets/hires/081.png"
       }
     },
     {
@@ -3034,9 +3034,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/082.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/082.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/082.png"
+        "sprite": "src/assets/sprites/082.png",
+        "thumbnail": "src/assets/thumbnails/082.png",
+        "hires": "src/assets/hires/082.png"
       }
     },
     {
@@ -3071,9 +3071,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/083.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/083.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/083.png"
+        "sprite": "src/assets/sprites/083.png",
+        "thumbnail": "src/assets/thumbnails/083.png",
+        "hires": "src/assets/hires/083.png"
       }
     },
     {
@@ -3108,9 +3108,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/084.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/084.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/084.png"
+        "sprite": "src/assets/sprites/084.png",
+        "thumbnail": "src/assets/thumbnails/084.png",
+        "hires": "src/assets/hires/084.png"
       }
     },
     {
@@ -3145,9 +3145,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/085.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/085.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/085.png"
+        "sprite": "src/assets/sprites/085.png",
+        "thumbnail": "src/assets/thumbnails/085.png",
+        "hires": "src/assets/hires/085.png"
       }
     },
     {
@@ -3182,9 +3182,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/086.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/086.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/086.png"
+        "sprite": "src/assets/sprites/086.png",
+        "thumbnail": "src/assets/thumbnails/086.png",
+        "hires": "src/assets/hires/086.png"
       }
     },
     {
@@ -3219,9 +3219,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/087.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/087.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/087.png"
+        "sprite": "src/assets/sprites/087.png",
+        "thumbnail": "src/assets/thumbnails/087.png",
+        "hires": "src/assets/hires/087.png"
       }
     },
     {
@@ -3256,9 +3256,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/088.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/088.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/088.png"
+        "sprite": "src/assets/sprites/088.png",
+        "thumbnail": "src/assets/thumbnails/088.png",
+        "hires": "src/assets/hires/088.png"
       }
     },
     {
@@ -3293,9 +3293,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/089.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/089.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/089.png"
+        "sprite": "src/assets/sprites/089.png",
+        "thumbnail": "src/assets/thumbnails/089.png",
+        "hires": "src/assets/hires/089.png"
       }
     },
     {
@@ -3330,9 +3330,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/090.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/090.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/090.png"
+        "sprite": "src/assets/sprites/090.png",
+        "thumbnail": "src/assets/thumbnails/090.png",
+        "hires": "src/assets/hires/090.png"
       }
     },
     {
@@ -3367,9 +3367,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/091.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/091.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/091.png"
+        "sprite": "src/assets/sprites/091.png",
+        "thumbnail": "src/assets/thumbnails/091.png",
+        "hires": "src/assets/hires/091.png"
       }
     },
     {
@@ -3400,9 +3400,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/092.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/092.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/092.png"
+        "sprite": "src/assets/sprites/092.png",
+        "thumbnail": "src/assets/thumbnails/092.png",
+        "hires": "src/assets/hires/092.png"
       }
     },
     {
@@ -3433,9 +3433,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/093.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/093.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/093.png"
+        "sprite": "src/assets/sprites/093.png",
+        "thumbnail": "src/assets/thumbnails/093.png",
+        "hires": "src/assets/hires/093.png"
       }
     },
     {
@@ -3466,9 +3466,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/094.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/094.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/094.png"
+        "sprite": "src/assets/sprites/094.png",
+        "thumbnail": "src/assets/thumbnails/094.png",
+        "hires": "src/assets/hires/094.png"
       }
     },
     {
@@ -3503,9 +3503,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/095.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/095.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/095.png"
+        "sprite": "src/assets/sprites/095.png",
+        "thumbnail": "src/assets/thumbnails/095.png",
+        "hires": "src/assets/hires/095.png"
       }
     },
     {
@@ -3540,9 +3540,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/096.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/096.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/096.png"
+        "sprite": "src/assets/sprites/096.png",
+        "thumbnail": "src/assets/thumbnails/096.png",
+        "hires": "src/assets/hires/096.png"
       }
     },
     {
@@ -3577,9 +3577,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/097.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/097.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/097.png"
+        "sprite": "src/assets/sprites/097.png",
+        "thumbnail": "src/assets/thumbnails/097.png",
+        "hires": "src/assets/hires/097.png"
       }
     },
     {
@@ -3614,9 +3614,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/098.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/098.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/098.png"
+        "sprite": "src/assets/sprites/098.png",
+        "thumbnail": "src/assets/thumbnails/098.png",
+        "hires": "src/assets/hires/098.png"
       }
     },
     {
@@ -3651,9 +3651,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/099.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/099.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/099.png"
+        "sprite": "src/assets/sprites/099.png",
+        "thumbnail": "src/assets/thumbnails/099.png",
+        "hires": "src/assets/hires/099.png"
       }
     },
     {
@@ -3688,9 +3688,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/100.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/100.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/100.png"
+        "sprite": "src/assets/sprites/100.png",
+        "thumbnail": "src/assets/thumbnails/100.png",
+        "hires": "src/assets/hires/100.png"
       }
     },
     {
@@ -3725,9 +3725,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/101.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/101.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/101.png"
+        "sprite": "src/assets/sprites/101.png",
+        "thumbnail": "src/assets/thumbnails/101.png",
+        "hires": "src/assets/hires/101.png"
       }
     },
     {
@@ -3761,9 +3761,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/102.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/102.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/102.png"
+        "sprite": "src/assets/sprites/102.png",
+        "thumbnail": "src/assets/thumbnails/102.png",
+        "hires": "src/assets/hires/102.png"
       }
     },
     {
@@ -3797,9 +3797,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/103.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/103.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/103.png"
+        "sprite": "src/assets/sprites/103.png",
+        "thumbnail": "src/assets/thumbnails/103.png",
+        "hires": "src/assets/hires/103.png"
       }
     },
     {
@@ -3834,9 +3834,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/104.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/104.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/104.png"
+        "sprite": "src/assets/sprites/104.png",
+        "thumbnail": "src/assets/thumbnails/104.png",
+        "hires": "src/assets/hires/104.png"
       }
     },
     {
@@ -3871,9 +3871,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/105.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/105.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/105.png"
+        "sprite": "src/assets/sprites/105.png",
+        "thumbnail": "src/assets/thumbnails/105.png",
+        "hires": "src/assets/hires/105.png"
       }
     },
     {
@@ -3908,9 +3908,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/106.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/106.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/106.png"
+        "sprite": "src/assets/sprites/106.png",
+        "thumbnail": "src/assets/thumbnails/106.png",
+        "hires": "src/assets/hires/106.png"
       }
     },
     {
@@ -3945,9 +3945,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/107.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/107.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/107.png"
+        "sprite": "src/assets/sprites/107.png",
+        "thumbnail": "src/assets/thumbnails/107.png",
+        "hires": "src/assets/hires/107.png"
       }
     },
     {
@@ -3982,9 +3982,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/108.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/108.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/108.png"
+        "sprite": "src/assets/sprites/108.png",
+        "thumbnail": "src/assets/thumbnails/108.png",
+        "hires": "src/assets/hires/108.png"
       }
     },
     {
@@ -4015,9 +4015,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/109.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/109.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/109.png"
+        "sprite": "src/assets/sprites/109.png",
+        "thumbnail": "src/assets/thumbnails/109.png",
+        "hires": "src/assets/hires/109.png"
       }
     },
     {
@@ -4048,9 +4048,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/110.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/110.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/110.png"
+        "sprite": "src/assets/sprites/110.png",
+        "thumbnail": "src/assets/thumbnails/110.png",
+        "hires": "src/assets/hires/110.png"
       }
     },
     {
@@ -4085,9 +4085,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/111.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/111.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/111.png"
+        "sprite": "src/assets/sprites/111.png",
+        "thumbnail": "src/assets/thumbnails/111.png",
+        "hires": "src/assets/hires/111.png"
       }
     },
     {
@@ -4125,9 +4125,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/112.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/112.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/112.png"
+        "sprite": "src/assets/sprites/112.png",
+        "thumbnail": "src/assets/thumbnails/112.png",
+        "hires": "src/assets/hires/112.png"
       }
     },
     {
@@ -4165,9 +4165,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/113.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/113.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/113.png"
+        "sprite": "src/assets/sprites/113.png",
+        "thumbnail": "src/assets/thumbnails/113.png",
+        "hires": "src/assets/hires/113.png"
       }
     },
     {
@@ -4202,9 +4202,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/114.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/114.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/114.png"
+        "sprite": "src/assets/sprites/114.png",
+        "thumbnail": "src/assets/thumbnails/114.png",
+        "hires": "src/assets/hires/114.png"
       }
     },
     {
@@ -4239,9 +4239,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/115.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/115.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/115.png"
+        "sprite": "src/assets/sprites/115.png",
+        "thumbnail": "src/assets/thumbnails/115.png",
+        "hires": "src/assets/hires/115.png"
       }
     },
     {
@@ -4276,9 +4276,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/116.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/116.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/116.png"
+        "sprite": "src/assets/sprites/116.png",
+        "thumbnail": "src/assets/thumbnails/116.png",
+        "hires": "src/assets/hires/116.png"
       }
     },
     {
@@ -4316,9 +4316,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/117.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/117.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/117.png"
+        "sprite": "src/assets/sprites/117.png",
+        "thumbnail": "src/assets/thumbnails/117.png",
+        "hires": "src/assets/hires/117.png"
       }
     },
     {
@@ -4353,9 +4353,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/118.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/118.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/118.png"
+        "sprite": "src/assets/sprites/118.png",
+        "thumbnail": "src/assets/thumbnails/118.png",
+        "hires": "src/assets/hires/118.png"
       }
     },
     {
@@ -4390,9 +4390,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/119.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/119.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/119.png"
+        "sprite": "src/assets/sprites/119.png",
+        "thumbnail": "src/assets/thumbnails/119.png",
+        "hires": "src/assets/hires/119.png"
       }
     },
     {
@@ -4427,9 +4427,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/120.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/120.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/120.png"
+        "sprite": "src/assets/sprites/120.png",
+        "thumbnail": "src/assets/thumbnails/120.png",
+        "hires": "src/assets/hires/120.png"
       }
     },
     {
@@ -4464,9 +4464,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/121.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/121.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/121.png"
+        "sprite": "src/assets/sprites/121.png",
+        "thumbnail": "src/assets/thumbnails/121.png",
+        "hires": "src/assets/hires/121.png"
       }
     },
     {
@@ -4501,9 +4501,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/122.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/122.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/122.png"
+        "sprite": "src/assets/sprites/122.png",
+        "thumbnail": "src/assets/thumbnails/122.png",
+        "hires": "src/assets/hires/122.png"
       }
     },
     {
@@ -4538,9 +4538,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/123.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/123.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/123.png"
+        "sprite": "src/assets/sprites/123.png",
+        "thumbnail": "src/assets/thumbnails/123.png",
+        "hires": "src/assets/hires/123.png"
       }
     },
     {
@@ -4575,9 +4575,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/124.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/124.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/124.png"
+        "sprite": "src/assets/sprites/124.png",
+        "thumbnail": "src/assets/thumbnails/124.png",
+        "hires": "src/assets/hires/124.png"
       }
     },
     {
@@ -4614,9 +4614,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/125.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/125.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/125.png"
+        "sprite": "src/assets/sprites/125.png",
+        "thumbnail": "src/assets/thumbnails/125.png",
+        "hires": "src/assets/hires/125.png"
       }
     },
     {
@@ -4653,9 +4653,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/126.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/126.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/126.png"
+        "sprite": "src/assets/sprites/126.png",
+        "thumbnail": "src/assets/thumbnails/126.png",
+        "hires": "src/assets/hires/126.png"
       }
     },
     {
@@ -4690,9 +4690,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/127.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/127.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/127.png"
+        "sprite": "src/assets/sprites/127.png",
+        "thumbnail": "src/assets/thumbnails/127.png",
+        "hires": "src/assets/hires/127.png"
       }
     },
     {
@@ -4727,9 +4727,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/128.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/128.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/128.png"
+        "sprite": "src/assets/sprites/128.png",
+        "thumbnail": "src/assets/thumbnails/128.png",
+        "hires": "src/assets/hires/128.png"
       }
     },
     {
@@ -4763,9 +4763,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/129.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/129.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/129.png"
+        "sprite": "src/assets/sprites/129.png",
+        "thumbnail": "src/assets/thumbnails/129.png",
+        "hires": "src/assets/hires/129.png"
       }
     },
     {
@@ -4799,9 +4799,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/130.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/130.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/130.png"
+        "sprite": "src/assets/sprites/130.png",
+        "thumbnail": "src/assets/thumbnails/130.png",
+        "hires": "src/assets/hires/130.png"
       }
     },
     {
@@ -4836,9 +4836,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/131.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/131.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/131.png"
+        "sprite": "src/assets/sprites/131.png",
+        "thumbnail": "src/assets/thumbnails/131.png",
+        "hires": "src/assets/hires/131.png"
       }
     },
     {
@@ -4872,9 +4872,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/132.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/132.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/132.png"
+        "sprite": "src/assets/sprites/132.png",
+        "thumbnail": "src/assets/thumbnails/132.png",
+        "hires": "src/assets/hires/132.png"
       }
     },
     {
@@ -4920,9 +4920,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/133.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/133.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/133.png"
+        "sprite": "src/assets/sprites/133.png",
+        "thumbnail": "src/assets/thumbnails/133.png",
+        "hires": "src/assets/hires/133.png"
       }
     },
     {
@@ -4956,9 +4956,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/134.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/134.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/134.png"
+        "sprite": "src/assets/sprites/134.png",
+        "thumbnail": "src/assets/thumbnails/134.png",
+        "hires": "src/assets/hires/134.png"
       }
     },
     {
@@ -4992,9 +4992,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/135.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/135.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/135.png"
+        "sprite": "src/assets/sprites/135.png",
+        "thumbnail": "src/assets/thumbnails/135.png",
+        "hires": "src/assets/hires/135.png"
       }
     },
     {
@@ -5028,9 +5028,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/136.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/136.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/136.png"
+        "sprite": "src/assets/sprites/136.png",
+        "thumbnail": "src/assets/thumbnails/136.png",
+        "hires": "src/assets/hires/136.png"
       }
     },
     {
@@ -5065,9 +5065,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/137.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/137.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/137.png"
+        "sprite": "src/assets/sprites/137.png",
+        "thumbnail": "src/assets/thumbnails/137.png",
+        "hires": "src/assets/hires/137.png"
       }
     },
     {
@@ -5102,9 +5102,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/138.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/138.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/138.png"
+        "sprite": "src/assets/sprites/138.png",
+        "thumbnail": "src/assets/thumbnails/138.png",
+        "hires": "src/assets/hires/138.png"
       }
     },
     {
@@ -5139,9 +5139,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/139.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/139.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/139.png"
+        "sprite": "src/assets/sprites/139.png",
+        "thumbnail": "src/assets/thumbnails/139.png",
+        "hires": "src/assets/hires/139.png"
       }
     },
     {
@@ -5176,9 +5176,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/140.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/140.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/140.png"
+        "sprite": "src/assets/sprites/140.png",
+        "thumbnail": "src/assets/thumbnails/140.png",
+        "hires": "src/assets/hires/140.png"
       }
     },
     {
@@ -5213,9 +5213,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/141.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/141.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/141.png"
+        "sprite": "src/assets/sprites/141.png",
+        "thumbnail": "src/assets/thumbnails/141.png",
+        "hires": "src/assets/hires/141.png"
       }
     },
     {
@@ -5250,9 +5250,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/142.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/142.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/142.png"
+        "sprite": "src/assets/sprites/142.png",
+        "thumbnail": "src/assets/thumbnails/142.png",
+        "hires": "src/assets/hires/142.png"
       }
     },
     {
@@ -5287,9 +5287,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/143.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/143.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/143.png"
+        "sprite": "src/assets/sprites/143.png",
+        "thumbnail": "src/assets/thumbnails/143.png",
+        "hires": "src/assets/hires/143.png"
       }
     },
     {
@@ -5323,9 +5323,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/144.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/144.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/144.png"
+        "sprite": "src/assets/sprites/144.png",
+        "thumbnail": "src/assets/thumbnails/144.png",
+        "hires": "src/assets/hires/144.png"
       }
     },
     {
@@ -5359,9 +5359,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/145.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/145.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/145.png"
+        "sprite": "src/assets/sprites/145.png",
+        "thumbnail": "src/assets/thumbnails/145.png",
+        "hires": "src/assets/hires/145.png"
       }
     },
     {
@@ -5395,9 +5395,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/146.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/146.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/146.png"
+        "sprite": "src/assets/sprites/146.png",
+        "thumbnail": "src/assets/thumbnails/146.png",
+        "hires": "src/assets/hires/146.png"
       }
     },
     {
@@ -5431,9 +5431,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/147.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/147.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/147.png"
+        "sprite": "src/assets/sprites/147.png",
+        "thumbnail": "src/assets/thumbnails/147.png",
+        "hires": "src/assets/hires/147.png"
       }
     },
     {
@@ -5467,9 +5467,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/148.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/148.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/148.png"
+        "sprite": "src/assets/sprites/148.png",
+        "thumbnail": "src/assets/thumbnails/148.png",
+        "hires": "src/assets/hires/148.png"
       }
     },
     {
@@ -5503,9 +5503,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/149.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/149.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/149.png"
+        "sprite": "src/assets/sprites/149.png",
+        "thumbnail": "src/assets/thumbnails/149.png",
+        "hires": "src/assets/hires/149.png"
       }
     },
     {
@@ -5539,9 +5539,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/150.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/150.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+        "sprite": "src/assets/sprites/150.png",
+        "thumbnail": "src/assets/thumbnails/150.png",
+        "hires": "src/assets/hires/150.png"
       }
     },
     {
@@ -5572,9 +5572,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/151.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/151.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/151.png"
+        "sprite": "src/assets/sprites/151.png",
+        "thumbnail": "src/assets/thumbnails/151.png",
+        "hires": "src/assets/hires/151.png"
       }
     },
     {
@@ -5608,9 +5608,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/152.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/152.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/152.png"
+        "sprite": "src/assets/sprites/152.png",
+        "thumbnail": "src/assets/thumbnails/152.png",
+        "hires": "src/assets/hires/152.png"
       }
     },
     {
@@ -5644,9 +5644,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/153.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/153.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/153.png"
+        "sprite": "src/assets/sprites/153.png",
+        "thumbnail": "src/assets/thumbnails/153.png",
+        "hires": "src/assets/hires/153.png"
       }
     },
     {
@@ -5680,9 +5680,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/154.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/154.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/154.png"
+        "sprite": "src/assets/sprites/154.png",
+        "thumbnail": "src/assets/thumbnails/154.png",
+        "hires": "src/assets/hires/154.png"
       }
     },
     {
@@ -5716,9 +5716,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/155.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/155.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/155.png"
+        "sprite": "src/assets/sprites/155.png",
+        "thumbnail": "src/assets/thumbnails/155.png",
+        "hires": "src/assets/hires/155.png"
       }
     },
     {
@@ -5752,9 +5752,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/156.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/156.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/156.png"
+        "sprite": "src/assets/sprites/156.png",
+        "thumbnail": "src/assets/thumbnails/156.png",
+        "hires": "src/assets/hires/156.png"
       }
     },
     {
@@ -5788,9 +5788,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/157.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/157.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/157.png"
+        "sprite": "src/assets/sprites/157.png",
+        "thumbnail": "src/assets/thumbnails/157.png",
+        "hires": "src/assets/hires/157.png"
       }
     },
     {
@@ -5824,9 +5824,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/158.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/158.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/158.png"
+        "sprite": "src/assets/sprites/158.png",
+        "thumbnail": "src/assets/thumbnails/158.png",
+        "hires": "src/assets/hires/158.png"
       }
     },
     {
@@ -5860,9 +5860,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/159.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/159.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/159.png"
+        "sprite": "src/assets/sprites/159.png",
+        "thumbnail": "src/assets/thumbnails/159.png",
+        "hires": "src/assets/hires/159.png"
       }
     },
     {
@@ -5896,9 +5896,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/160.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/160.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/160.png"
+        "sprite": "src/assets/sprites/160.png",
+        "thumbnail": "src/assets/thumbnails/160.png",
+        "hires": "src/assets/hires/160.png"
       }
     },
     {
@@ -5933,9 +5933,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/161.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/161.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/161.png"
+        "sprite": "src/assets/sprites/161.png",
+        "thumbnail": "src/assets/thumbnails/161.png",
+        "hires": "src/assets/hires/161.png"
       }
     },
     {
@@ -5970,9 +5970,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/162.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/162.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/162.png"
+        "sprite": "src/assets/sprites/162.png",
+        "thumbnail": "src/assets/thumbnails/162.png",
+        "hires": "src/assets/hires/162.png"
       }
     },
     {
@@ -6007,9 +6007,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/163.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/163.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/163.png"
+        "sprite": "src/assets/sprites/163.png",
+        "thumbnail": "src/assets/thumbnails/163.png",
+        "hires": "src/assets/hires/163.png"
       }
     },
     {
@@ -6044,9 +6044,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/164.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/164.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/164.png"
+        "sprite": "src/assets/sprites/164.png",
+        "thumbnail": "src/assets/thumbnails/164.png",
+        "hires": "src/assets/hires/164.png"
       }
     },
     {
@@ -6081,9 +6081,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/165.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/165.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/165.png"
+        "sprite": "src/assets/sprites/165.png",
+        "thumbnail": "src/assets/thumbnails/165.png",
+        "hires": "src/assets/hires/165.png"
       }
     },
     {
@@ -6118,9 +6118,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/166.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/166.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/166.png"
+        "sprite": "src/assets/sprites/166.png",
+        "thumbnail": "src/assets/thumbnails/166.png",
+        "hires": "src/assets/hires/166.png"
       }
     },
     {
@@ -6155,9 +6155,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/167.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/167.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/167.png"
+        "sprite": "src/assets/sprites/167.png",
+        "thumbnail": "src/assets/thumbnails/167.png",
+        "hires": "src/assets/hires/167.png"
       }
     },
     {
@@ -6192,9 +6192,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/168.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/168.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/168.png"
+        "sprite": "src/assets/sprites/168.png",
+        "thumbnail": "src/assets/thumbnails/168.png",
+        "hires": "src/assets/hires/168.png"
       }
     },
     {
@@ -6228,9 +6228,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/169.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/169.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/169.png"
+        "sprite": "src/assets/sprites/169.png",
+        "thumbnail": "src/assets/thumbnails/169.png",
+        "hires": "src/assets/hires/169.png"
       }
     },
     {
@@ -6265,9 +6265,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/170.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/170.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/170.png"
+        "sprite": "src/assets/sprites/170.png",
+        "thumbnail": "src/assets/thumbnails/170.png",
+        "hires": "src/assets/hires/170.png"
       }
     },
     {
@@ -6302,9 +6302,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/171.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/171.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/171.png"
+        "sprite": "src/assets/sprites/171.png",
+        "thumbnail": "src/assets/thumbnails/171.png",
+        "hires": "src/assets/hires/171.png"
       }
     },
     {
@@ -6338,9 +6338,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/172.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/172.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/172.png"
+        "sprite": "src/assets/sprites/172.png",
+        "thumbnail": "src/assets/thumbnails/172.png",
+        "hires": "src/assets/hires/172.png"
       }
     },
     {
@@ -6375,9 +6375,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/173.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/173.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/173.png"
+        "sprite": "src/assets/sprites/173.png",
+        "thumbnail": "src/assets/thumbnails/173.png",
+        "hires": "src/assets/hires/173.png"
       }
     },
     {
@@ -6412,9 +6412,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/174.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/174.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/174.png"
+        "sprite": "src/assets/sprites/174.png",
+        "thumbnail": "src/assets/thumbnails/174.png",
+        "hires": "src/assets/hires/174.png"
       }
     },
     {
@@ -6449,9 +6449,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/175.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/175.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/175.png"
+        "sprite": "src/assets/sprites/175.png",
+        "thumbnail": "src/assets/thumbnails/175.png",
+        "hires": "src/assets/hires/175.png"
       }
     },
     {
@@ -6489,9 +6489,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/176.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/176.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/176.png"
+        "sprite": "src/assets/sprites/176.png",
+        "thumbnail": "src/assets/thumbnails/176.png",
+        "hires": "src/assets/hires/176.png"
       }
     },
     {
@@ -6526,9 +6526,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/177.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/177.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/177.png"
+        "sprite": "src/assets/sprites/177.png",
+        "thumbnail": "src/assets/thumbnails/177.png",
+        "hires": "src/assets/hires/177.png"
       }
     },
     {
@@ -6563,9 +6563,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/178.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/178.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/178.png"
+        "sprite": "src/assets/sprites/178.png",
+        "thumbnail": "src/assets/thumbnails/178.png",
+        "hires": "src/assets/hires/178.png"
       }
     },
     {
@@ -6599,9 +6599,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/179.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/179.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/179.png"
+        "sprite": "src/assets/sprites/179.png",
+        "thumbnail": "src/assets/thumbnails/179.png",
+        "hires": "src/assets/hires/179.png"
       }
     },
     {
@@ -6635,9 +6635,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/180.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/180.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/180.png"
+        "sprite": "src/assets/sprites/180.png",
+        "thumbnail": "src/assets/thumbnails/180.png",
+        "hires": "src/assets/hires/180.png"
       }
     },
     {
@@ -6671,9 +6671,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/181.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/181.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/181.png"
+        "sprite": "src/assets/sprites/181.png",
+        "thumbnail": "src/assets/thumbnails/181.png",
+        "hires": "src/assets/hires/181.png"
       }
     },
     {
@@ -6707,9 +6707,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/182.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/182.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/182.png"
+        "sprite": "src/assets/sprites/182.png",
+        "thumbnail": "src/assets/thumbnails/182.png",
+        "hires": "src/assets/hires/182.png"
       }
     },
     {
@@ -6747,9 +6747,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/183.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/183.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/183.png"
+        "sprite": "src/assets/sprites/183.png",
+        "thumbnail": "src/assets/thumbnails/183.png",
+        "hires": "src/assets/hires/183.png"
       }
     },
     {
@@ -6784,9 +6784,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/184.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/184.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/184.png"
+        "sprite": "src/assets/sprites/184.png",
+        "thumbnail": "src/assets/thumbnails/184.png",
+        "hires": "src/assets/hires/184.png"
       }
     },
     {
@@ -6821,9 +6821,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/185.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/185.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/185.png"
+        "sprite": "src/assets/sprites/185.png",
+        "thumbnail": "src/assets/thumbnails/185.png",
+        "hires": "src/assets/hires/185.png"
       }
     },
     {
@@ -6858,9 +6858,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/186.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/186.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/186.png"
+        "sprite": "src/assets/sprites/186.png",
+        "thumbnail": "src/assets/thumbnails/186.png",
+        "hires": "src/assets/hires/186.png"
       }
     },
     {
@@ -6895,9 +6895,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/187.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/187.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/187.png"
+        "sprite": "src/assets/sprites/187.png",
+        "thumbnail": "src/assets/thumbnails/187.png",
+        "hires": "src/assets/hires/187.png"
       }
     },
     {
@@ -6932,9 +6932,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/188.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/188.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/188.png"
+        "sprite": "src/assets/sprites/188.png",
+        "thumbnail": "src/assets/thumbnails/188.png",
+        "hires": "src/assets/hires/188.png"
       }
     },
     {
@@ -6969,9 +6969,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/189.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/189.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/189.png"
+        "sprite": "src/assets/sprites/189.png",
+        "thumbnail": "src/assets/thumbnails/189.png",
+        "hires": "src/assets/hires/189.png"
       }
     },
     {
@@ -7006,9 +7006,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/190.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/190.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/190.png"
+        "sprite": "src/assets/sprites/190.png",
+        "thumbnail": "src/assets/thumbnails/190.png",
+        "hires": "src/assets/hires/190.png"
       }
     },
     {
@@ -7043,9 +7043,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/191.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/191.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/191.png"
+        "sprite": "src/assets/sprites/191.png",
+        "thumbnail": "src/assets/thumbnails/191.png",
+        "hires": "src/assets/hires/191.png"
       }
     },
     {
@@ -7080,9 +7080,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/192.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/192.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/192.png"
+        "sprite": "src/assets/sprites/192.png",
+        "thumbnail": "src/assets/thumbnails/192.png",
+        "hires": "src/assets/hires/192.png"
       }
     },
     {
@@ -7117,9 +7117,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/193.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/193.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/193.png"
+        "sprite": "src/assets/sprites/193.png",
+        "thumbnail": "src/assets/thumbnails/193.png",
+        "hires": "src/assets/hires/193.png"
       }
     },
     {
@@ -7154,9 +7154,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/194.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/194.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/194.png"
+        "sprite": "src/assets/sprites/194.png",
+        "thumbnail": "src/assets/thumbnails/194.png",
+        "hires": "src/assets/hires/194.png"
       }
     },
     {
@@ -7191,9 +7191,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/195.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/195.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/195.png"
+        "sprite": "src/assets/sprites/195.png",
+        "thumbnail": "src/assets/thumbnails/195.png",
+        "hires": "src/assets/hires/195.png"
       }
     },
     {
@@ -7227,9 +7227,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/196.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/196.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/196.png"
+        "sprite": "src/assets/sprites/196.png",
+        "thumbnail": "src/assets/thumbnails/196.png",
+        "hires": "src/assets/hires/196.png"
       }
     },
     {
@@ -7263,9 +7263,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/197.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/197.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/197.png"
+        "sprite": "src/assets/sprites/197.png",
+        "thumbnail": "src/assets/thumbnails/197.png",
+        "hires": "src/assets/hires/197.png"
       }
     },
     {
@@ -7300,9 +7300,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/198.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/198.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/198.png"
+        "sprite": "src/assets/sprites/198.png",
+        "thumbnail": "src/assets/thumbnails/198.png",
+        "hires": "src/assets/hires/198.png"
       }
     },
     {
@@ -7337,9 +7337,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/199.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/199.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/199.png"
+        "sprite": "src/assets/sprites/199.png",
+        "thumbnail": "src/assets/thumbnails/199.png",
+        "hires": "src/assets/hires/199.png"
       }
     },
     {
@@ -7370,9 +7370,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/200.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/200.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/200.png"
+        "sprite": "src/assets/sprites/200.png",
+        "thumbnail": "src/assets/thumbnails/200.png",
+        "hires": "src/assets/hires/200.png"
       }
     },
     {
@@ -7403,9 +7403,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/201.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/201.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/201.png"
+        "sprite": "src/assets/sprites/201.png",
+        "thumbnail": "src/assets/thumbnails/201.png",
+        "hires": "src/assets/hires/201.png"
       }
     },
     {
@@ -7439,9 +7439,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/202.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/202.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/202.png"
+        "sprite": "src/assets/sprites/202.png",
+        "thumbnail": "src/assets/thumbnails/202.png",
+        "hires": "src/assets/hires/202.png"
       }
     },
     {
@@ -7476,9 +7476,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/203.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/203.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/203.png"
+        "sprite": "src/assets/sprites/203.png",
+        "thumbnail": "src/assets/thumbnails/203.png",
+        "hires": "src/assets/hires/203.png"
       }
     },
     {
@@ -7512,9 +7512,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/204.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/204.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/204.png"
+        "sprite": "src/assets/sprites/204.png",
+        "thumbnail": "src/assets/thumbnails/204.png",
+        "hires": "src/assets/hires/204.png"
       }
     },
     {
@@ -7548,9 +7548,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/205.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/205.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/205.png"
+        "sprite": "src/assets/sprites/205.png",
+        "thumbnail": "src/assets/thumbnails/205.png",
+        "hires": "src/assets/hires/205.png"
       }
     },
     {
@@ -7585,9 +7585,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/206.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/206.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/206.png"
+        "sprite": "src/assets/sprites/206.png",
+        "thumbnail": "src/assets/thumbnails/206.png",
+        "hires": "src/assets/hires/206.png"
       }
     },
     {
@@ -7622,9 +7622,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/207.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/207.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/207.png"
+        "sprite": "src/assets/sprites/207.png",
+        "thumbnail": "src/assets/thumbnails/207.png",
+        "hires": "src/assets/hires/207.png"
       }
     },
     {
@@ -7659,9 +7659,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/208.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/208.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/208.png"
+        "sprite": "src/assets/sprites/208.png",
+        "thumbnail": "src/assets/thumbnails/208.png",
+        "hires": "src/assets/hires/208.png"
       }
     },
     {
@@ -7696,9 +7696,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/209.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/209.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/209.png"
+        "sprite": "src/assets/sprites/209.png",
+        "thumbnail": "src/assets/thumbnails/209.png",
+        "hires": "src/assets/hires/209.png"
       }
     },
     {
@@ -7733,9 +7733,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/210.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/210.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/210.png"
+        "sprite": "src/assets/sprites/210.png",
+        "thumbnail": "src/assets/thumbnails/210.png",
+        "hires": "src/assets/hires/210.png"
       }
     },
     {
@@ -7770,9 +7770,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/211.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/211.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/211.png"
+        "sprite": "src/assets/sprites/211.png",
+        "thumbnail": "src/assets/thumbnails/211.png",
+        "hires": "src/assets/hires/211.png"
       }
     },
     {
@@ -7807,9 +7807,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/212.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/212.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/212.png"
+        "sprite": "src/assets/sprites/212.png",
+        "thumbnail": "src/assets/thumbnails/212.png",
+        "hires": "src/assets/hires/212.png"
       }
     },
     {
@@ -7844,9 +7844,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/213.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/213.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/213.png"
+        "sprite": "src/assets/sprites/213.png",
+        "thumbnail": "src/assets/thumbnails/213.png",
+        "hires": "src/assets/hires/213.png"
       }
     },
     {
@@ -7881,9 +7881,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/214.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/214.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/214.png"
+        "sprite": "src/assets/sprites/214.png",
+        "thumbnail": "src/assets/thumbnails/214.png",
+        "hires": "src/assets/hires/214.png"
       }
     },
     {
@@ -7918,9 +7918,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/215.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/215.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/215.png"
+        "sprite": "src/assets/sprites/215.png",
+        "thumbnail": "src/assets/thumbnails/215.png",
+        "hires": "src/assets/hires/215.png"
       }
     },
     {
@@ -7955,9 +7955,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/216.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/216.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/216.png"
+        "sprite": "src/assets/sprites/216.png",
+        "thumbnail": "src/assets/thumbnails/216.png",
+        "hires": "src/assets/hires/216.png"
       }
     },
     {
@@ -7992,9 +7992,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/217.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/217.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/217.png"
+        "sprite": "src/assets/sprites/217.png",
+        "thumbnail": "src/assets/thumbnails/217.png",
+        "hires": "src/assets/hires/217.png"
       }
     },
     {
@@ -8029,9 +8029,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/218.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/218.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/218.png"
+        "sprite": "src/assets/sprites/218.png",
+        "thumbnail": "src/assets/thumbnails/218.png",
+        "hires": "src/assets/hires/218.png"
       }
     },
     {
@@ -8066,9 +8066,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/219.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/219.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/219.png"
+        "sprite": "src/assets/sprites/219.png",
+        "thumbnail": "src/assets/thumbnails/219.png",
+        "hires": "src/assets/hires/219.png"
       }
     },
     {
@@ -8103,9 +8103,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/220.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/220.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/220.png"
+        "sprite": "src/assets/sprites/220.png",
+        "thumbnail": "src/assets/thumbnails/220.png",
+        "hires": "src/assets/hires/220.png"
       }
     },
     {
@@ -8143,9 +8143,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/221.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/221.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/221.png"
+        "sprite": "src/assets/sprites/221.png",
+        "thumbnail": "src/assets/thumbnails/221.png",
+        "hires": "src/assets/hires/221.png"
       }
     },
     {
@@ -8180,9 +8180,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/222.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/222.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/222.png"
+        "sprite": "src/assets/sprites/222.png",
+        "thumbnail": "src/assets/thumbnails/222.png",
+        "hires": "src/assets/hires/222.png"
       }
     },
     {
@@ -8217,9 +8217,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/223.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/223.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/223.png"
+        "sprite": "src/assets/sprites/223.png",
+        "thumbnail": "src/assets/thumbnails/223.png",
+        "hires": "src/assets/hires/223.png"
       }
     },
     {
@@ -8254,9 +8254,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/224.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/224.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/224.png"
+        "sprite": "src/assets/sprites/224.png",
+        "thumbnail": "src/assets/thumbnails/224.png",
+        "hires": "src/assets/hires/224.png"
       }
     },
     {
@@ -8291,9 +8291,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/225.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/225.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/225.png"
+        "sprite": "src/assets/sprites/225.png",
+        "thumbnail": "src/assets/thumbnails/225.png",
+        "hires": "src/assets/hires/225.png"
       }
     },
     {
@@ -8328,9 +8328,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/226.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/226.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/226.png"
+        "sprite": "src/assets/sprites/226.png",
+        "thumbnail": "src/assets/thumbnails/226.png",
+        "hires": "src/assets/hires/226.png"
       }
     },
     {
@@ -8365,9 +8365,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/227.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/227.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/227.png"
+        "sprite": "src/assets/sprites/227.png",
+        "thumbnail": "src/assets/thumbnails/227.png",
+        "hires": "src/assets/hires/227.png"
       }
     },
     {
@@ -8402,9 +8402,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/228.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/228.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/228.png"
+        "sprite": "src/assets/sprites/228.png",
+        "thumbnail": "src/assets/thumbnails/228.png",
+        "hires": "src/assets/hires/228.png"
       }
     },
     {
@@ -8439,9 +8439,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/229.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/229.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/229.png"
+        "sprite": "src/assets/sprites/229.png",
+        "thumbnail": "src/assets/thumbnails/229.png",
+        "hires": "src/assets/hires/229.png"
       }
     },
     {
@@ -8476,9 +8476,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/230.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/230.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/230.png"
+        "sprite": "src/assets/sprites/230.png",
+        "thumbnail": "src/assets/thumbnails/230.png",
+        "hires": "src/assets/hires/230.png"
       }
     },
     {
@@ -8512,9 +8512,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/231.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/231.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/231.png"
+        "sprite": "src/assets/sprites/231.png",
+        "thumbnail": "src/assets/thumbnails/231.png",
+        "hires": "src/assets/hires/231.png"
       }
     },
     {
@@ -8548,9 +8548,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/232.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/232.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/232.png"
+        "sprite": "src/assets/sprites/232.png",
+        "thumbnail": "src/assets/thumbnails/232.png",
+        "hires": "src/assets/hires/232.png"
       }
     },
     {
@@ -8588,9 +8588,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/233.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/233.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/233.png"
+        "sprite": "src/assets/sprites/233.png",
+        "thumbnail": "src/assets/thumbnails/233.png",
+        "hires": "src/assets/hires/233.png"
       }
     },
     {
@@ -8625,9 +8625,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/234.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/234.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/234.png"
+        "sprite": "src/assets/sprites/234.png",
+        "thumbnail": "src/assets/thumbnails/234.png",
+        "hires": "src/assets/hires/234.png"
       }
     },
     {
@@ -8662,9 +8662,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/235.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/235.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/235.png"
+        "sprite": "src/assets/sprites/235.png",
+        "thumbnail": "src/assets/thumbnails/235.png",
+        "hires": "src/assets/hires/235.png"
       }
     },
     {
@@ -8705,9 +8705,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/236.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/236.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/236.png"
+        "sprite": "src/assets/sprites/236.png",
+        "thumbnail": "src/assets/thumbnails/236.png",
+        "hires": "src/assets/hires/236.png"
       }
     },
     {
@@ -8742,9 +8742,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/237.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/237.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/237.png"
+        "sprite": "src/assets/sprites/237.png",
+        "thumbnail": "src/assets/thumbnails/237.png",
+        "hires": "src/assets/hires/237.png"
       }
     },
     {
@@ -8779,9 +8779,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/238.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/238.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/238.png"
+        "sprite": "src/assets/sprites/238.png",
+        "thumbnail": "src/assets/thumbnails/238.png",
+        "hires": "src/assets/hires/238.png"
       }
     },
     {
@@ -8815,9 +8815,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/239.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/239.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/239.png"
+        "sprite": "src/assets/sprites/239.png",
+        "thumbnail": "src/assets/thumbnails/239.png",
+        "hires": "src/assets/hires/239.png"
       }
     },
     {
@@ -8851,9 +8851,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/240.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/240.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/240.png"
+        "sprite": "src/assets/sprites/240.png",
+        "thumbnail": "src/assets/thumbnails/240.png",
+        "hires": "src/assets/hires/240.png"
       }
     },
     {
@@ -8888,9 +8888,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/241.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/241.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/241.png"
+        "sprite": "src/assets/sprites/241.png",
+        "thumbnail": "src/assets/thumbnails/241.png",
+        "hires": "src/assets/hires/241.png"
       }
     },
     {
@@ -8925,9 +8925,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/242.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/242.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/242.png"
+        "sprite": "src/assets/sprites/242.png",
+        "thumbnail": "src/assets/thumbnails/242.png",
+        "hires": "src/assets/hires/242.png"
       }
     },
     {
@@ -8961,9 +8961,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/243.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/243.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/243.png"
+        "sprite": "src/assets/sprites/243.png",
+        "thumbnail": "src/assets/thumbnails/243.png",
+        "hires": "src/assets/hires/243.png"
       }
     },
     {
@@ -8997,9 +8997,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/244.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/244.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/244.png"
+        "sprite": "src/assets/sprites/244.png",
+        "thumbnail": "src/assets/thumbnails/244.png",
+        "hires": "src/assets/hires/244.png"
       }
     },
     {
@@ -9033,9 +9033,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/245.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/245.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/245.png"
+        "sprite": "src/assets/sprites/245.png",
+        "thumbnail": "src/assets/thumbnails/245.png",
+        "hires": "src/assets/hires/245.png"
       }
     },
     {
@@ -9069,9 +9069,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/246.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/246.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/246.png"
+        "sprite": "src/assets/sprites/246.png",
+        "thumbnail": "src/assets/thumbnails/246.png",
+        "hires": "src/assets/hires/246.png"
       }
     },
     {
@@ -9102,9 +9102,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/247.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/247.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/247.png"
+        "sprite": "src/assets/sprites/247.png",
+        "thumbnail": "src/assets/thumbnails/247.png",
+        "hires": "src/assets/hires/247.png"
       }
     },
     {
@@ -9138,9 +9138,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/248.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/248.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/248.png"
+        "sprite": "src/assets/sprites/248.png",
+        "thumbnail": "src/assets/thumbnails/248.png",
+        "hires": "src/assets/hires/248.png"
       }
     },
     {
@@ -9174,9 +9174,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/249.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/249.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/249.png"
+        "sprite": "src/assets/sprites/249.png",
+        "thumbnail": "src/assets/thumbnails/249.png",
+        "hires": "src/assets/hires/249.png"
       }
     },
     {
@@ -9210,9 +9210,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/250.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/250.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/250.png"
+        "sprite": "src/assets/sprites/250.png",
+        "thumbnail": "src/assets/thumbnails/250.png",
+        "hires": "src/assets/hires/250.png"
       }
     },
     {
@@ -9243,9 +9243,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/251.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/251.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/251.png"
+        "sprite": "src/assets/sprites/251.png",
+        "thumbnail": "src/assets/thumbnails/251.png",
+        "hires": "src/assets/hires/251.png"
       }
     },
     {
@@ -9279,9 +9279,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/252.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/252.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/252.png"
+        "sprite": "src/assets/sprites/252.png",
+        "thumbnail": "src/assets/thumbnails/252.png",
+        "hires": "src/assets/hires/252.png"
       }
     },
     {
@@ -9315,9 +9315,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/253.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/253.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/253.png"
+        "sprite": "src/assets/sprites/253.png",
+        "thumbnail": "src/assets/thumbnails/253.png",
+        "hires": "src/assets/hires/253.png"
       }
     },
     {
@@ -9351,9 +9351,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/254.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/254.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/254.png"
+        "sprite": "src/assets/sprites/254.png",
+        "thumbnail": "src/assets/thumbnails/254.png",
+        "hires": "src/assets/hires/254.png"
       }
     },
     {
@@ -9387,9 +9387,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/255.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/255.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/255.png"
+        "sprite": "src/assets/sprites/255.png",
+        "thumbnail": "src/assets/thumbnails/255.png",
+        "hires": "src/assets/hires/255.png"
       }
     },
     {
@@ -9423,9 +9423,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/256.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/256.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/256.png"
+        "sprite": "src/assets/sprites/256.png",
+        "thumbnail": "src/assets/thumbnails/256.png",
+        "hires": "src/assets/hires/256.png"
       }
     },
     {
@@ -9459,9 +9459,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/257.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/257.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/257.png"
+        "sprite": "src/assets/sprites/257.png",
+        "thumbnail": "src/assets/thumbnails/257.png",
+        "hires": "src/assets/hires/257.png"
       }
     },
     {
@@ -9495,9 +9495,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/258.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/258.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/258.png"
+        "sprite": "src/assets/sprites/258.png",
+        "thumbnail": "src/assets/thumbnails/258.png",
+        "hires": "src/assets/hires/258.png"
       }
     },
     {
@@ -9531,9 +9531,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/259.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/259.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/259.png"
+        "sprite": "src/assets/sprites/259.png",
+        "thumbnail": "src/assets/thumbnails/259.png",
+        "hires": "src/assets/hires/259.png"
       }
     },
     {
@@ -9567,9 +9567,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/260.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/260.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/260.png"
+        "sprite": "src/assets/sprites/260.png",
+        "thumbnail": "src/assets/thumbnails/260.png",
+        "hires": "src/assets/hires/260.png"
       }
     },
     {
@@ -9604,9 +9604,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/261.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/261.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/261.png"
+        "sprite": "src/assets/sprites/261.png",
+        "thumbnail": "src/assets/thumbnails/261.png",
+        "hires": "src/assets/hires/261.png"
       }
     },
     {
@@ -9641,9 +9641,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/262.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/262.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/262.png"
+        "sprite": "src/assets/sprites/262.png",
+        "thumbnail": "src/assets/thumbnails/262.png",
+        "hires": "src/assets/hires/262.png"
       }
     },
     {
@@ -9678,9 +9678,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/263.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/263.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/263.png"
+        "sprite": "src/assets/sprites/263.png",
+        "thumbnail": "src/assets/thumbnails/263.png",
+        "hires": "src/assets/hires/263.png"
       }
     },
     {
@@ -9718,9 +9718,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/264.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/264.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/264.png"
+        "sprite": "src/assets/sprites/264.png",
+        "thumbnail": "src/assets/thumbnails/264.png",
+        "hires": "src/assets/hires/264.png"
       }
     },
     {
@@ -9759,9 +9759,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/265.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/265.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/265.png"
+        "sprite": "src/assets/sprites/265.png",
+        "thumbnail": "src/assets/thumbnails/265.png",
+        "hires": "src/assets/hires/265.png"
       }
     },
     {
@@ -9795,9 +9795,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/266.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/266.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/266.png"
+        "sprite": "src/assets/sprites/266.png",
+        "thumbnail": "src/assets/thumbnails/266.png",
+        "hires": "src/assets/hires/266.png"
       }
     },
     {
@@ -9831,9 +9831,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/267.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/267.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/267.png"
+        "sprite": "src/assets/sprites/267.png",
+        "thumbnail": "src/assets/thumbnails/267.png",
+        "hires": "src/assets/hires/267.png"
       }
     },
     {
@@ -9867,9 +9867,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/268.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/268.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/268.png"
+        "sprite": "src/assets/sprites/268.png",
+        "thumbnail": "src/assets/thumbnails/268.png",
+        "hires": "src/assets/hires/268.png"
       }
     },
     {
@@ -9903,9 +9903,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/269.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/269.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/269.png"
+        "sprite": "src/assets/sprites/269.png",
+        "thumbnail": "src/assets/thumbnails/269.png",
+        "hires": "src/assets/hires/269.png"
       }
     },
     {
@@ -9940,9 +9940,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/270.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/270.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/270.png"
+        "sprite": "src/assets/sprites/270.png",
+        "thumbnail": "src/assets/thumbnails/270.png",
+        "hires": "src/assets/hires/270.png"
       }
     },
     {
@@ -9980,9 +9980,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/271.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/271.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/271.png"
+        "sprite": "src/assets/sprites/271.png",
+        "thumbnail": "src/assets/thumbnails/271.png",
+        "hires": "src/assets/hires/271.png"
       }
     },
     {
@@ -10017,9 +10017,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/272.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/272.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/272.png"
+        "sprite": "src/assets/sprites/272.png",
+        "thumbnail": "src/assets/thumbnails/272.png",
+        "hires": "src/assets/hires/272.png"
       }
     },
     {
@@ -10054,9 +10054,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/273.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/273.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/273.png"
+        "sprite": "src/assets/sprites/273.png",
+        "thumbnail": "src/assets/thumbnails/273.png",
+        "hires": "src/assets/hires/273.png"
       }
     },
     {
@@ -10094,9 +10094,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/274.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/274.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/274.png"
+        "sprite": "src/assets/sprites/274.png",
+        "thumbnail": "src/assets/thumbnails/274.png",
+        "hires": "src/assets/hires/274.png"
       }
     },
     {
@@ -10131,9 +10131,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/275.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/275.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/275.png"
+        "sprite": "src/assets/sprites/275.png",
+        "thumbnail": "src/assets/thumbnails/275.png",
+        "hires": "src/assets/hires/275.png"
       }
     },
     {
@@ -10167,9 +10167,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/276.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/276.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/276.png"
+        "sprite": "src/assets/sprites/276.png",
+        "thumbnail": "src/assets/thumbnails/276.png",
+        "hires": "src/assets/hires/276.png"
       }
     },
     {
@@ -10203,9 +10203,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/277.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/277.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/277.png"
+        "sprite": "src/assets/sprites/277.png",
+        "thumbnail": "src/assets/thumbnails/277.png",
+        "hires": "src/assets/hires/277.png"
       }
     },
     {
@@ -10240,9 +10240,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/278.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/278.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/278.png"
+        "sprite": "src/assets/sprites/278.png",
+        "thumbnail": "src/assets/thumbnails/278.png",
+        "hires": "src/assets/hires/278.png"
       }
     },
     {
@@ -10277,9 +10277,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/279.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/279.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/279.png"
+        "sprite": "src/assets/sprites/279.png",
+        "thumbnail": "src/assets/thumbnails/279.png",
+        "hires": "src/assets/hires/279.png"
       }
     },
     {
@@ -10314,9 +10314,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/280.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/280.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/280.png"
+        "sprite": "src/assets/sprites/280.png",
+        "thumbnail": "src/assets/thumbnails/280.png",
+        "hires": "src/assets/hires/280.png"
       }
     },
     {
@@ -10351,9 +10351,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/281.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/281.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/281.png"
+        "sprite": "src/assets/sprites/281.png",
+        "thumbnail": "src/assets/thumbnails/281.png",
+        "hires": "src/assets/hires/281.png"
       }
     },
     {
@@ -10388,9 +10388,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/282.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/282.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/282.png"
+        "sprite": "src/assets/sprites/282.png",
+        "thumbnail": "src/assets/thumbnails/282.png",
+        "hires": "src/assets/hires/282.png"
       }
     },
     {
@@ -10424,9 +10424,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/283.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/283.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/283.png"
+        "sprite": "src/assets/sprites/283.png",
+        "thumbnail": "src/assets/thumbnails/283.png",
+        "hires": "src/assets/hires/283.png"
       }
     },
     {
@@ -10460,9 +10460,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/284.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/284.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/284.png"
+        "sprite": "src/assets/sprites/284.png",
+        "thumbnail": "src/assets/thumbnails/284.png",
+        "hires": "src/assets/hires/284.png"
       }
     },
     {
@@ -10497,9 +10497,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/285.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/285.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/285.png"
+        "sprite": "src/assets/sprites/285.png",
+        "thumbnail": "src/assets/thumbnails/285.png",
+        "hires": "src/assets/hires/285.png"
       }
     },
     {
@@ -10534,9 +10534,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/286.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/286.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/286.png"
+        "sprite": "src/assets/sprites/286.png",
+        "thumbnail": "src/assets/thumbnails/286.png",
+        "hires": "src/assets/hires/286.png"
       }
     },
     {
@@ -10567,9 +10567,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/287.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/287.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/287.png"
+        "sprite": "src/assets/sprites/287.png",
+        "thumbnail": "src/assets/thumbnails/287.png",
+        "hires": "src/assets/hires/287.png"
       }
     },
     {
@@ -10600,9 +10600,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/288.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/288.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/288.png"
+        "sprite": "src/assets/sprites/288.png",
+        "thumbnail": "src/assets/thumbnails/288.png",
+        "hires": "src/assets/hires/288.png"
       }
     },
     {
@@ -10633,9 +10633,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/289.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/289.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/289.png"
+        "sprite": "src/assets/sprites/289.png",
+        "thumbnail": "src/assets/thumbnails/289.png",
+        "hires": "src/assets/hires/289.png"
       }
     },
     {
@@ -10674,9 +10674,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/290.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/290.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/290.png"
+        "sprite": "src/assets/sprites/290.png",
+        "thumbnail": "src/assets/thumbnails/290.png",
+        "hires": "src/assets/hires/290.png"
       }
     },
     {
@@ -10710,9 +10710,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/291.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/291.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/291.png"
+        "sprite": "src/assets/sprites/291.png",
+        "thumbnail": "src/assets/thumbnails/291.png",
+        "hires": "src/assets/hires/291.png"
       }
     },
     {
@@ -10745,9 +10745,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/292.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/292.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/292.png"
+        "sprite": "src/assets/sprites/292.png",
+        "thumbnail": "src/assets/thumbnails/292.png",
+        "hires": "src/assets/hires/292.png"
       }
     },
     {
@@ -10781,9 +10781,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/293.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/293.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/293.png"
+        "sprite": "src/assets/sprites/293.png",
+        "thumbnail": "src/assets/thumbnails/293.png",
+        "hires": "src/assets/hires/293.png"
       }
     },
     {
@@ -10817,9 +10817,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/294.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/294.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/294.png"
+        "sprite": "src/assets/sprites/294.png",
+        "thumbnail": "src/assets/thumbnails/294.png",
+        "hires": "src/assets/hires/294.png"
       }
     },
     {
@@ -10853,9 +10853,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/295.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/295.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/295.png"
+        "sprite": "src/assets/sprites/295.png",
+        "thumbnail": "src/assets/thumbnails/295.png",
+        "hires": "src/assets/hires/295.png"
       }
     },
     {
@@ -10890,9 +10890,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/296.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/296.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/296.png"
+        "sprite": "src/assets/sprites/296.png",
+        "thumbnail": "src/assets/thumbnails/296.png",
+        "hires": "src/assets/hires/296.png"
       }
     },
     {
@@ -10927,9 +10927,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/297.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/297.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/297.png"
+        "sprite": "src/assets/sprites/297.png",
+        "thumbnail": "src/assets/thumbnails/297.png",
+        "hires": "src/assets/hires/297.png"
       }
     },
     {
@@ -10964,9 +10964,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/298.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/298.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/298.png"
+        "sprite": "src/assets/sprites/298.png",
+        "thumbnail": "src/assets/thumbnails/298.png",
+        "hires": "src/assets/hires/298.png"
       }
     },
     {
@@ -11001,9 +11001,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/299.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/299.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/299.png"
+        "sprite": "src/assets/sprites/299.png",
+        "thumbnail": "src/assets/thumbnails/299.png",
+        "hires": "src/assets/hires/299.png"
       }
     },
     {
@@ -11038,9 +11038,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/300.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/300.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/300.png"
+        "sprite": "src/assets/sprites/300.png",
+        "thumbnail": "src/assets/thumbnails/300.png",
+        "hires": "src/assets/hires/300.png"
       }
     },
     {
@@ -11075,9 +11075,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/301.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/301.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/301.png"
+        "sprite": "src/assets/sprites/301.png",
+        "thumbnail": "src/assets/thumbnails/301.png",
+        "hires": "src/assets/hires/301.png"
       }
     },
     {
@@ -11112,9 +11112,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/302.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/302.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/302.png"
+        "sprite": "src/assets/sprites/302.png",
+        "thumbnail": "src/assets/thumbnails/302.png",
+        "hires": "src/assets/hires/302.png"
       }
     },
     {
@@ -11149,9 +11149,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/303.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/303.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/303.png"
+        "sprite": "src/assets/sprites/303.png",
+        "thumbnail": "src/assets/thumbnails/303.png",
+        "hires": "src/assets/hires/303.png"
       }
     },
     {
@@ -11186,9 +11186,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/304.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/304.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/304.png"
+        "sprite": "src/assets/sprites/304.png",
+        "thumbnail": "src/assets/thumbnails/304.png",
+        "hires": "src/assets/hires/304.png"
       }
     },
     {
@@ -11223,9 +11223,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/305.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/305.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/305.png"
+        "sprite": "src/assets/sprites/305.png",
+        "thumbnail": "src/assets/thumbnails/305.png",
+        "hires": "src/assets/hires/305.png"
       }
     },
     {
@@ -11260,9 +11260,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/306.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/306.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/306.png"
+        "sprite": "src/assets/sprites/306.png",
+        "thumbnail": "src/assets/thumbnails/306.png",
+        "hires": "src/assets/hires/306.png"
       }
     },
     {
@@ -11296,9 +11296,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/307.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/307.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/307.png"
+        "sprite": "src/assets/sprites/307.png",
+        "thumbnail": "src/assets/thumbnails/307.png",
+        "hires": "src/assets/hires/307.png"
       }
     },
     {
@@ -11332,9 +11332,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/308.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/308.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/308.png"
+        "sprite": "src/assets/sprites/308.png",
+        "thumbnail": "src/assets/thumbnails/308.png",
+        "hires": "src/assets/hires/308.png"
       }
     },
     {
@@ -11369,9 +11369,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/309.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/309.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/309.png"
+        "sprite": "src/assets/sprites/309.png",
+        "thumbnail": "src/assets/thumbnails/309.png",
+        "hires": "src/assets/hires/309.png"
       }
     },
     {
@@ -11406,9 +11406,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/310.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/310.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/310.png"
+        "sprite": "src/assets/sprites/310.png",
+        "thumbnail": "src/assets/thumbnails/310.png",
+        "hires": "src/assets/hires/310.png"
       }
     },
     {
@@ -11442,9 +11442,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/311.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/311.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/311.png"
+        "sprite": "src/assets/sprites/311.png",
+        "thumbnail": "src/assets/thumbnails/311.png",
+        "hires": "src/assets/hires/311.png"
       }
     },
     {
@@ -11478,9 +11478,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/312.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/312.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/312.png"
+        "sprite": "src/assets/sprites/312.png",
+        "thumbnail": "src/assets/thumbnails/312.png",
+        "hires": "src/assets/hires/312.png"
       }
     },
     {
@@ -11515,9 +11515,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/313.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/313.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/313.png"
+        "sprite": "src/assets/sprites/313.png",
+        "thumbnail": "src/assets/thumbnails/313.png",
+        "hires": "src/assets/hires/313.png"
       }
     },
     {
@@ -11552,9 +11552,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/314.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/314.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/314.png"
+        "sprite": "src/assets/sprites/314.png",
+        "thumbnail": "src/assets/thumbnails/314.png",
+        "hires": "src/assets/hires/314.png"
       }
     },
     {
@@ -11592,9 +11592,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/315.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/315.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/315.png"
+        "sprite": "src/assets/sprites/315.png",
+        "thumbnail": "src/assets/thumbnails/315.png",
+        "hires": "src/assets/hires/315.png"
       }
     },
     {
@@ -11629,9 +11629,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/316.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/316.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/316.png"
+        "sprite": "src/assets/sprites/316.png",
+        "thumbnail": "src/assets/thumbnails/316.png",
+        "hires": "src/assets/hires/316.png"
       }
     },
     {
@@ -11666,9 +11666,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/317.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/317.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/317.png"
+        "sprite": "src/assets/sprites/317.png",
+        "thumbnail": "src/assets/thumbnails/317.png",
+        "hires": "src/assets/hires/317.png"
       }
     },
     {
@@ -11702,9 +11702,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/318.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/318.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/318.png"
+        "sprite": "src/assets/sprites/318.png",
+        "thumbnail": "src/assets/thumbnails/318.png",
+        "hires": "src/assets/hires/318.png"
       }
     },
     {
@@ -11738,9 +11738,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/319.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/319.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/319.png"
+        "sprite": "src/assets/sprites/319.png",
+        "thumbnail": "src/assets/thumbnails/319.png",
+        "hires": "src/assets/hires/319.png"
       }
     },
     {
@@ -11775,9 +11775,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/320.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/320.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/320.png"
+        "sprite": "src/assets/sprites/320.png",
+        "thumbnail": "src/assets/thumbnails/320.png",
+        "hires": "src/assets/hires/320.png"
       }
     },
     {
@@ -11812,9 +11812,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/321.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/321.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/321.png"
+        "sprite": "src/assets/sprites/321.png",
+        "thumbnail": "src/assets/thumbnails/321.png",
+        "hires": "src/assets/hires/321.png"
       }
     },
     {
@@ -11849,9 +11849,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/322.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/322.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/322.png"
+        "sprite": "src/assets/sprites/322.png",
+        "thumbnail": "src/assets/thumbnails/322.png",
+        "hires": "src/assets/hires/322.png"
       }
     },
     {
@@ -11886,9 +11886,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/323.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/323.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/323.png"
+        "sprite": "src/assets/sprites/323.png",
+        "thumbnail": "src/assets/thumbnails/323.png",
+        "hires": "src/assets/hires/323.png"
       }
     },
     {
@@ -11923,9 +11923,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/324.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/324.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/324.png"
+        "sprite": "src/assets/sprites/324.png",
+        "thumbnail": "src/assets/thumbnails/324.png",
+        "hires": "src/assets/hires/324.png"
       }
     },
     {
@@ -11960,9 +11960,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/325.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/325.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/325.png"
+        "sprite": "src/assets/sprites/325.png",
+        "thumbnail": "src/assets/thumbnails/325.png",
+        "hires": "src/assets/hires/325.png"
       }
     },
     {
@@ -11997,9 +11997,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/326.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/326.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/326.png"
+        "sprite": "src/assets/sprites/326.png",
+        "thumbnail": "src/assets/thumbnails/326.png",
+        "hires": "src/assets/hires/326.png"
       }
     },
     {
@@ -12034,9 +12034,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/327.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/327.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/327.png"
+        "sprite": "src/assets/sprites/327.png",
+        "thumbnail": "src/assets/thumbnails/327.png",
+        "hires": "src/assets/hires/327.png"
       }
     },
     {
@@ -12071,9 +12071,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/328.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/328.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/328.png"
+        "sprite": "src/assets/sprites/328.png",
+        "thumbnail": "src/assets/thumbnails/328.png",
+        "hires": "src/assets/hires/328.png"
       }
     },
     {
@@ -12104,9 +12104,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/329.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/329.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/329.png"
+        "sprite": "src/assets/sprites/329.png",
+        "thumbnail": "src/assets/thumbnails/329.png",
+        "hires": "src/assets/hires/329.png"
       }
     },
     {
@@ -12137,9 +12137,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/330.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/330.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/330.png"
+        "sprite": "src/assets/sprites/330.png",
+        "thumbnail": "src/assets/thumbnails/330.png",
+        "hires": "src/assets/hires/330.png"
       }
     },
     {
@@ -12173,9 +12173,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/331.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/331.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/331.png"
+        "sprite": "src/assets/sprites/331.png",
+        "thumbnail": "src/assets/thumbnails/331.png",
+        "hires": "src/assets/hires/331.png"
       }
     },
     {
@@ -12209,9 +12209,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/332.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/332.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/332.png"
+        "sprite": "src/assets/sprites/332.png",
+        "thumbnail": "src/assets/thumbnails/332.png",
+        "hires": "src/assets/hires/332.png"
       }
     },
     {
@@ -12245,9 +12245,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/333.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/333.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/333.png"
+        "sprite": "src/assets/sprites/333.png",
+        "thumbnail": "src/assets/thumbnails/333.png",
+        "hires": "src/assets/hires/333.png"
       }
     },
     {
@@ -12281,9 +12281,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/334.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/334.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/334.png"
+        "sprite": "src/assets/sprites/334.png",
+        "thumbnail": "src/assets/thumbnails/334.png",
+        "hires": "src/assets/hires/334.png"
       }
     },
     {
@@ -12317,9 +12317,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/335.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/335.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/335.png"
+        "sprite": "src/assets/sprites/335.png",
+        "thumbnail": "src/assets/thumbnails/335.png",
+        "hires": "src/assets/hires/335.png"
       }
     },
     {
@@ -12353,9 +12353,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/336.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/336.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/336.png"
+        "sprite": "src/assets/sprites/336.png",
+        "thumbnail": "src/assets/thumbnails/336.png",
+        "hires": "src/assets/hires/336.png"
       }
     },
     {
@@ -12386,9 +12386,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/337.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/337.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/337.png"
+        "sprite": "src/assets/sprites/337.png",
+        "thumbnail": "src/assets/thumbnails/337.png",
+        "hires": "src/assets/hires/337.png"
       }
     },
     {
@@ -12419,9 +12419,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/338.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/338.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/338.png"
+        "sprite": "src/assets/sprites/338.png",
+        "thumbnail": "src/assets/thumbnails/338.png",
+        "hires": "src/assets/hires/338.png"
       }
     },
     {
@@ -12456,9 +12456,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/339.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/339.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/339.png"
+        "sprite": "src/assets/sprites/339.png",
+        "thumbnail": "src/assets/thumbnails/339.png",
+        "hires": "src/assets/hires/339.png"
       }
     },
     {
@@ -12493,9 +12493,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/340.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/340.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/340.png"
+        "sprite": "src/assets/sprites/340.png",
+        "thumbnail": "src/assets/thumbnails/340.png",
+        "hires": "src/assets/hires/340.png"
       }
     },
     {
@@ -12530,9 +12530,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/341.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/341.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/341.png"
+        "sprite": "src/assets/sprites/341.png",
+        "thumbnail": "src/assets/thumbnails/341.png",
+        "hires": "src/assets/hires/341.png"
       }
     },
     {
@@ -12567,9 +12567,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/342.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/342.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/342.png"
+        "sprite": "src/assets/sprites/342.png",
+        "thumbnail": "src/assets/thumbnails/342.png",
+        "hires": "src/assets/hires/342.png"
       }
     },
     {
@@ -12600,9 +12600,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/343.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/343.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/343.png"
+        "sprite": "src/assets/sprites/343.png",
+        "thumbnail": "src/assets/thumbnails/343.png",
+        "hires": "src/assets/hires/343.png"
       }
     },
     {
@@ -12633,9 +12633,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/344.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/344.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/344.png"
+        "sprite": "src/assets/sprites/344.png",
+        "thumbnail": "src/assets/thumbnails/344.png",
+        "hires": "src/assets/hires/344.png"
       }
     },
     {
@@ -12669,9 +12669,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/345.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/345.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/345.png"
+        "sprite": "src/assets/sprites/345.png",
+        "thumbnail": "src/assets/thumbnails/345.png",
+        "hires": "src/assets/hires/345.png"
       }
     },
     {
@@ -12705,9 +12705,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/346.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/346.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/346.png"
+        "sprite": "src/assets/sprites/346.png",
+        "thumbnail": "src/assets/thumbnails/346.png",
+        "hires": "src/assets/hires/346.png"
       }
     },
     {
@@ -12741,9 +12741,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/347.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/347.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/347.png"
+        "sprite": "src/assets/sprites/347.png",
+        "thumbnail": "src/assets/thumbnails/347.png",
+        "hires": "src/assets/hires/347.png"
       }
     },
     {
@@ -12777,9 +12777,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/348.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/348.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/348.png"
+        "sprite": "src/assets/sprites/348.png",
+        "thumbnail": "src/assets/thumbnails/348.png",
+        "hires": "src/assets/hires/348.png"
       }
     },
     {
@@ -12818,9 +12818,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/349.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/349.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/349.png"
+        "sprite": "src/assets/sprites/349.png",
+        "thumbnail": "src/assets/thumbnails/349.png",
+        "hires": "src/assets/hires/349.png"
       }
     },
     {
@@ -12857,9 +12857,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/350.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/350.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/350.png"
+        "sprite": "src/assets/sprites/350.png",
+        "thumbnail": "src/assets/thumbnails/350.png",
+        "hires": "src/assets/hires/350.png"
       }
     },
     {
@@ -12890,9 +12890,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/351.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/351.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/351.png"
+        "sprite": "src/assets/sprites/351.png",
+        "thumbnail": "src/assets/thumbnails/351.png",
+        "hires": "src/assets/hires/351.png"
       }
     },
     {
@@ -12926,9 +12926,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/352.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/352.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/352.png"
+        "sprite": "src/assets/sprites/352.png",
+        "thumbnail": "src/assets/thumbnails/352.png",
+        "hires": "src/assets/hires/352.png"
       }
     },
     {
@@ -12963,9 +12963,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/353.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/353.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/353.png"
+        "sprite": "src/assets/sprites/353.png",
+        "thumbnail": "src/assets/thumbnails/353.png",
+        "hires": "src/assets/hires/353.png"
       }
     },
     {
@@ -13000,9 +13000,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/354.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/354.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/354.png"
+        "sprite": "src/assets/sprites/354.png",
+        "thumbnail": "src/assets/thumbnails/354.png",
+        "hires": "src/assets/hires/354.png"
       }
     },
     {
@@ -13036,9 +13036,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/355.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/355.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/355.png"
+        "sprite": "src/assets/sprites/355.png",
+        "thumbnail": "src/assets/thumbnails/355.png",
+        "hires": "src/assets/hires/355.png"
       }
     },
     {
@@ -13075,9 +13075,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/356.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/356.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/356.png"
+        "sprite": "src/assets/sprites/356.png",
+        "thumbnail": "src/assets/thumbnails/356.png",
+        "hires": "src/assets/hires/356.png"
       }
     },
     {
@@ -13112,9 +13112,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/357.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/357.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/357.png"
+        "sprite": "src/assets/sprites/357.png",
+        "thumbnail": "src/assets/thumbnails/357.png",
+        "hires": "src/assets/hires/357.png"
       }
     },
     {
@@ -13145,9 +13145,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/358.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/358.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/358.png"
+        "sprite": "src/assets/sprites/358.png",
+        "thumbnail": "src/assets/thumbnails/358.png",
+        "hires": "src/assets/hires/358.png"
       }
     },
     {
@@ -13182,9 +13182,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/359.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/359.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/359.png"
+        "sprite": "src/assets/sprites/359.png",
+        "thumbnail": "src/assets/thumbnails/359.png",
+        "hires": "src/assets/hires/359.png"
       }
     },
     {
@@ -13218,9 +13218,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/360.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/360.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/360.png"
+        "sprite": "src/assets/sprites/360.png",
+        "thumbnail": "src/assets/thumbnails/360.png",
+        "hires": "src/assets/hires/360.png"
       }
     },
     {
@@ -13260,9 +13260,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/361.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/361.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/361.png"
+        "sprite": "src/assets/sprites/361.png",
+        "thumbnail": "src/assets/thumbnails/361.png",
+        "hires": "src/assets/hires/361.png"
       }
     },
     {
@@ -13297,9 +13297,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/362.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/362.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/362.png"
+        "sprite": "src/assets/sprites/362.png",
+        "thumbnail": "src/assets/thumbnails/362.png",
+        "hires": "src/assets/hires/362.png"
       }
     },
     {
@@ -13334,9 +13334,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/363.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/363.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/363.png"
+        "sprite": "src/assets/sprites/363.png",
+        "thumbnail": "src/assets/thumbnails/363.png",
+        "hires": "src/assets/hires/363.png"
       }
     },
     {
@@ -13371,9 +13371,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/364.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/364.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/364.png"
+        "sprite": "src/assets/sprites/364.png",
+        "thumbnail": "src/assets/thumbnails/364.png",
+        "hires": "src/assets/hires/364.png"
       }
     },
     {
@@ -13408,9 +13408,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/365.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/365.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/365.png"
+        "sprite": "src/assets/sprites/365.png",
+        "thumbnail": "src/assets/thumbnails/365.png",
+        "hires": "src/assets/hires/365.png"
       }
     },
     {
@@ -13449,9 +13449,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/366.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/366.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/366.png"
+        "sprite": "src/assets/sprites/366.png",
+        "thumbnail": "src/assets/thumbnails/366.png",
+        "hires": "src/assets/hires/366.png"
       }
     },
     {
@@ -13485,9 +13485,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/367.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/367.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/367.png"
+        "sprite": "src/assets/sprites/367.png",
+        "thumbnail": "src/assets/thumbnails/367.png",
+        "hires": "src/assets/hires/367.png"
       }
     },
     {
@@ -13521,9 +13521,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/368.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/368.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/368.png"
+        "sprite": "src/assets/sprites/368.png",
+        "thumbnail": "src/assets/thumbnails/368.png",
+        "hires": "src/assets/hires/368.png"
       }
     },
     {
@@ -13558,9 +13558,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/369.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/369.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/369.png"
+        "sprite": "src/assets/sprites/369.png",
+        "thumbnail": "src/assets/thumbnails/369.png",
+        "hires": "src/assets/hires/369.png"
       }
     },
     {
@@ -13594,9 +13594,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/370.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/370.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/370.png"
+        "sprite": "src/assets/sprites/370.png",
+        "thumbnail": "src/assets/thumbnails/370.png",
+        "hires": "src/assets/hires/370.png"
       }
     },
     {
@@ -13630,9 +13630,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/371.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/371.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/371.png"
+        "sprite": "src/assets/sprites/371.png",
+        "thumbnail": "src/assets/thumbnails/371.png",
+        "hires": "src/assets/hires/371.png"
       }
     },
     {
@@ -13666,9 +13666,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/372.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/372.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/372.png"
+        "sprite": "src/assets/sprites/372.png",
+        "thumbnail": "src/assets/thumbnails/372.png",
+        "hires": "src/assets/hires/372.png"
       }
     },
     {
@@ -13702,9 +13702,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/373.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/373.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/373.png"
+        "sprite": "src/assets/sprites/373.png",
+        "thumbnail": "src/assets/thumbnails/373.png",
+        "hires": "src/assets/hires/373.png"
       }
     },
     {
@@ -13738,9 +13738,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/374.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/374.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/374.png"
+        "sprite": "src/assets/sprites/374.png",
+        "thumbnail": "src/assets/thumbnails/374.png",
+        "hires": "src/assets/hires/374.png"
       }
     },
     {
@@ -13774,9 +13774,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/375.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/375.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/375.png"
+        "sprite": "src/assets/sprites/375.png",
+        "thumbnail": "src/assets/thumbnails/375.png",
+        "hires": "src/assets/hires/375.png"
       }
     },
     {
@@ -13810,9 +13810,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/376.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/376.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/376.png"
+        "sprite": "src/assets/sprites/376.png",
+        "thumbnail": "src/assets/thumbnails/376.png",
+        "hires": "src/assets/hires/376.png"
       }
     },
     {
@@ -13846,9 +13846,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/377.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/377.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/377.png"
+        "sprite": "src/assets/sprites/377.png",
+        "thumbnail": "src/assets/thumbnails/377.png",
+        "hires": "src/assets/hires/377.png"
       }
     },
     {
@@ -13882,9 +13882,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/378.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/378.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/378.png"
+        "sprite": "src/assets/sprites/378.png",
+        "thumbnail": "src/assets/thumbnails/378.png",
+        "hires": "src/assets/hires/378.png"
       }
     },
     {
@@ -13918,9 +13918,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/379.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/379.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/379.png"
+        "sprite": "src/assets/sprites/379.png",
+        "thumbnail": "src/assets/thumbnails/379.png",
+        "hires": "src/assets/hires/379.png"
       }
     },
     {
@@ -13951,9 +13951,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/380.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/380.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/380.png"
+        "sprite": "src/assets/sprites/380.png",
+        "thumbnail": "src/assets/thumbnails/380.png",
+        "hires": "src/assets/hires/380.png"
       }
     },
     {
@@ -13984,9 +13984,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/381.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/381.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/381.png"
+        "sprite": "src/assets/sprites/381.png",
+        "thumbnail": "src/assets/thumbnails/381.png",
+        "hires": "src/assets/hires/381.png"
       }
     },
     {
@@ -14017,9 +14017,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/382.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/382.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/382.png"
+        "sprite": "src/assets/sprites/382.png",
+        "thumbnail": "src/assets/thumbnails/382.png",
+        "hires": "src/assets/hires/382.png"
       }
     },
     {
@@ -14050,9 +14050,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/383.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/383.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/383.png"
+        "sprite": "src/assets/sprites/383.png",
+        "thumbnail": "src/assets/thumbnails/383.png",
+        "hires": "src/assets/hires/383.png"
       }
     },
     {
@@ -14083,9 +14083,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/384.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/384.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+        "sprite": "src/assets/sprites/384.png",
+        "thumbnail": "src/assets/thumbnails/384.png",
+        "hires": "src/assets/hires/384.png"
       }
     },
     {
@@ -14116,9 +14116,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/385.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/385.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/385.png"
+        "sprite": "src/assets/sprites/385.png",
+        "thumbnail": "src/assets/thumbnails/385.png",
+        "hires": "src/assets/hires/385.png"
       }
     },
     {
@@ -14149,9 +14149,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/386.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/386.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/386.png"
+        "sprite": "src/assets/sprites/386.png",
+        "thumbnail": "src/assets/thumbnails/386.png",
+        "hires": "src/assets/hires/386.png"
       }
     },
     {
@@ -14185,9 +14185,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/387.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/387.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/387.png"
+        "sprite": "src/assets/sprites/387.png",
+        "thumbnail": "src/assets/thumbnails/387.png",
+        "hires": "src/assets/hires/387.png"
       }
     },
     {
@@ -14221,9 +14221,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/388.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/388.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/388.png"
+        "sprite": "src/assets/sprites/388.png",
+        "thumbnail": "src/assets/thumbnails/388.png",
+        "hires": "src/assets/hires/388.png"
       }
     },
     {
@@ -14257,9 +14257,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/389.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/389.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/389.png"
+        "sprite": "src/assets/sprites/389.png",
+        "thumbnail": "src/assets/thumbnails/389.png",
+        "hires": "src/assets/hires/389.png"
       }
     },
     {
@@ -14293,9 +14293,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/390.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/390.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/390.png"
+        "sprite": "src/assets/sprites/390.png",
+        "thumbnail": "src/assets/thumbnails/390.png",
+        "hires": "src/assets/hires/390.png"
       }
     },
     {
@@ -14329,9 +14329,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/391.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/391.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/391.png"
+        "sprite": "src/assets/sprites/391.png",
+        "thumbnail": "src/assets/thumbnails/391.png",
+        "hires": "src/assets/hires/391.png"
       }
     },
     {
@@ -14365,9 +14365,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/392.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/392.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/392.png"
+        "sprite": "src/assets/sprites/392.png",
+        "thumbnail": "src/assets/thumbnails/392.png",
+        "hires": "src/assets/hires/392.png"
       }
     },
     {
@@ -14401,9 +14401,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/393.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/393.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/393.png"
+        "sprite": "src/assets/sprites/393.png",
+        "thumbnail": "src/assets/thumbnails/393.png",
+        "hires": "src/assets/hires/393.png"
       }
     },
     {
@@ -14437,9 +14437,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/394.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/394.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/394.png"
+        "sprite": "src/assets/sprites/394.png",
+        "thumbnail": "src/assets/thumbnails/394.png",
+        "hires": "src/assets/hires/394.png"
       }
     },
     {
@@ -14473,9 +14473,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/395.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/395.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/395.png"
+        "sprite": "src/assets/sprites/395.png",
+        "thumbnail": "src/assets/thumbnails/395.png",
+        "hires": "src/assets/hires/395.png"
       }
     },
     {
@@ -14509,9 +14509,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/396.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/396.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/396.png"
+        "sprite": "src/assets/sprites/396.png",
+        "thumbnail": "src/assets/thumbnails/396.png",
+        "hires": "src/assets/hires/396.png"
       }
     },
     {
@@ -14545,9 +14545,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/397.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/397.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/397.png"
+        "sprite": "src/assets/sprites/397.png",
+        "thumbnail": "src/assets/thumbnails/397.png",
+        "hires": "src/assets/hires/397.png"
       }
     },
     {
@@ -14581,9 +14581,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/398.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/398.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/398.png"
+        "sprite": "src/assets/sprites/398.png",
+        "thumbnail": "src/assets/thumbnails/398.png",
+        "hires": "src/assets/hires/398.png"
       }
     },
     {
@@ -14618,9 +14618,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/399.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/399.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/399.png"
+        "sprite": "src/assets/sprites/399.png",
+        "thumbnail": "src/assets/thumbnails/399.png",
+        "hires": "src/assets/hires/399.png"
       }
     },
     {
@@ -14655,9 +14655,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/400.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/400.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/400.png"
+        "sprite": "src/assets/sprites/400.png",
+        "thumbnail": "src/assets/thumbnails/400.png",
+        "hires": "src/assets/hires/400.png"
       }
     },
     {
@@ -14691,9 +14691,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/401.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/401.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/401.png"
+        "sprite": "src/assets/sprites/401.png",
+        "thumbnail": "src/assets/thumbnails/401.png",
+        "hires": "src/assets/hires/401.png"
       }
     },
     {
@@ -14727,9 +14727,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/402.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/402.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/402.png"
+        "sprite": "src/assets/sprites/402.png",
+        "thumbnail": "src/assets/thumbnails/402.png",
+        "hires": "src/assets/hires/402.png"
       }
     },
     {
@@ -14764,9 +14764,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/403.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/403.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/403.png"
+        "sprite": "src/assets/sprites/403.png",
+        "thumbnail": "src/assets/thumbnails/403.png",
+        "hires": "src/assets/hires/403.png"
       }
     },
     {
@@ -14801,9 +14801,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/404.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/404.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/404.png"
+        "sprite": "src/assets/sprites/404.png",
+        "thumbnail": "src/assets/thumbnails/404.png",
+        "hires": "src/assets/hires/404.png"
       }
     },
     {
@@ -14838,9 +14838,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/405.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/405.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/405.png"
+        "sprite": "src/assets/sprites/405.png",
+        "thumbnail": "src/assets/thumbnails/405.png",
+        "hires": "src/assets/hires/405.png"
       }
     },
     {
@@ -14875,9 +14875,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/406.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/406.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/406.png"
+        "sprite": "src/assets/sprites/406.png",
+        "thumbnail": "src/assets/thumbnails/406.png",
+        "hires": "src/assets/hires/406.png"
       }
     },
     {
@@ -14912,9 +14912,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/407.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/407.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/407.png"
+        "sprite": "src/assets/sprites/407.png",
+        "thumbnail": "src/assets/thumbnails/407.png",
+        "hires": "src/assets/hires/407.png"
       }
     },
     {
@@ -14948,9 +14948,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/408.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/408.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/408.png"
+        "sprite": "src/assets/sprites/408.png",
+        "thumbnail": "src/assets/thumbnails/408.png",
+        "hires": "src/assets/hires/408.png"
       }
     },
     {
@@ -14984,9 +14984,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/409.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/409.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/409.png"
+        "sprite": "src/assets/sprites/409.png",
+        "thumbnail": "src/assets/thumbnails/409.png",
+        "hires": "src/assets/hires/409.png"
       }
     },
     {
@@ -15020,9 +15020,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/410.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/410.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/410.png"
+        "sprite": "src/assets/sprites/410.png",
+        "thumbnail": "src/assets/thumbnails/410.png",
+        "hires": "src/assets/hires/410.png"
       }
     },
     {
@@ -15056,9 +15056,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/411.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/411.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/411.png"
+        "sprite": "src/assets/sprites/411.png",
+        "thumbnail": "src/assets/thumbnails/411.png",
+        "hires": "src/assets/hires/411.png"
       }
     },
     {
@@ -15097,9 +15097,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/412.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/412.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/412.png"
+        "sprite": "src/assets/sprites/412.png",
+        "thumbnail": "src/assets/thumbnails/412.png",
+        "hires": "src/assets/hires/412.png"
       }
     },
     {
@@ -15133,9 +15133,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/413.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/413.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/413.png"
+        "sprite": "src/assets/sprites/413.png",
+        "thumbnail": "src/assets/thumbnails/413.png",
+        "hires": "src/assets/hires/413.png"
       }
     },
     {
@@ -15169,9 +15169,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/414.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/414.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/414.png"
+        "sprite": "src/assets/sprites/414.png",
+        "thumbnail": "src/assets/thumbnails/414.png",
+        "hires": "src/assets/hires/414.png"
       }
     },
     {
@@ -15205,9 +15205,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/415.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/415.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/415.png"
+        "sprite": "src/assets/sprites/415.png",
+        "thumbnail": "src/assets/thumbnails/415.png",
+        "hires": "src/assets/hires/415.png"
       }
     },
     {
@@ -15241,9 +15241,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/416.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/416.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/416.png"
+        "sprite": "src/assets/sprites/416.png",
+        "thumbnail": "src/assets/thumbnails/416.png",
+        "hires": "src/assets/hires/416.png"
       }
     },
     {
@@ -15278,9 +15278,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/417.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/417.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/417.png"
+        "sprite": "src/assets/sprites/417.png",
+        "thumbnail": "src/assets/thumbnails/417.png",
+        "hires": "src/assets/hires/417.png"
       }
     },
     {
@@ -15314,9 +15314,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/418.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/418.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/418.png"
+        "sprite": "src/assets/sprites/418.png",
+        "thumbnail": "src/assets/thumbnails/418.png",
+        "hires": "src/assets/hires/418.png"
       }
     },
     {
@@ -15350,9 +15350,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/419.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/419.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/419.png"
+        "sprite": "src/assets/sprites/419.png",
+        "thumbnail": "src/assets/thumbnails/419.png",
+        "hires": "src/assets/hires/419.png"
       }
     },
     {
@@ -15383,9 +15383,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/420.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/420.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/420.png"
+        "sprite": "src/assets/sprites/420.png",
+        "thumbnail": "src/assets/thumbnails/420.png",
+        "hires": "src/assets/hires/420.png"
       }
     },
     {
@@ -15416,9 +15416,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/421.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/421.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/421.png"
+        "sprite": "src/assets/sprites/421.png",
+        "thumbnail": "src/assets/thumbnails/421.png",
+        "hires": "src/assets/hires/421.png"
       }
     },
     {
@@ -15453,9 +15453,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/422.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/422.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/422.png"
+        "sprite": "src/assets/sprites/422.png",
+        "thumbnail": "src/assets/thumbnails/422.png",
+        "hires": "src/assets/hires/422.png"
       }
     },
     {
@@ -15490,9 +15490,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/423.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/423.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/423.png"
+        "sprite": "src/assets/sprites/423.png",
+        "thumbnail": "src/assets/thumbnails/423.png",
+        "hires": "src/assets/hires/423.png"
       }
     },
     {
@@ -15527,9 +15527,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/424.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/424.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/424.png"
+        "sprite": "src/assets/sprites/424.png",
+        "thumbnail": "src/assets/thumbnails/424.png",
+        "hires": "src/assets/hires/424.png"
       }
     },
     {
@@ -15564,9 +15564,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/425.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/425.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/425.png"
+        "sprite": "src/assets/sprites/425.png",
+        "thumbnail": "src/assets/thumbnails/425.png",
+        "hires": "src/assets/hires/425.png"
       }
     },
     {
@@ -15601,9 +15601,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/426.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/426.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/426.png"
+        "sprite": "src/assets/sprites/426.png",
+        "thumbnail": "src/assets/thumbnails/426.png",
+        "hires": "src/assets/hires/426.png"
       }
     },
     {
@@ -15638,9 +15638,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/427.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/427.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/427.png"
+        "sprite": "src/assets/sprites/427.png",
+        "thumbnail": "src/assets/thumbnails/427.png",
+        "hires": "src/assets/hires/427.png"
       }
     },
     {
@@ -15675,9 +15675,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/428.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/428.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/428.png"
+        "sprite": "src/assets/sprites/428.png",
+        "thumbnail": "src/assets/thumbnails/428.png",
+        "hires": "src/assets/hires/428.png"
       }
     },
     {
@@ -15708,9 +15708,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/429.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/429.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/429.png"
+        "sprite": "src/assets/sprites/429.png",
+        "thumbnail": "src/assets/thumbnails/429.png",
+        "hires": "src/assets/hires/429.png"
       }
     },
     {
@@ -15745,9 +15745,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/430.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/430.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/430.png"
+        "sprite": "src/assets/sprites/430.png",
+        "thumbnail": "src/assets/thumbnails/430.png",
+        "hires": "src/assets/hires/430.png"
       }
     },
     {
@@ -15782,9 +15782,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/431.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/431.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/431.png"
+        "sprite": "src/assets/sprites/431.png",
+        "thumbnail": "src/assets/thumbnails/431.png",
+        "hires": "src/assets/hires/431.png"
       }
     },
     {
@@ -15819,9 +15819,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/432.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/432.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/432.png"
+        "sprite": "src/assets/sprites/432.png",
+        "thumbnail": "src/assets/thumbnails/432.png",
+        "hires": "src/assets/hires/432.png"
       }
     },
     {
@@ -15852,9 +15852,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/433.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/433.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/433.png"
+        "sprite": "src/assets/sprites/433.png",
+        "thumbnail": "src/assets/thumbnails/433.png",
+        "hires": "src/assets/hires/433.png"
       }
     },
     {
@@ -15889,9 +15889,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/434.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/434.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/434.png"
+        "sprite": "src/assets/sprites/434.png",
+        "thumbnail": "src/assets/thumbnails/434.png",
+        "hires": "src/assets/hires/434.png"
       }
     },
     {
@@ -15926,9 +15926,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/435.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/435.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/435.png"
+        "sprite": "src/assets/sprites/435.png",
+        "thumbnail": "src/assets/thumbnails/435.png",
+        "hires": "src/assets/hires/435.png"
       }
     },
     {
@@ -15963,9 +15963,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/436.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/436.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/436.png"
+        "sprite": "src/assets/sprites/436.png",
+        "thumbnail": "src/assets/thumbnails/436.png",
+        "hires": "src/assets/hires/436.png"
       }
     },
     {
@@ -16000,9 +16000,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/437.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/437.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/437.png"
+        "sprite": "src/assets/sprites/437.png",
+        "thumbnail": "src/assets/thumbnails/437.png",
+        "hires": "src/assets/hires/437.png"
       }
     },
     {
@@ -16037,9 +16037,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/438.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/438.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/438.png"
+        "sprite": "src/assets/sprites/438.png",
+        "thumbnail": "src/assets/thumbnails/438.png",
+        "hires": "src/assets/hires/438.png"
       }
     },
     {
@@ -16074,9 +16074,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/439.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/439.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/439.png"
+        "sprite": "src/assets/sprites/439.png",
+        "thumbnail": "src/assets/thumbnails/439.png",
+        "hires": "src/assets/hires/439.png"
       }
     },
     {
@@ -16111,9 +16111,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/440.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/440.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/440.png"
+        "sprite": "src/assets/sprites/440.png",
+        "thumbnail": "src/assets/thumbnails/440.png",
+        "hires": "src/assets/hires/440.png"
       }
     },
     {
@@ -16148,9 +16148,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/441.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/441.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/441.png"
+        "sprite": "src/assets/sprites/441.png",
+        "thumbnail": "src/assets/thumbnails/441.png",
+        "hires": "src/assets/hires/441.png"
       }
     },
     {
@@ -16184,9 +16184,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/442.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/442.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/442.png"
+        "sprite": "src/assets/sprites/442.png",
+        "thumbnail": "src/assets/thumbnails/442.png",
+        "hires": "src/assets/hires/442.png"
       }
     },
     {
@@ -16220,9 +16220,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/443.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/443.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/443.png"
+        "sprite": "src/assets/sprites/443.png",
+        "thumbnail": "src/assets/thumbnails/443.png",
+        "hires": "src/assets/hires/443.png"
       }
     },
     {
@@ -16256,9 +16256,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/444.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/444.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/444.png"
+        "sprite": "src/assets/sprites/444.png",
+        "thumbnail": "src/assets/thumbnails/444.png",
+        "hires": "src/assets/hires/444.png"
       }
     },
     {
@@ -16292,9 +16292,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/445.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/445.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/445.png"
+        "sprite": "src/assets/sprites/445.png",
+        "thumbnail": "src/assets/thumbnails/445.png",
+        "hires": "src/assets/hires/445.png"
       }
     },
     {
@@ -16329,9 +16329,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/446.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/446.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/446.png"
+        "sprite": "src/assets/sprites/446.png",
+        "thumbnail": "src/assets/thumbnails/446.png",
+        "hires": "src/assets/hires/446.png"
       }
     },
     {
@@ -16366,9 +16366,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/447.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/447.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/447.png"
+        "sprite": "src/assets/sprites/447.png",
+        "thumbnail": "src/assets/thumbnails/447.png",
+        "hires": "src/assets/hires/447.png"
       }
     },
     {
@@ -16403,9 +16403,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/448.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/448.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/448.png"
+        "sprite": "src/assets/sprites/448.png",
+        "thumbnail": "src/assets/thumbnails/448.png",
+        "hires": "src/assets/hires/448.png"
       }
     },
     {
@@ -16439,9 +16439,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/449.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/449.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/449.png"
+        "sprite": "src/assets/sprites/449.png",
+        "thumbnail": "src/assets/thumbnails/449.png",
+        "hires": "src/assets/hires/449.png"
       }
     },
     {
@@ -16475,9 +16475,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/450.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/450.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/450.png"
+        "sprite": "src/assets/sprites/450.png",
+        "thumbnail": "src/assets/thumbnails/450.png",
+        "hires": "src/assets/hires/450.png"
       }
     },
     {
@@ -16512,9 +16512,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/451.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/451.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/451.png"
+        "sprite": "src/assets/sprites/451.png",
+        "thumbnail": "src/assets/thumbnails/451.png",
+        "hires": "src/assets/hires/451.png"
       }
     },
     {
@@ -16549,9 +16549,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/452.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/452.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/452.png"
+        "sprite": "src/assets/sprites/452.png",
+        "thumbnail": "src/assets/thumbnails/452.png",
+        "hires": "src/assets/hires/452.png"
       }
     },
     {
@@ -16586,9 +16586,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/453.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/453.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/453.png"
+        "sprite": "src/assets/sprites/453.png",
+        "thumbnail": "src/assets/thumbnails/453.png",
+        "hires": "src/assets/hires/453.png"
       }
     },
     {
@@ -16623,9 +16623,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/454.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/454.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/454.png"
+        "sprite": "src/assets/sprites/454.png",
+        "thumbnail": "src/assets/thumbnails/454.png",
+        "hires": "src/assets/hires/454.png"
       }
     },
     {
@@ -16656,9 +16656,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/455.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/455.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/455.png"
+        "sprite": "src/assets/sprites/455.png",
+        "thumbnail": "src/assets/thumbnails/455.png",
+        "hires": "src/assets/hires/455.png"
       }
     },
     {
@@ -16693,9 +16693,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/456.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/456.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/456.png"
+        "sprite": "src/assets/sprites/456.png",
+        "thumbnail": "src/assets/thumbnails/456.png",
+        "hires": "src/assets/hires/456.png"
       }
     },
     {
@@ -16730,9 +16730,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/457.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/457.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/457.png"
+        "sprite": "src/assets/sprites/457.png",
+        "thumbnail": "src/assets/thumbnails/457.png",
+        "hires": "src/assets/hires/457.png"
       }
     },
     {
@@ -16767,9 +16767,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/458.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/458.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/458.png"
+        "sprite": "src/assets/sprites/458.png",
+        "thumbnail": "src/assets/thumbnails/458.png",
+        "hires": "src/assets/hires/458.png"
       }
     },
     {
@@ -16803,9 +16803,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/459.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/459.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/459.png"
+        "sprite": "src/assets/sprites/459.png",
+        "thumbnail": "src/assets/thumbnails/459.png",
+        "hires": "src/assets/hires/459.png"
       }
     },
     {
@@ -16839,9 +16839,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/460.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/460.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/460.png"
+        "sprite": "src/assets/sprites/460.png",
+        "thumbnail": "src/assets/thumbnails/460.png",
+        "hires": "src/assets/hires/460.png"
       }
     },
     {
@@ -16875,9 +16875,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/461.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/461.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/461.png"
+        "sprite": "src/assets/sprites/461.png",
+        "thumbnail": "src/assets/thumbnails/461.png",
+        "hires": "src/assets/hires/461.png"
       }
     },
     {
@@ -16912,9 +16912,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/462.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/462.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/462.png"
+        "sprite": "src/assets/sprites/462.png",
+        "thumbnail": "src/assets/thumbnails/462.png",
+        "hires": "src/assets/hires/462.png"
       }
     },
     {
@@ -16949,9 +16949,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/463.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/463.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/463.png"
+        "sprite": "src/assets/sprites/463.png",
+        "thumbnail": "src/assets/thumbnails/463.png",
+        "hires": "src/assets/hires/463.png"
       }
     },
     {
@@ -16986,9 +16986,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/464.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/464.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/464.png"
+        "sprite": "src/assets/sprites/464.png",
+        "thumbnail": "src/assets/thumbnails/464.png",
+        "hires": "src/assets/hires/464.png"
       }
     },
     {
@@ -17023,9 +17023,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/465.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/465.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/465.png"
+        "sprite": "src/assets/sprites/465.png",
+        "thumbnail": "src/assets/thumbnails/465.png",
+        "hires": "src/assets/hires/465.png"
       }
     },
     {
@@ -17059,9 +17059,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/466.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/466.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/466.png"
+        "sprite": "src/assets/sprites/466.png",
+        "thumbnail": "src/assets/thumbnails/466.png",
+        "hires": "src/assets/hires/466.png"
       }
     },
     {
@@ -17095,9 +17095,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/467.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/467.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/467.png"
+        "sprite": "src/assets/sprites/467.png",
+        "thumbnail": "src/assets/thumbnails/467.png",
+        "hires": "src/assets/hires/467.png"
       }
     },
     {
@@ -17132,9 +17132,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/468.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/468.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/468.png"
+        "sprite": "src/assets/sprites/468.png",
+        "thumbnail": "src/assets/thumbnails/468.png",
+        "hires": "src/assets/hires/468.png"
       }
     },
     {
@@ -17169,9 +17169,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/469.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/469.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/469.png"
+        "sprite": "src/assets/sprites/469.png",
+        "thumbnail": "src/assets/thumbnails/469.png",
+        "hires": "src/assets/hires/469.png"
       }
     },
     {
@@ -17205,9 +17205,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/470.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/470.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/470.png"
+        "sprite": "src/assets/sprites/470.png",
+        "thumbnail": "src/assets/thumbnails/470.png",
+        "hires": "src/assets/hires/470.png"
       }
     },
     {
@@ -17241,9 +17241,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/471.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/471.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/471.png"
+        "sprite": "src/assets/sprites/471.png",
+        "thumbnail": "src/assets/thumbnails/471.png",
+        "hires": "src/assets/hires/471.png"
       }
     },
     {
@@ -17278,9 +17278,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/472.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/472.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/472.png"
+        "sprite": "src/assets/sprites/472.png",
+        "thumbnail": "src/assets/thumbnails/472.png",
+        "hires": "src/assets/hires/472.png"
       }
     },
     {
@@ -17315,9 +17315,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/473.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/473.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/473.png"
+        "sprite": "src/assets/sprites/473.png",
+        "thumbnail": "src/assets/thumbnails/473.png",
+        "hires": "src/assets/hires/473.png"
       }
     },
     {
@@ -17352,9 +17352,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/474.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/474.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/474.png"
+        "sprite": "src/assets/sprites/474.png",
+        "thumbnail": "src/assets/thumbnails/474.png",
+        "hires": "src/assets/hires/474.png"
       }
     },
     {
@@ -17388,9 +17388,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/475.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/475.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/475.png"
+        "sprite": "src/assets/sprites/475.png",
+        "thumbnail": "src/assets/thumbnails/475.png",
+        "hires": "src/assets/hires/475.png"
       }
     },
     {
@@ -17425,9 +17425,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/476.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/476.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/476.png"
+        "sprite": "src/assets/sprites/476.png",
+        "thumbnail": "src/assets/thumbnails/476.png",
+        "hires": "src/assets/hires/476.png"
       }
     },
     {
@@ -17461,9 +17461,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/477.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/477.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/477.png"
+        "sprite": "src/assets/sprites/477.png",
+        "thumbnail": "src/assets/thumbnails/477.png",
+        "hires": "src/assets/hires/477.png"
       }
     },
     {
@@ -17497,9 +17497,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/478.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/478.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/478.png"
+        "sprite": "src/assets/sprites/478.png",
+        "thumbnail": "src/assets/thumbnails/478.png",
+        "hires": "src/assets/hires/478.png"
       }
     },
     {
@@ -17530,9 +17530,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/479.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/479.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/479.png"
+        "sprite": "src/assets/sprites/479.png",
+        "thumbnail": "src/assets/thumbnails/479.png",
+        "hires": "src/assets/hires/479.png"
       }
     },
     {
@@ -17563,9 +17563,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/480.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/480.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/480.png"
+        "sprite": "src/assets/sprites/480.png",
+        "thumbnail": "src/assets/thumbnails/480.png",
+        "hires": "src/assets/hires/480.png"
       }
     },
     {
@@ -17596,9 +17596,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/481.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/481.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/481.png"
+        "sprite": "src/assets/sprites/481.png",
+        "thumbnail": "src/assets/thumbnails/481.png",
+        "hires": "src/assets/hires/481.png"
       }
     },
     {
@@ -17629,9 +17629,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/482.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/482.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/482.png"
+        "sprite": "src/assets/sprites/482.png",
+        "thumbnail": "src/assets/thumbnails/482.png",
+        "hires": "src/assets/hires/482.png"
       }
     },
     {
@@ -17665,9 +17665,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/483.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/483.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/483.png"
+        "sprite": "src/assets/sprites/483.png",
+        "thumbnail": "src/assets/thumbnails/483.png",
+        "hires": "src/assets/hires/483.png"
       }
     },
     {
@@ -17701,9 +17701,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/484.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/484.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/484.png"
+        "sprite": "src/assets/sprites/484.png",
+        "thumbnail": "src/assets/thumbnails/484.png",
+        "hires": "src/assets/hires/484.png"
       }
     },
     {
@@ -17737,9 +17737,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/485.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/485.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/485.png"
+        "sprite": "src/assets/sprites/485.png",
+        "thumbnail": "src/assets/thumbnails/485.png",
+        "hires": "src/assets/hires/485.png"
       }
     },
     {
@@ -17770,9 +17770,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/486.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/486.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/486.png"
+        "sprite": "src/assets/sprites/486.png",
+        "thumbnail": "src/assets/thumbnails/486.png",
+        "hires": "src/assets/hires/486.png"
       }
     },
     {
@@ -17806,9 +17806,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/487.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/487.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/487.png"
+        "sprite": "src/assets/sprites/487.png",
+        "thumbnail": "src/assets/thumbnails/487.png",
+        "hires": "src/assets/hires/487.png"
       }
     },
     {
@@ -17839,9 +17839,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/488.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/488.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/488.png"
+        "sprite": "src/assets/sprites/488.png",
+        "thumbnail": "src/assets/thumbnails/488.png",
+        "hires": "src/assets/hires/488.png"
       }
     },
     {
@@ -17872,9 +17872,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/489.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/489.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/489.png"
+        "sprite": "src/assets/sprites/489.png",
+        "thumbnail": "src/assets/thumbnails/489.png",
+        "hires": "src/assets/hires/489.png"
       }
     },
     {
@@ -17905,9 +17905,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/490.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/490.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/490.png"
+        "sprite": "src/assets/sprites/490.png",
+        "thumbnail": "src/assets/thumbnails/490.png",
+        "hires": "src/assets/hires/490.png"
       }
     },
     {
@@ -17938,9 +17938,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/491.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/491.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/491.png"
+        "sprite": "src/assets/sprites/491.png",
+        "thumbnail": "src/assets/thumbnails/491.png",
+        "hires": "src/assets/hires/491.png"
       }
     },
     {
@@ -17971,9 +17971,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/492.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/492.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/492.png"
+        "sprite": "src/assets/sprites/492.png",
+        "thumbnail": "src/assets/thumbnails/492.png",
+        "hires": "src/assets/hires/492.png"
       }
     },
     {
@@ -18004,9 +18004,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/493.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/493.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+        "sprite": "src/assets/sprites/493.png",
+        "thumbnail": "src/assets/thumbnails/493.png",
+        "hires": "src/assets/hires/493.png"
       }
     },
     {
@@ -18037,9 +18037,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/494.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/494.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/494.png"
+        "sprite": "src/assets/sprites/494.png",
+        "thumbnail": "src/assets/thumbnails/494.png",
+        "hires": "src/assets/hires/494.png"
       }
     },
     {
@@ -18073,9 +18073,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/495.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/495.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/495.png"
+        "sprite": "src/assets/sprites/495.png",
+        "thumbnail": "src/assets/thumbnails/495.png",
+        "hires": "src/assets/hires/495.png"
       }
     },
     {
@@ -18109,9 +18109,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/496.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/496.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/496.png"
+        "sprite": "src/assets/sprites/496.png",
+        "thumbnail": "src/assets/thumbnails/496.png",
+        "hires": "src/assets/hires/496.png"
       }
     },
     {
@@ -18145,9 +18145,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/497.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/497.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/497.png"
+        "sprite": "src/assets/sprites/497.png",
+        "thumbnail": "src/assets/thumbnails/497.png",
+        "hires": "src/assets/hires/497.png"
       }
     },
     {
@@ -18181,9 +18181,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/498.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/498.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/498.png"
+        "sprite": "src/assets/sprites/498.png",
+        "thumbnail": "src/assets/thumbnails/498.png",
+        "hires": "src/assets/hires/498.png"
       }
     },
     {
@@ -18217,9 +18217,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/499.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/499.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/499.png"
+        "sprite": "src/assets/sprites/499.png",
+        "thumbnail": "src/assets/thumbnails/499.png",
+        "hires": "src/assets/hires/499.png"
       }
     },
     {
@@ -18253,9 +18253,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/500.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/500.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/500.png"
+        "sprite": "src/assets/sprites/500.png",
+        "thumbnail": "src/assets/thumbnails/500.png",
+        "hires": "src/assets/hires/500.png"
       }
     },
     {
@@ -18289,9 +18289,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/501.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/501.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/501.png"
+        "sprite": "src/assets/sprites/501.png",
+        "thumbnail": "src/assets/thumbnails/501.png",
+        "hires": "src/assets/hires/501.png"
       }
     },
     {
@@ -18325,9 +18325,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/502.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/502.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/502.png"
+        "sprite": "src/assets/sprites/502.png",
+        "thumbnail": "src/assets/thumbnails/502.png",
+        "hires": "src/assets/hires/502.png"
       }
     },
     {
@@ -18361,9 +18361,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/503.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/503.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/503.png"
+        "sprite": "src/assets/sprites/503.png",
+        "thumbnail": "src/assets/thumbnails/503.png",
+        "hires": "src/assets/hires/503.png"
       }
     },
     {
@@ -18398,9 +18398,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/504.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/504.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/504.png"
+        "sprite": "src/assets/sprites/504.png",
+        "thumbnail": "src/assets/thumbnails/504.png",
+        "hires": "src/assets/hires/504.png"
       }
     },
     {
@@ -18435,9 +18435,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/505.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/505.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/505.png"
+        "sprite": "src/assets/sprites/505.png",
+        "thumbnail": "src/assets/thumbnails/505.png",
+        "hires": "src/assets/hires/505.png"
       }
     },
     {
@@ -18472,9 +18472,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/506.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/506.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/506.png"
+        "sprite": "src/assets/sprites/506.png",
+        "thumbnail": "src/assets/thumbnails/506.png",
+        "hires": "src/assets/hires/506.png"
       }
     },
     {
@@ -18509,9 +18509,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/507.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/507.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/507.png"
+        "sprite": "src/assets/sprites/507.png",
+        "thumbnail": "src/assets/thumbnails/507.png",
+        "hires": "src/assets/hires/507.png"
       }
     },
     {
@@ -18546,9 +18546,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/508.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/508.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/508.png"
+        "sprite": "src/assets/sprites/508.png",
+        "thumbnail": "src/assets/thumbnails/508.png",
+        "hires": "src/assets/hires/508.png"
       }
     },
     {
@@ -18583,9 +18583,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/509.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/509.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/509.png"
+        "sprite": "src/assets/sprites/509.png",
+        "thumbnail": "src/assets/thumbnails/509.png",
+        "hires": "src/assets/hires/509.png"
       }
     },
     {
@@ -18620,9 +18620,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/510.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/510.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/510.png"
+        "sprite": "src/assets/sprites/510.png",
+        "thumbnail": "src/assets/thumbnails/510.png",
+        "hires": "src/assets/hires/510.png"
       }
     },
     {
@@ -18656,9 +18656,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/511.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/511.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/511.png"
+        "sprite": "src/assets/sprites/511.png",
+        "thumbnail": "src/assets/thumbnails/511.png",
+        "hires": "src/assets/hires/511.png"
       }
     },
     {
@@ -18692,9 +18692,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/512.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/512.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/512.png"
+        "sprite": "src/assets/sprites/512.png",
+        "thumbnail": "src/assets/thumbnails/512.png",
+        "hires": "src/assets/hires/512.png"
       }
     },
     {
@@ -18728,9 +18728,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/513.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/513.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/513.png"
+        "sprite": "src/assets/sprites/513.png",
+        "thumbnail": "src/assets/thumbnails/513.png",
+        "hires": "src/assets/hires/513.png"
       }
     },
     {
@@ -18764,9 +18764,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/514.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/514.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/514.png"
+        "sprite": "src/assets/sprites/514.png",
+        "thumbnail": "src/assets/thumbnails/514.png",
+        "hires": "src/assets/hires/514.png"
       }
     },
     {
@@ -18800,9 +18800,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/515.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/515.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/515.png"
+        "sprite": "src/assets/sprites/515.png",
+        "thumbnail": "src/assets/thumbnails/515.png",
+        "hires": "src/assets/hires/515.png"
       }
     },
     {
@@ -18836,9 +18836,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/516.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/516.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/516.png"
+        "sprite": "src/assets/sprites/516.png",
+        "thumbnail": "src/assets/thumbnails/516.png",
+        "hires": "src/assets/hires/516.png"
       }
     },
     {
@@ -18873,9 +18873,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/517.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/517.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/517.png"
+        "sprite": "src/assets/sprites/517.png",
+        "thumbnail": "src/assets/thumbnails/517.png",
+        "hires": "src/assets/hires/517.png"
       }
     },
     {
@@ -18910,9 +18910,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/518.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/518.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/518.png"
+        "sprite": "src/assets/sprites/518.png",
+        "thumbnail": "src/assets/thumbnails/518.png",
+        "hires": "src/assets/hires/518.png"
       }
     },
     {
@@ -18947,9 +18947,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/519.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/519.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/519.png"
+        "sprite": "src/assets/sprites/519.png",
+        "thumbnail": "src/assets/thumbnails/519.png",
+        "hires": "src/assets/hires/519.png"
       }
     },
     {
@@ -18984,9 +18984,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/520.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/520.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/520.png"
+        "sprite": "src/assets/sprites/520.png",
+        "thumbnail": "src/assets/thumbnails/520.png",
+        "hires": "src/assets/hires/520.png"
       }
     },
     {
@@ -19021,9 +19021,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/521.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/521.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/521.png"
+        "sprite": "src/assets/sprites/521.png",
+        "thumbnail": "src/assets/thumbnails/521.png",
+        "hires": "src/assets/hires/521.png"
       }
     },
     {
@@ -19058,9 +19058,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/522.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/522.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/522.png"
+        "sprite": "src/assets/sprites/522.png",
+        "thumbnail": "src/assets/thumbnails/522.png",
+        "hires": "src/assets/hires/522.png"
       }
     },
     {
@@ -19095,9 +19095,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/523.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/523.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/523.png"
+        "sprite": "src/assets/sprites/523.png",
+        "thumbnail": "src/assets/thumbnails/523.png",
+        "hires": "src/assets/hires/523.png"
       }
     },
     {
@@ -19132,9 +19132,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/524.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/524.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/524.png"
+        "sprite": "src/assets/sprites/524.png",
+        "thumbnail": "src/assets/thumbnails/524.png",
+        "hires": "src/assets/hires/524.png"
       }
     },
     {
@@ -19169,9 +19169,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/525.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/525.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/525.png"
+        "sprite": "src/assets/sprites/525.png",
+        "thumbnail": "src/assets/thumbnails/525.png",
+        "hires": "src/assets/hires/525.png"
       }
     },
     {
@@ -19206,9 +19206,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/526.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/526.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/526.png"
+        "sprite": "src/assets/sprites/526.png",
+        "thumbnail": "src/assets/thumbnails/526.png",
+        "hires": "src/assets/hires/526.png"
       }
     },
     {
@@ -19243,9 +19243,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/527.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/527.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/527.png"
+        "sprite": "src/assets/sprites/527.png",
+        "thumbnail": "src/assets/thumbnails/527.png",
+        "hires": "src/assets/hires/527.png"
       }
     },
     {
@@ -19280,9 +19280,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/528.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/528.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/528.png"
+        "sprite": "src/assets/sprites/528.png",
+        "thumbnail": "src/assets/thumbnails/528.png",
+        "hires": "src/assets/hires/528.png"
       }
     },
     {
@@ -19317,9 +19317,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/529.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/529.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/529.png"
+        "sprite": "src/assets/sprites/529.png",
+        "thumbnail": "src/assets/thumbnails/529.png",
+        "hires": "src/assets/hires/529.png"
       }
     },
     {
@@ -19354,9 +19354,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/530.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/530.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/530.png"
+        "sprite": "src/assets/sprites/530.png",
+        "thumbnail": "src/assets/thumbnails/530.png",
+        "hires": "src/assets/hires/530.png"
       }
     },
     {
@@ -19391,9 +19391,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/531.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/531.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/531.png"
+        "sprite": "src/assets/sprites/531.png",
+        "thumbnail": "src/assets/thumbnails/531.png",
+        "hires": "src/assets/hires/531.png"
       }
     },
     {
@@ -19428,9 +19428,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/532.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/532.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/532.png"
+        "sprite": "src/assets/sprites/532.png",
+        "thumbnail": "src/assets/thumbnails/532.png",
+        "hires": "src/assets/hires/532.png"
       }
     },
     {
@@ -19465,9 +19465,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/533.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/533.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/533.png"
+        "sprite": "src/assets/sprites/533.png",
+        "thumbnail": "src/assets/thumbnails/533.png",
+        "hires": "src/assets/hires/533.png"
       }
     },
     {
@@ -19502,9 +19502,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/534.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/534.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/534.png"
+        "sprite": "src/assets/sprites/534.png",
+        "thumbnail": "src/assets/thumbnails/534.png",
+        "hires": "src/assets/hires/534.png"
       }
     },
     {
@@ -19539,9 +19539,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/535.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/535.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/535.png"
+        "sprite": "src/assets/sprites/535.png",
+        "thumbnail": "src/assets/thumbnails/535.png",
+        "hires": "src/assets/hires/535.png"
       }
     },
     {
@@ -19576,9 +19576,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/536.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/536.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/536.png"
+        "sprite": "src/assets/sprites/536.png",
+        "thumbnail": "src/assets/thumbnails/536.png",
+        "hires": "src/assets/hires/536.png"
       }
     },
     {
@@ -19613,9 +19613,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/537.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/537.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/537.png"
+        "sprite": "src/assets/sprites/537.png",
+        "thumbnail": "src/assets/thumbnails/537.png",
+        "hires": "src/assets/hires/537.png"
       }
     },
     {
@@ -19650,9 +19650,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/538.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/538.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/538.png"
+        "sprite": "src/assets/sprites/538.png",
+        "thumbnail": "src/assets/thumbnails/538.png",
+        "hires": "src/assets/hires/538.png"
       }
     },
     {
@@ -19687,9 +19687,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/539.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/539.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/539.png"
+        "sprite": "src/assets/sprites/539.png",
+        "thumbnail": "src/assets/thumbnails/539.png",
+        "hires": "src/assets/hires/539.png"
       }
     },
     {
@@ -19724,9 +19724,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/540.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/540.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/540.png"
+        "sprite": "src/assets/sprites/540.png",
+        "thumbnail": "src/assets/thumbnails/540.png",
+        "hires": "src/assets/hires/540.png"
       }
     },
     {
@@ -19764,9 +19764,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/541.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/541.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/541.png"
+        "sprite": "src/assets/sprites/541.png",
+        "thumbnail": "src/assets/thumbnails/541.png",
+        "hires": "src/assets/hires/541.png"
       }
     },
     {
@@ -19801,9 +19801,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/542.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/542.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/542.png"
+        "sprite": "src/assets/sprites/542.png",
+        "thumbnail": "src/assets/thumbnails/542.png",
+        "hires": "src/assets/hires/542.png"
       }
     },
     {
@@ -19838,9 +19838,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/543.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/543.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/543.png"
+        "sprite": "src/assets/sprites/543.png",
+        "thumbnail": "src/assets/thumbnails/543.png",
+        "hires": "src/assets/hires/543.png"
       }
     },
     {
@@ -19875,9 +19875,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/544.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/544.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/544.png"
+        "sprite": "src/assets/sprites/544.png",
+        "thumbnail": "src/assets/thumbnails/544.png",
+        "hires": "src/assets/hires/544.png"
       }
     },
     {
@@ -19912,9 +19912,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/545.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/545.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/545.png"
+        "sprite": "src/assets/sprites/545.png",
+        "thumbnail": "src/assets/thumbnails/545.png",
+        "hires": "src/assets/hires/545.png"
       }
     },
     {
@@ -19949,9 +19949,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/546.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/546.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/546.png"
+        "sprite": "src/assets/sprites/546.png",
+        "thumbnail": "src/assets/thumbnails/546.png",
+        "hires": "src/assets/hires/546.png"
       }
     },
     {
@@ -19986,9 +19986,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/547.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/547.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/547.png"
+        "sprite": "src/assets/sprites/547.png",
+        "thumbnail": "src/assets/thumbnails/547.png",
+        "hires": "src/assets/hires/547.png"
       }
     },
     {
@@ -20023,9 +20023,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/548.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/548.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/548.png"
+        "sprite": "src/assets/sprites/548.png",
+        "thumbnail": "src/assets/thumbnails/548.png",
+        "hires": "src/assets/hires/548.png"
       }
     },
     {
@@ -20060,9 +20060,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/549.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/549.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/549.png"
+        "sprite": "src/assets/sprites/549.png",
+        "thumbnail": "src/assets/thumbnails/549.png",
+        "hires": "src/assets/hires/549.png"
       }
     },
     {
@@ -20097,9 +20097,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/550.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/550.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/550.png"
+        "sprite": "src/assets/sprites/550.png",
+        "thumbnail": "src/assets/thumbnails/550.png",
+        "hires": "src/assets/hires/550.png"
       }
     },
     {
@@ -20134,9 +20134,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/551.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/551.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/551.png"
+        "sprite": "src/assets/sprites/551.png",
+        "thumbnail": "src/assets/thumbnails/551.png",
+        "hires": "src/assets/hires/551.png"
       }
     },
     {
@@ -20171,9 +20171,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/552.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/552.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/552.png"
+        "sprite": "src/assets/sprites/552.png",
+        "thumbnail": "src/assets/thumbnails/552.png",
+        "hires": "src/assets/hires/552.png"
       }
     },
     {
@@ -20208,9 +20208,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/553.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/553.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/553.png"
+        "sprite": "src/assets/sprites/553.png",
+        "thumbnail": "src/assets/thumbnails/553.png",
+        "hires": "src/assets/hires/553.png"
       }
     },
     {
@@ -20244,9 +20244,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/554.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/554.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/554.png"
+        "sprite": "src/assets/sprites/554.png",
+        "thumbnail": "src/assets/thumbnails/554.png",
+        "hires": "src/assets/hires/554.png"
       }
     },
     {
@@ -20280,9 +20280,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/555.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/555.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/555.png"
+        "sprite": "src/assets/sprites/555.png",
+        "thumbnail": "src/assets/thumbnails/555.png",
+        "hires": "src/assets/hires/555.png"
       }
     },
     {
@@ -20317,9 +20317,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/556.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/556.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/556.png"
+        "sprite": "src/assets/sprites/556.png",
+        "thumbnail": "src/assets/thumbnails/556.png",
+        "hires": "src/assets/hires/556.png"
       }
     },
     {
@@ -20354,9 +20354,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/557.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/557.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/557.png"
+        "sprite": "src/assets/sprites/557.png",
+        "thumbnail": "src/assets/thumbnails/557.png",
+        "hires": "src/assets/hires/557.png"
       }
     },
     {
@@ -20391,9 +20391,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/558.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/558.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/558.png"
+        "sprite": "src/assets/sprites/558.png",
+        "thumbnail": "src/assets/thumbnails/558.png",
+        "hires": "src/assets/hires/558.png"
       }
     },
     {
@@ -20428,9 +20428,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/559.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/559.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/559.png"
+        "sprite": "src/assets/sprites/559.png",
+        "thumbnail": "src/assets/thumbnails/559.png",
+        "hires": "src/assets/hires/559.png"
       }
     },
     {
@@ -20465,9 +20465,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/560.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/560.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/560.png"
+        "sprite": "src/assets/sprites/560.png",
+        "thumbnail": "src/assets/thumbnails/560.png",
+        "hires": "src/assets/hires/560.png"
       }
     },
     {
@@ -20502,9 +20502,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/561.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/561.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/561.png"
+        "sprite": "src/assets/sprites/561.png",
+        "thumbnail": "src/assets/thumbnails/561.png",
+        "hires": "src/assets/hires/561.png"
       }
     },
     {
@@ -20535,9 +20535,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/562.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/562.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/562.png"
+        "sprite": "src/assets/sprites/562.png",
+        "thumbnail": "src/assets/thumbnails/562.png",
+        "hires": "src/assets/hires/562.png"
       }
     },
     {
@@ -20568,9 +20568,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/563.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/563.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/563.png"
+        "sprite": "src/assets/sprites/563.png",
+        "thumbnail": "src/assets/thumbnails/563.png",
+        "hires": "src/assets/hires/563.png"
       }
     },
     {
@@ -20605,9 +20605,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/564.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/564.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/564.png"
+        "sprite": "src/assets/sprites/564.png",
+        "thumbnail": "src/assets/thumbnails/564.png",
+        "hires": "src/assets/hires/564.png"
       }
     },
     {
@@ -20642,9 +20642,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/565.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/565.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/565.png"
+        "sprite": "src/assets/sprites/565.png",
+        "thumbnail": "src/assets/thumbnails/565.png",
+        "hires": "src/assets/hires/565.png"
       }
     },
     {
@@ -20675,9 +20675,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/566.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/566.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/566.png"
+        "sprite": "src/assets/sprites/566.png",
+        "thumbnail": "src/assets/thumbnails/566.png",
+        "hires": "src/assets/hires/566.png"
       }
     },
     {
@@ -20708,9 +20708,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/567.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/567.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/567.png"
+        "sprite": "src/assets/sprites/567.png",
+        "thumbnail": "src/assets/thumbnails/567.png",
+        "hires": "src/assets/hires/567.png"
       }
     },
     {
@@ -20745,9 +20745,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/568.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/568.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/568.png"
+        "sprite": "src/assets/sprites/568.png",
+        "thumbnail": "src/assets/thumbnails/568.png",
+        "hires": "src/assets/hires/568.png"
       }
     },
     {
@@ -20782,9 +20782,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/569.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/569.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/569.png"
+        "sprite": "src/assets/sprites/569.png",
+        "thumbnail": "src/assets/thumbnails/569.png",
+        "hires": "src/assets/hires/569.png"
       }
     },
     {
@@ -20815,9 +20815,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/570.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/570.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/570.png"
+        "sprite": "src/assets/sprites/570.png",
+        "thumbnail": "src/assets/thumbnails/570.png",
+        "hires": "src/assets/hires/570.png"
       }
     },
     {
@@ -20848,9 +20848,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/571.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/571.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/571.png"
+        "sprite": "src/assets/sprites/571.png",
+        "thumbnail": "src/assets/thumbnails/571.png",
+        "hires": "src/assets/hires/571.png"
       }
     },
     {
@@ -20885,9 +20885,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/572.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/572.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/572.png"
+        "sprite": "src/assets/sprites/572.png",
+        "thumbnail": "src/assets/thumbnails/572.png",
+        "hires": "src/assets/hires/572.png"
       }
     },
     {
@@ -20922,9 +20922,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/573.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/573.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/573.png"
+        "sprite": "src/assets/sprites/573.png",
+        "thumbnail": "src/assets/thumbnails/573.png",
+        "hires": "src/assets/hires/573.png"
       }
     },
     {
@@ -20959,9 +20959,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/574.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/574.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/574.png"
+        "sprite": "src/assets/sprites/574.png",
+        "thumbnail": "src/assets/thumbnails/574.png",
+        "hires": "src/assets/hires/574.png"
       }
     },
     {
@@ -20996,9 +20996,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/575.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/575.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/575.png"
+        "sprite": "src/assets/sprites/575.png",
+        "thumbnail": "src/assets/thumbnails/575.png",
+        "hires": "src/assets/hires/575.png"
       }
     },
     {
@@ -21033,9 +21033,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/576.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/576.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/576.png"
+        "sprite": "src/assets/sprites/576.png",
+        "thumbnail": "src/assets/thumbnails/576.png",
+        "hires": "src/assets/hires/576.png"
       }
     },
     {
@@ -21070,9 +21070,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/577.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/577.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/577.png"
+        "sprite": "src/assets/sprites/577.png",
+        "thumbnail": "src/assets/thumbnails/577.png",
+        "hires": "src/assets/hires/577.png"
       }
     },
     {
@@ -21107,9 +21107,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/578.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/578.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/578.png"
+        "sprite": "src/assets/sprites/578.png",
+        "thumbnail": "src/assets/thumbnails/578.png",
+        "hires": "src/assets/hires/578.png"
       }
     },
     {
@@ -21144,9 +21144,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/579.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/579.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/579.png"
+        "sprite": "src/assets/sprites/579.png",
+        "thumbnail": "src/assets/thumbnails/579.png",
+        "hires": "src/assets/hires/579.png"
       }
     },
     {
@@ -21181,9 +21181,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/580.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/580.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/580.png"
+        "sprite": "src/assets/sprites/580.png",
+        "thumbnail": "src/assets/thumbnails/580.png",
+        "hires": "src/assets/hires/580.png"
       }
     },
     {
@@ -21218,9 +21218,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/581.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/581.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/581.png"
+        "sprite": "src/assets/sprites/581.png",
+        "thumbnail": "src/assets/thumbnails/581.png",
+        "hires": "src/assets/hires/581.png"
       }
     },
     {
@@ -21255,9 +21255,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/582.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/582.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/582.png"
+        "sprite": "src/assets/sprites/582.png",
+        "thumbnail": "src/assets/thumbnails/582.png",
+        "hires": "src/assets/hires/582.png"
       }
     },
     {
@@ -21292,9 +21292,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/583.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/583.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/583.png"
+        "sprite": "src/assets/sprites/583.png",
+        "thumbnail": "src/assets/thumbnails/583.png",
+        "hires": "src/assets/hires/583.png"
       }
     },
     {
@@ -21329,9 +21329,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/584.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/584.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/584.png"
+        "sprite": "src/assets/sprites/584.png",
+        "thumbnail": "src/assets/thumbnails/584.png",
+        "hires": "src/assets/hires/584.png"
       }
     },
     {
@@ -21366,9 +21366,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/585.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/585.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/585.png"
+        "sprite": "src/assets/sprites/585.png",
+        "thumbnail": "src/assets/thumbnails/585.png",
+        "hires": "src/assets/hires/585.png"
       }
     },
     {
@@ -21403,9 +21403,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/586.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/586.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/586.png"
+        "sprite": "src/assets/sprites/586.png",
+        "thumbnail": "src/assets/thumbnails/586.png",
+        "hires": "src/assets/hires/586.png"
       }
     },
     {
@@ -21439,9 +21439,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/587.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/587.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/587.png"
+        "sprite": "src/assets/sprites/587.png",
+        "thumbnail": "src/assets/thumbnails/587.png",
+        "hires": "src/assets/hires/587.png"
       }
     },
     {
@@ -21476,9 +21476,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/588.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/588.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/588.png"
+        "sprite": "src/assets/sprites/588.png",
+        "thumbnail": "src/assets/thumbnails/588.png",
+        "hires": "src/assets/hires/588.png"
       }
     },
     {
@@ -21513,9 +21513,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/589.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/589.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/589.png"
+        "sprite": "src/assets/sprites/589.png",
+        "thumbnail": "src/assets/thumbnails/589.png",
+        "hires": "src/assets/hires/589.png"
       }
     },
     {
@@ -21549,9 +21549,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/590.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/590.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/590.png"
+        "sprite": "src/assets/sprites/590.png",
+        "thumbnail": "src/assets/thumbnails/590.png",
+        "hires": "src/assets/hires/590.png"
       }
     },
     {
@@ -21585,9 +21585,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/591.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/591.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/591.png"
+        "sprite": "src/assets/sprites/591.png",
+        "thumbnail": "src/assets/thumbnails/591.png",
+        "hires": "src/assets/hires/591.png"
       }
     },
     {
@@ -21622,9 +21622,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/592.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/592.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/592.png"
+        "sprite": "src/assets/sprites/592.png",
+        "thumbnail": "src/assets/thumbnails/592.png",
+        "hires": "src/assets/hires/592.png"
       }
     },
     {
@@ -21659,9 +21659,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/593.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/593.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/593.png"
+        "sprite": "src/assets/sprites/593.png",
+        "thumbnail": "src/assets/thumbnails/593.png",
+        "hires": "src/assets/hires/593.png"
       }
     },
     {
@@ -21696,9 +21696,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/594.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/594.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/594.png"
+        "sprite": "src/assets/sprites/594.png",
+        "thumbnail": "src/assets/thumbnails/594.png",
+        "hires": "src/assets/hires/594.png"
       }
     },
     {
@@ -21733,9 +21733,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/595.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/595.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/595.png"
+        "sprite": "src/assets/sprites/595.png",
+        "thumbnail": "src/assets/thumbnails/595.png",
+        "hires": "src/assets/hires/595.png"
       }
     },
     {
@@ -21770,9 +21770,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/596.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/596.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/596.png"
+        "sprite": "src/assets/sprites/596.png",
+        "thumbnail": "src/assets/thumbnails/596.png",
+        "hires": "src/assets/hires/596.png"
       }
     },
     {
@@ -21803,9 +21803,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/597.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/597.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/597.png"
+        "sprite": "src/assets/sprites/597.png",
+        "thumbnail": "src/assets/thumbnails/597.png",
+        "hires": "src/assets/hires/597.png"
       }
     },
     {
@@ -21839,9 +21839,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/598.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/598.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/598.png"
+        "sprite": "src/assets/sprites/598.png",
+        "thumbnail": "src/assets/thumbnails/598.png",
+        "hires": "src/assets/hires/598.png"
       }
     },
     {
@@ -21876,9 +21876,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/599.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/599.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/599.png"
+        "sprite": "src/assets/sprites/599.png",
+        "thumbnail": "src/assets/thumbnails/599.png",
+        "hires": "src/assets/hires/599.png"
       }
     },
     {
@@ -21913,9 +21913,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/600.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/600.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/600.png"
+        "sprite": "src/assets/sprites/600.png",
+        "thumbnail": "src/assets/thumbnails/600.png",
+        "hires": "src/assets/hires/600.png"
       }
     },
     {
@@ -21950,9 +21950,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/601.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/601.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/601.png"
+        "sprite": "src/assets/sprites/601.png",
+        "thumbnail": "src/assets/thumbnails/601.png",
+        "hires": "src/assets/hires/601.png"
       }
     },
     {
@@ -21983,9 +21983,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/602.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/602.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/602.png"
+        "sprite": "src/assets/sprites/602.png",
+        "thumbnail": "src/assets/thumbnails/602.png",
+        "hires": "src/assets/hires/602.png"
       }
     },
     {
@@ -22019,9 +22019,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/603.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/603.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/603.png"
+        "sprite": "src/assets/sprites/603.png",
+        "thumbnail": "src/assets/thumbnails/603.png",
+        "hires": "src/assets/hires/603.png"
       }
     },
     {
@@ -22052,9 +22052,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/604.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/604.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/604.png"
+        "sprite": "src/assets/sprites/604.png",
+        "thumbnail": "src/assets/thumbnails/604.png",
+        "hires": "src/assets/hires/604.png"
       }
     },
     {
@@ -22089,9 +22089,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/605.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/605.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/605.png"
+        "sprite": "src/assets/sprites/605.png",
+        "thumbnail": "src/assets/thumbnails/605.png",
+        "hires": "src/assets/hires/605.png"
       }
     },
     {
@@ -22126,9 +22126,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/606.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/606.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/606.png"
+        "sprite": "src/assets/sprites/606.png",
+        "thumbnail": "src/assets/thumbnails/606.png",
+        "hires": "src/assets/hires/606.png"
       }
     },
     {
@@ -22163,9 +22163,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/607.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/607.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/607.png"
+        "sprite": "src/assets/sprites/607.png",
+        "thumbnail": "src/assets/thumbnails/607.png",
+        "hires": "src/assets/hires/607.png"
       }
     },
     {
@@ -22203,9 +22203,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/608.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/608.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/608.png"
+        "sprite": "src/assets/sprites/608.png",
+        "thumbnail": "src/assets/thumbnails/608.png",
+        "hires": "src/assets/hires/608.png"
       }
     },
     {
@@ -22240,9 +22240,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/609.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/609.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/609.png"
+        "sprite": "src/assets/sprites/609.png",
+        "thumbnail": "src/assets/thumbnails/609.png",
+        "hires": "src/assets/hires/609.png"
       }
     },
     {
@@ -22277,9 +22277,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/610.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/610.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/610.png"
+        "sprite": "src/assets/sprites/610.png",
+        "thumbnail": "src/assets/thumbnails/610.png",
+        "hires": "src/assets/hires/610.png"
       }
     },
     {
@@ -22314,9 +22314,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/611.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/611.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/611.png"
+        "sprite": "src/assets/sprites/611.png",
+        "thumbnail": "src/assets/thumbnails/611.png",
+        "hires": "src/assets/hires/611.png"
       }
     },
     {
@@ -22351,9 +22351,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/612.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/612.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/612.png"
+        "sprite": "src/assets/sprites/612.png",
+        "thumbnail": "src/assets/thumbnails/612.png",
+        "hires": "src/assets/hires/612.png"
       }
     },
     {
@@ -22388,9 +22388,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/613.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/613.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/613.png"
+        "sprite": "src/assets/sprites/613.png",
+        "thumbnail": "src/assets/thumbnails/613.png",
+        "hires": "src/assets/hires/613.png"
       }
     },
     {
@@ -22425,9 +22425,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/614.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/614.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/614.png"
+        "sprite": "src/assets/sprites/614.png",
+        "thumbnail": "src/assets/thumbnails/614.png",
+        "hires": "src/assets/hires/614.png"
       }
     },
     {
@@ -22458,9 +22458,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/615.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/615.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/615.png"
+        "sprite": "src/assets/sprites/615.png",
+        "thumbnail": "src/assets/thumbnails/615.png",
+        "hires": "src/assets/hires/615.png"
       }
     },
     {
@@ -22495,9 +22495,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/616.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/616.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/616.png"
+        "sprite": "src/assets/sprites/616.png",
+        "thumbnail": "src/assets/thumbnails/616.png",
+        "hires": "src/assets/hires/616.png"
       }
     },
     {
@@ -22532,9 +22532,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/617.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/617.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/617.png"
+        "sprite": "src/assets/sprites/617.png",
+        "thumbnail": "src/assets/thumbnails/617.png",
+        "hires": "src/assets/hires/617.png"
       }
     },
     {
@@ -22569,9 +22569,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/618.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/618.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/618.png"
+        "sprite": "src/assets/sprites/618.png",
+        "thumbnail": "src/assets/thumbnails/618.png",
+        "hires": "src/assets/hires/618.png"
       }
     },
     {
@@ -22606,9 +22606,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/619.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/619.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/619.png"
+        "sprite": "src/assets/sprites/619.png",
+        "thumbnail": "src/assets/thumbnails/619.png",
+        "hires": "src/assets/hires/619.png"
       }
     },
     {
@@ -22643,9 +22643,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/620.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/620.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/620.png"
+        "sprite": "src/assets/sprites/620.png",
+        "thumbnail": "src/assets/thumbnails/620.png",
+        "hires": "src/assets/hires/620.png"
       }
     },
     {
@@ -22680,9 +22680,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/621.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/621.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/621.png"
+        "sprite": "src/assets/sprites/621.png",
+        "thumbnail": "src/assets/thumbnails/621.png",
+        "hires": "src/assets/hires/621.png"
       }
     },
     {
@@ -22717,9 +22717,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/622.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/622.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/622.png"
+        "sprite": "src/assets/sprites/622.png",
+        "thumbnail": "src/assets/thumbnails/622.png",
+        "hires": "src/assets/hires/622.png"
       }
     },
     {
@@ -22754,9 +22754,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/623.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/623.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/623.png"
+        "sprite": "src/assets/sprites/623.png",
+        "thumbnail": "src/assets/thumbnails/623.png",
+        "hires": "src/assets/hires/623.png"
       }
     },
     {
@@ -22791,9 +22791,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/624.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/624.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/624.png"
+        "sprite": "src/assets/sprites/624.png",
+        "thumbnail": "src/assets/thumbnails/624.png",
+        "hires": "src/assets/hires/624.png"
       }
     },
     {
@@ -22828,9 +22828,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/625.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/625.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/625.png"
+        "sprite": "src/assets/sprites/625.png",
+        "thumbnail": "src/assets/thumbnails/625.png",
+        "hires": "src/assets/hires/625.png"
       }
     },
     {
@@ -22865,9 +22865,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/626.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/626.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/626.png"
+        "sprite": "src/assets/sprites/626.png",
+        "thumbnail": "src/assets/thumbnails/626.png",
+        "hires": "src/assets/hires/626.png"
       }
     },
     {
@@ -22902,9 +22902,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/627.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/627.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/627.png"
+        "sprite": "src/assets/sprites/627.png",
+        "thumbnail": "src/assets/thumbnails/627.png",
+        "hires": "src/assets/hires/627.png"
       }
     },
     {
@@ -22939,9 +22939,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/628.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/628.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/628.png"
+        "sprite": "src/assets/sprites/628.png",
+        "thumbnail": "src/assets/thumbnails/628.png",
+        "hires": "src/assets/hires/628.png"
       }
     },
     {
@@ -22976,9 +22976,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/629.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/629.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/629.png"
+        "sprite": "src/assets/sprites/629.png",
+        "thumbnail": "src/assets/thumbnails/629.png",
+        "hires": "src/assets/hires/629.png"
       }
     },
     {
@@ -23013,9 +23013,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/630.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/630.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/630.png"
+        "sprite": "src/assets/sprites/630.png",
+        "thumbnail": "src/assets/thumbnails/630.png",
+        "hires": "src/assets/hires/630.png"
       }
     },
     {
@@ -23050,9 +23050,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/631.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/631.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/631.png"
+        "sprite": "src/assets/sprites/631.png",
+        "thumbnail": "src/assets/thumbnails/631.png",
+        "hires": "src/assets/hires/631.png"
       }
     },
     {
@@ -23087,9 +23087,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/632.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/632.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/632.png"
+        "sprite": "src/assets/sprites/632.png",
+        "thumbnail": "src/assets/thumbnails/632.png",
+        "hires": "src/assets/hires/632.png"
       }
     },
     {
@@ -23120,9 +23120,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/633.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/633.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/633.png"
+        "sprite": "src/assets/sprites/633.png",
+        "thumbnail": "src/assets/thumbnails/633.png",
+        "hires": "src/assets/hires/633.png"
       }
     },
     {
@@ -23153,9 +23153,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/634.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/634.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/634.png"
+        "sprite": "src/assets/sprites/634.png",
+        "thumbnail": "src/assets/thumbnails/634.png",
+        "hires": "src/assets/hires/634.png"
       }
     },
     {
@@ -23186,9 +23186,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/635.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/635.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/635.png"
+        "sprite": "src/assets/sprites/635.png",
+        "thumbnail": "src/assets/thumbnails/635.png",
+        "hires": "src/assets/hires/635.png"
       }
     },
     {
@@ -23222,9 +23222,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/636.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/636.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/636.png"
+        "sprite": "src/assets/sprites/636.png",
+        "thumbnail": "src/assets/thumbnails/636.png",
+        "hires": "src/assets/hires/636.png"
       }
     },
     {
@@ -23258,9 +23258,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/637.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/637.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/637.png"
+        "sprite": "src/assets/sprites/637.png",
+        "thumbnail": "src/assets/thumbnails/637.png",
+        "hires": "src/assets/hires/637.png"
       }
     },
     {
@@ -23291,9 +23291,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/638.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/638.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/638.png"
+        "sprite": "src/assets/sprites/638.png",
+        "thumbnail": "src/assets/thumbnails/638.png",
+        "hires": "src/assets/hires/638.png"
       }
     },
     {
@@ -23324,9 +23324,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/639.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/639.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/639.png"
+        "sprite": "src/assets/sprites/639.png",
+        "thumbnail": "src/assets/thumbnails/639.png",
+        "hires": "src/assets/hires/639.png"
       }
     },
     {
@@ -23357,9 +23357,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/640.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/640.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/640.png"
+        "sprite": "src/assets/sprites/640.png",
+        "thumbnail": "src/assets/thumbnails/640.png",
+        "hires": "src/assets/hires/640.png"
       }
     },
     {
@@ -23393,9 +23393,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/641.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/641.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/641.png"
+        "sprite": "src/assets/sprites/641.png",
+        "thumbnail": "src/assets/thumbnails/641.png",
+        "hires": "src/assets/hires/641.png"
       }
     },
     {
@@ -23429,9 +23429,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/642.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/642.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/642.png"
+        "sprite": "src/assets/sprites/642.png",
+        "thumbnail": "src/assets/thumbnails/642.png",
+        "hires": "src/assets/hires/642.png"
       }
     },
     {
@@ -23462,9 +23462,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/643.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/643.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/643.png"
+        "sprite": "src/assets/sprites/643.png",
+        "thumbnail": "src/assets/thumbnails/643.png",
+        "hires": "src/assets/hires/643.png"
       }
     },
     {
@@ -23495,9 +23495,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/644.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/644.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/644.png"
+        "sprite": "src/assets/sprites/644.png",
+        "thumbnail": "src/assets/thumbnails/644.png",
+        "hires": "src/assets/hires/644.png"
       }
     },
     {
@@ -23531,9 +23531,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/645.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/645.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/645.png"
+        "sprite": "src/assets/sprites/645.png",
+        "thumbnail": "src/assets/thumbnails/645.png",
+        "hires": "src/assets/hires/645.png"
       }
     },
     {
@@ -23564,9 +23564,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/646.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/646.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/646.png"
+        "sprite": "src/assets/sprites/646.png",
+        "thumbnail": "src/assets/thumbnails/646.png",
+        "hires": "src/assets/hires/646.png"
       }
     },
     {
@@ -23597,9 +23597,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/647.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/647.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/647.png"
+        "sprite": "src/assets/sprites/647.png",
+        "thumbnail": "src/assets/thumbnails/647.png",
+        "hires": "src/assets/hires/647.png"
       }
     },
     {
@@ -23630,9 +23630,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/648.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/648.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/648.png"
+        "sprite": "src/assets/sprites/648.png",
+        "thumbnail": "src/assets/thumbnails/648.png",
+        "hires": "src/assets/hires/648.png"
       }
     },
     {
@@ -23663,9 +23663,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/649.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/649.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/649.png"
+        "sprite": "src/assets/sprites/649.png",
+        "thumbnail": "src/assets/thumbnails/649.png",
+        "hires": "src/assets/hires/649.png"
       }
     },
     {
@@ -23699,9 +23699,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/650.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/650.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/650.png"
+        "sprite": "src/assets/sprites/650.png",
+        "thumbnail": "src/assets/thumbnails/650.png",
+        "hires": "src/assets/hires/650.png"
       }
     },
     {
@@ -23735,9 +23735,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/651.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/651.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/651.png"
+        "sprite": "src/assets/sprites/651.png",
+        "thumbnail": "src/assets/thumbnails/651.png",
+        "hires": "src/assets/hires/651.png"
       }
     },
     {
@@ -23771,9 +23771,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/652.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/652.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/652.png"
+        "sprite": "src/assets/sprites/652.png",
+        "thumbnail": "src/assets/thumbnails/652.png",
+        "hires": "src/assets/hires/652.png"
       }
     },
     {
@@ -23807,9 +23807,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/653.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/653.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/653.png"
+        "sprite": "src/assets/sprites/653.png",
+        "thumbnail": "src/assets/thumbnails/653.png",
+        "hires": "src/assets/hires/653.png"
       }
     },
     {
@@ -23843,9 +23843,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/654.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/654.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/654.png"
+        "sprite": "src/assets/sprites/654.png",
+        "thumbnail": "src/assets/thumbnails/654.png",
+        "hires": "src/assets/hires/654.png"
       }
     },
     {
@@ -23879,9 +23879,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/655.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/655.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/655.png"
+        "sprite": "src/assets/sprites/655.png",
+        "thumbnail": "src/assets/thumbnails/655.png",
+        "hires": "src/assets/hires/655.png"
       }
     },
     {
@@ -23915,9 +23915,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/656.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/656.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/656.png"
+        "sprite": "src/assets/sprites/656.png",
+        "thumbnail": "src/assets/thumbnails/656.png",
+        "hires": "src/assets/hires/656.png"
       }
     },
     {
@@ -23951,9 +23951,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/657.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/657.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/657.png"
+        "sprite": "src/assets/sprites/657.png",
+        "thumbnail": "src/assets/thumbnails/657.png",
+        "hires": "src/assets/hires/657.png"
       }
     },
     {
@@ -23987,9 +23987,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/658.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/658.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/658.png"
+        "sprite": "src/assets/sprites/658.png",
+        "thumbnail": "src/assets/thumbnails/658.png",
+        "hires": "src/assets/hires/658.png"
       }
     },
     {
@@ -24024,9 +24024,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/659.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/659.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/659.png"
+        "sprite": "src/assets/sprites/659.png",
+        "thumbnail": "src/assets/thumbnails/659.png",
+        "hires": "src/assets/hires/659.png"
       }
     },
     {
@@ -24061,9 +24061,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/660.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/660.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/660.png"
+        "sprite": "src/assets/sprites/660.png",
+        "thumbnail": "src/assets/thumbnails/660.png",
+        "hires": "src/assets/hires/660.png"
       }
     },
     {
@@ -24097,9 +24097,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/661.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/661.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/661.png"
+        "sprite": "src/assets/sprites/661.png",
+        "thumbnail": "src/assets/thumbnails/661.png",
+        "hires": "src/assets/hires/661.png"
       }
     },
     {
@@ -24133,9 +24133,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/662.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/662.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/662.png"
+        "sprite": "src/assets/sprites/662.png",
+        "thumbnail": "src/assets/thumbnails/662.png",
+        "hires": "src/assets/hires/662.png"
       }
     },
     {
@@ -24169,9 +24169,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/663.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/663.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/663.png"
+        "sprite": "src/assets/sprites/663.png",
+        "thumbnail": "src/assets/thumbnails/663.png",
+        "hires": "src/assets/hires/663.png"
       }
     },
     {
@@ -24206,9 +24206,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/664.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/664.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/664.png"
+        "sprite": "src/assets/sprites/664.png",
+        "thumbnail": "src/assets/thumbnails/664.png",
+        "hires": "src/assets/hires/664.png"
       }
     },
     {
@@ -24242,9 +24242,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/665.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/665.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/665.png"
+        "sprite": "src/assets/sprites/665.png",
+        "thumbnail": "src/assets/thumbnails/665.png",
+        "hires": "src/assets/hires/665.png"
       }
     },
     {
@@ -24279,9 +24279,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/666.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/666.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/666.png"
+        "sprite": "src/assets/sprites/666.png",
+        "thumbnail": "src/assets/thumbnails/666.png",
+        "hires": "src/assets/hires/666.png"
       }
     },
     {
@@ -24316,9 +24316,9 @@ export const pokedexData: Pokedex = [
         "gender": "12.5:87.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/667.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/667.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/667.png"
+        "sprite": "src/assets/sprites/667.png",
+        "thumbnail": "src/assets/thumbnails/667.png",
+        "hires": "src/assets/hires/667.png"
       }
     },
     {
@@ -24353,9 +24353,9 @@ export const pokedexData: Pokedex = [
         "gender": "12.5:87.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/668.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/668.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/668.png"
+        "sprite": "src/assets/sprites/668.png",
+        "thumbnail": "src/assets/thumbnails/668.png",
+        "hires": "src/assets/hires/668.png"
       }
     },
     {
@@ -24389,9 +24389,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/669.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/669.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/669.png"
+        "sprite": "src/assets/sprites/669.png",
+        "thumbnail": "src/assets/thumbnails/669.png",
+        "hires": "src/assets/hires/669.png"
       }
     },
     {
@@ -24428,9 +24428,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/670.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/670.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/670.png"
+        "sprite": "src/assets/sprites/670.png",
+        "thumbnail": "src/assets/thumbnails/670.png",
+        "hires": "src/assets/hires/670.png"
       }
     },
     {
@@ -24464,9 +24464,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/671.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/671.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/671.png"
+        "sprite": "src/assets/sprites/671.png",
+        "thumbnail": "src/assets/thumbnails/671.png",
+        "hires": "src/assets/hires/671.png"
       }
     },
     {
@@ -24500,9 +24500,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/672.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/672.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/672.png"
+        "sprite": "src/assets/sprites/672.png",
+        "thumbnail": "src/assets/thumbnails/672.png",
+        "hires": "src/assets/hires/672.png"
       }
     },
     {
@@ -24536,9 +24536,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/673.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/673.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/673.png"
+        "sprite": "src/assets/sprites/673.png",
+        "thumbnail": "src/assets/thumbnails/673.png",
+        "hires": "src/assets/hires/673.png"
       }
     },
     {
@@ -24573,9 +24573,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/674.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/674.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/674.png"
+        "sprite": "src/assets/sprites/674.png",
+        "thumbnail": "src/assets/thumbnails/674.png",
+        "hires": "src/assets/hires/674.png"
       }
     },
     {
@@ -24610,9 +24610,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/675.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/675.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/675.png"
+        "sprite": "src/assets/sprites/675.png",
+        "thumbnail": "src/assets/thumbnails/675.png",
+        "hires": "src/assets/hires/675.png"
       }
     },
     {
@@ -24643,9 +24643,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/676.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/676.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/676.png"
+        "sprite": "src/assets/sprites/676.png",
+        "thumbnail": "src/assets/thumbnails/676.png",
+        "hires": "src/assets/hires/676.png"
       }
     },
     {
@@ -24680,9 +24680,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/677.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/677.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/677.png"
+        "sprite": "src/assets/sprites/677.png",
+        "thumbnail": "src/assets/thumbnails/677.png",
+        "hires": "src/assets/hires/677.png"
       }
     },
     {
@@ -24717,9 +24717,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/678.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/678.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/678.png"
+        "sprite": "src/assets/sprites/678.png",
+        "thumbnail": "src/assets/thumbnails/678.png",
+        "hires": "src/assets/hires/678.png"
       }
     },
     {
@@ -24750,9 +24750,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/679.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/679.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/679.png"
+        "sprite": "src/assets/sprites/679.png",
+        "thumbnail": "src/assets/thumbnails/679.png",
+        "hires": "src/assets/hires/679.png"
       }
     },
     {
@@ -24786,9 +24786,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/680.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/680.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/680.png"
+        "sprite": "src/assets/sprites/680.png",
+        "thumbnail": "src/assets/thumbnails/680.png",
+        "hires": "src/assets/hires/680.png"
       }
     },
     {
@@ -24819,9 +24819,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/681.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/681.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/681.png"
+        "sprite": "src/assets/sprites/681.png",
+        "thumbnail": "src/assets/thumbnails/681.png",
+        "hires": "src/assets/hires/681.png"
       }
     },
     {
@@ -24855,9 +24855,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/682.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/682.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/682.png"
+        "sprite": "src/assets/sprites/682.png",
+        "thumbnail": "src/assets/thumbnails/682.png",
+        "hires": "src/assets/hires/682.png"
       }
     },
     {
@@ -24891,9 +24891,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/683.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/683.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/683.png"
+        "sprite": "src/assets/sprites/683.png",
+        "thumbnail": "src/assets/thumbnails/683.png",
+        "hires": "src/assets/hires/683.png"
       }
     },
     {
@@ -24927,9 +24927,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/684.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/684.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/684.png"
+        "sprite": "src/assets/sprites/684.png",
+        "thumbnail": "src/assets/thumbnails/684.png",
+        "hires": "src/assets/hires/684.png"
       }
     },
     {
@@ -24963,9 +24963,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/685.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/685.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/685.png"
+        "sprite": "src/assets/sprites/685.png",
+        "thumbnail": "src/assets/thumbnails/685.png",
+        "hires": "src/assets/hires/685.png"
       }
     },
     {
@@ -25000,9 +25000,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/686.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/686.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/686.png"
+        "sprite": "src/assets/sprites/686.png",
+        "thumbnail": "src/assets/thumbnails/686.png",
+        "hires": "src/assets/hires/686.png"
       }
     },
     {
@@ -25037,9 +25037,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/687.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/687.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/687.png"
+        "sprite": "src/assets/sprites/687.png",
+        "thumbnail": "src/assets/thumbnails/687.png",
+        "hires": "src/assets/hires/687.png"
       }
     },
     {
@@ -25074,9 +25074,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/688.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/688.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/688.png"
+        "sprite": "src/assets/sprites/688.png",
+        "thumbnail": "src/assets/thumbnails/688.png",
+        "hires": "src/assets/hires/688.png"
       }
     },
     {
@@ -25111,9 +25111,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/689.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/689.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/689.png"
+        "sprite": "src/assets/sprites/689.png",
+        "thumbnail": "src/assets/thumbnails/689.png",
+        "hires": "src/assets/hires/689.png"
       }
     },
     {
@@ -25148,9 +25148,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/690.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/690.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/690.png"
+        "sprite": "src/assets/sprites/690.png",
+        "thumbnail": "src/assets/thumbnails/690.png",
+        "hires": "src/assets/hires/690.png"
       }
     },
     {
@@ -25185,9 +25185,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/691.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/691.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/691.png"
+        "sprite": "src/assets/sprites/691.png",
+        "thumbnail": "src/assets/thumbnails/691.png",
+        "hires": "src/assets/hires/691.png"
       }
     },
     {
@@ -25218,9 +25218,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/692.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/692.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/692.png"
+        "sprite": "src/assets/sprites/692.png",
+        "thumbnail": "src/assets/thumbnails/692.png",
+        "hires": "src/assets/hires/692.png"
       }
     },
     {
@@ -25251,9 +25251,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/693.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/693.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/693.png"
+        "sprite": "src/assets/sprites/693.png",
+        "thumbnail": "src/assets/thumbnails/693.png",
+        "hires": "src/assets/hires/693.png"
       }
     },
     {
@@ -25288,9 +25288,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/694.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/694.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/694.png"
+        "sprite": "src/assets/sprites/694.png",
+        "thumbnail": "src/assets/thumbnails/694.png",
+        "hires": "src/assets/hires/694.png"
       }
     },
     {
@@ -25325,9 +25325,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/695.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/695.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/695.png"
+        "sprite": "src/assets/sprites/695.png",
+        "thumbnail": "src/assets/thumbnails/695.png",
+        "hires": "src/assets/hires/695.png"
       }
     },
     {
@@ -25361,9 +25361,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/696.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/696.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/696.png"
+        "sprite": "src/assets/sprites/696.png",
+        "thumbnail": "src/assets/thumbnails/696.png",
+        "hires": "src/assets/hires/696.png"
       }
     },
     {
@@ -25397,9 +25397,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/697.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/697.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/697.png"
+        "sprite": "src/assets/sprites/697.png",
+        "thumbnail": "src/assets/thumbnails/697.png",
+        "hires": "src/assets/hires/697.png"
       }
     },
     {
@@ -25433,9 +25433,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/698.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/698.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/698.png"
+        "sprite": "src/assets/sprites/698.png",
+        "thumbnail": "src/assets/thumbnails/698.png",
+        "hires": "src/assets/hires/698.png"
       }
     },
     {
@@ -25469,9 +25469,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/699.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/699.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/699.png"
+        "sprite": "src/assets/sprites/699.png",
+        "thumbnail": "src/assets/thumbnails/699.png",
+        "hires": "src/assets/hires/699.png"
       }
     },
     {
@@ -25505,9 +25505,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/700.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/700.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/700.png"
+        "sprite": "src/assets/sprites/700.png",
+        "thumbnail": "src/assets/thumbnails/700.png",
+        "hires": "src/assets/hires/700.png"
       }
     },
     {
@@ -25542,9 +25542,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/701.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/701.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/701.png"
+        "sprite": "src/assets/sprites/701.png",
+        "thumbnail": "src/assets/thumbnails/701.png",
+        "hires": "src/assets/hires/701.png"
       }
     },
     {
@@ -25579,9 +25579,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/702.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/702.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/702.png"
+        "sprite": "src/assets/sprites/702.png",
+        "thumbnail": "src/assets/thumbnails/702.png",
+        "hires": "src/assets/hires/702.png"
       }
     },
     {
@@ -25615,9 +25615,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/703.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/703.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/703.png"
+        "sprite": "src/assets/sprites/703.png",
+        "thumbnail": "src/assets/thumbnails/703.png",
+        "hires": "src/assets/hires/703.png"
       }
     },
     {
@@ -25652,9 +25652,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/704.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/704.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/704.png"
+        "sprite": "src/assets/sprites/704.png",
+        "thumbnail": "src/assets/thumbnails/704.png",
+        "hires": "src/assets/hires/704.png"
       }
     },
     {
@@ -25692,9 +25692,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/705.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/705.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/705.png"
+        "sprite": "src/assets/sprites/705.png",
+        "thumbnail": "src/assets/thumbnails/705.png",
+        "hires": "src/assets/hires/705.png"
       }
     },
     {
@@ -25729,9 +25729,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/706.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/706.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/706.png"
+        "sprite": "src/assets/sprites/706.png",
+        "thumbnail": "src/assets/thumbnails/706.png",
+        "hires": "src/assets/hires/706.png"
       }
     },
     {
@@ -25765,9 +25765,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/707.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/707.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/707.png"
+        "sprite": "src/assets/sprites/707.png",
+        "thumbnail": "src/assets/thumbnails/707.png",
+        "hires": "src/assets/hires/707.png"
       }
     },
     {
@@ -25802,9 +25802,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/708.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/708.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/708.png"
+        "sprite": "src/assets/sprites/708.png",
+        "thumbnail": "src/assets/thumbnails/708.png",
+        "hires": "src/assets/hires/708.png"
       }
     },
     {
@@ -25839,9 +25839,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/709.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/709.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/709.png"
+        "sprite": "src/assets/sprites/709.png",
+        "thumbnail": "src/assets/thumbnails/709.png",
+        "hires": "src/assets/hires/709.png"
       }
     },
     {
@@ -25876,9 +25876,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/710.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/710.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/710.png"
+        "sprite": "src/assets/sprites/710.png",
+        "thumbnail": "src/assets/thumbnails/710.png",
+        "hires": "src/assets/hires/710.png"
       }
     },
     {
@@ -25913,9 +25913,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/711.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/711.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/711.png"
+        "sprite": "src/assets/sprites/711.png",
+        "thumbnail": "src/assets/thumbnails/711.png",
+        "hires": "src/assets/hires/711.png"
       }
     },
     {
@@ -25950,9 +25950,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/712.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/712.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/712.png"
+        "sprite": "src/assets/sprites/712.png",
+        "thumbnail": "src/assets/thumbnails/712.png",
+        "hires": "src/assets/hires/712.png"
       }
     },
     {
@@ -25987,9 +25987,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/713.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/713.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/713.png"
+        "sprite": "src/assets/sprites/713.png",
+        "thumbnail": "src/assets/thumbnails/713.png",
+        "hires": "src/assets/hires/713.png"
       }
     },
     {
@@ -26024,9 +26024,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/714.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/714.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/714.png"
+        "sprite": "src/assets/sprites/714.png",
+        "thumbnail": "src/assets/thumbnails/714.png",
+        "hires": "src/assets/hires/714.png"
       }
     },
     {
@@ -26061,9 +26061,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/715.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/715.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/715.png"
+        "sprite": "src/assets/sprites/715.png",
+        "thumbnail": "src/assets/thumbnails/715.png",
+        "hires": "src/assets/hires/715.png"
       }
     },
     {
@@ -26094,9 +26094,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/716.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/716.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/716.png"
+        "sprite": "src/assets/sprites/716.png",
+        "thumbnail": "src/assets/thumbnails/716.png",
+        "hires": "src/assets/hires/716.png"
       }
     },
     {
@@ -26127,9 +26127,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/717.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/717.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/717.png"
+        "sprite": "src/assets/sprites/717.png",
+        "thumbnail": "src/assets/thumbnails/717.png",
+        "hires": "src/assets/hires/717.png"
       }
     },
     {
@@ -26160,9 +26160,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/718.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/718.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/718.png"
+        "sprite": "src/assets/sprites/718.png",
+        "thumbnail": "src/assets/thumbnails/718.png",
+        "hires": "src/assets/hires/718.png"
       }
     },
     {
@@ -26193,9 +26193,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/719.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/719.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/719.png"
+        "sprite": "src/assets/sprites/719.png",
+        "thumbnail": "src/assets/thumbnails/719.png",
+        "hires": "src/assets/hires/719.png"
       }
     },
     {
@@ -26226,9 +26226,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/720.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/720.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/720.png"
+        "sprite": "src/assets/sprites/720.png",
+        "thumbnail": "src/assets/thumbnails/720.png",
+        "hires": "src/assets/hires/720.png"
       }
     },
     {
@@ -26259,9 +26259,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/721.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/721.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/721.png"
+        "sprite": "src/assets/sprites/721.png",
+        "thumbnail": "src/assets/thumbnails/721.png",
+        "hires": "src/assets/hires/721.png"
       }
     },
     {
@@ -26295,9 +26295,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/722.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/722.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/722.png"
+        "sprite": "src/assets/sprites/722.png",
+        "thumbnail": "src/assets/thumbnails/722.png",
+        "hires": "src/assets/hires/722.png"
       }
     },
     {
@@ -26331,9 +26331,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/723.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/723.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/723.png"
+        "sprite": "src/assets/sprites/723.png",
+        "thumbnail": "src/assets/thumbnails/723.png",
+        "hires": "src/assets/hires/723.png"
       }
     },
     {
@@ -26367,9 +26367,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/724.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/724.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/724.png"
+        "sprite": "src/assets/sprites/724.png",
+        "thumbnail": "src/assets/thumbnails/724.png",
+        "hires": "src/assets/hires/724.png"
       }
     },
     {
@@ -26403,9 +26403,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/725.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/725.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/725.png"
+        "sprite": "src/assets/sprites/725.png",
+        "thumbnail": "src/assets/thumbnails/725.png",
+        "hires": "src/assets/hires/725.png"
       }
     },
     {
@@ -26439,9 +26439,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/726.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/726.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/726.png"
+        "sprite": "src/assets/sprites/726.png",
+        "thumbnail": "src/assets/thumbnails/726.png",
+        "hires": "src/assets/hires/726.png"
       }
     },
     {
@@ -26475,9 +26475,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/727.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/727.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/727.png"
+        "sprite": "src/assets/sprites/727.png",
+        "thumbnail": "src/assets/thumbnails/727.png",
+        "hires": "src/assets/hires/727.png"
       }
     },
     {
@@ -26511,9 +26511,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/728.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/728.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/728.png"
+        "sprite": "src/assets/sprites/728.png",
+        "thumbnail": "src/assets/thumbnails/728.png",
+        "hires": "src/assets/hires/728.png"
       }
     },
     {
@@ -26547,9 +26547,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/729.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/729.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/729.png"
+        "sprite": "src/assets/sprites/729.png",
+        "thumbnail": "src/assets/thumbnails/729.png",
+        "hires": "src/assets/hires/729.png"
       }
     },
     {
@@ -26583,9 +26583,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/730.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/730.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/730.png"
+        "sprite": "src/assets/sprites/730.png",
+        "thumbnail": "src/assets/thumbnails/730.png",
+        "hires": "src/assets/hires/730.png"
       }
     },
     {
@@ -26620,9 +26620,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/731.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/731.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/731.png"
+        "sprite": "src/assets/sprites/731.png",
+        "thumbnail": "src/assets/thumbnails/731.png",
+        "hires": "src/assets/hires/731.png"
       }
     },
     {
@@ -26657,9 +26657,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/732.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/732.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/732.png"
+        "sprite": "src/assets/sprites/732.png",
+        "thumbnail": "src/assets/thumbnails/732.png",
+        "hires": "src/assets/hires/732.png"
       }
     },
     {
@@ -26694,9 +26694,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/733.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/733.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/733.png"
+        "sprite": "src/assets/sprites/733.png",
+        "thumbnail": "src/assets/thumbnails/733.png",
+        "hires": "src/assets/hires/733.png"
       }
     },
     {
@@ -26731,9 +26731,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/734.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/734.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/734.png"
+        "sprite": "src/assets/sprites/734.png",
+        "thumbnail": "src/assets/thumbnails/734.png",
+        "hires": "src/assets/hires/734.png"
       }
     },
     {
@@ -26768,9 +26768,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/735.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/735.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/735.png"
+        "sprite": "src/assets/sprites/735.png",
+        "thumbnail": "src/assets/thumbnails/735.png",
+        "hires": "src/assets/hires/735.png"
       }
     },
     {
@@ -26801,9 +26801,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/736.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/736.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/736.png"
+        "sprite": "src/assets/sprites/736.png",
+        "thumbnail": "src/assets/thumbnails/736.png",
+        "hires": "src/assets/hires/736.png"
       }
     },
     {
@@ -26837,9 +26837,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/737.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/737.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/737.png"
+        "sprite": "src/assets/sprites/737.png",
+        "thumbnail": "src/assets/thumbnails/737.png",
+        "hires": "src/assets/hires/737.png"
       }
     },
     {
@@ -26875,9 +26875,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/738.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/738.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/738.png"
+        "sprite": "src/assets/sprites/738.png",
+        "thumbnail": "src/assets/thumbnails/738.png",
+        "hires": "src/assets/hires/738.png"
       }
     },
     {
@@ -26912,9 +26912,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/739.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/739.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/739.png"
+        "sprite": "src/assets/sprites/739.png",
+        "thumbnail": "src/assets/thumbnails/739.png",
+        "hires": "src/assets/hires/739.png"
       }
     },
     {
@@ -26949,9 +26949,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/740.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/740.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/740.png"
+        "sprite": "src/assets/sprites/740.png",
+        "thumbnail": "src/assets/thumbnails/740.png",
+        "hires": "src/assets/hires/740.png"
       }
     },
     {
@@ -26982,9 +26982,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/741.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/741.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/741.png"
+        "sprite": "src/assets/sprites/741.png",
+        "thumbnail": "src/assets/thumbnails/741.png",
+        "hires": "src/assets/hires/741.png"
       }
     },
     {
@@ -27019,9 +27019,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/742.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/742.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/742.png"
+        "sprite": "src/assets/sprites/742.png",
+        "thumbnail": "src/assets/thumbnails/742.png",
+        "hires": "src/assets/hires/742.png"
       }
     },
     {
@@ -27056,9 +27056,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/743.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/743.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/743.png"
+        "sprite": "src/assets/sprites/743.png",
+        "thumbnail": "src/assets/thumbnails/743.png",
+        "hires": "src/assets/hires/743.png"
       }
     },
     {
@@ -27093,9 +27093,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/744.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/744.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/744.png"
+        "sprite": "src/assets/sprites/744.png",
+        "thumbnail": "src/assets/thumbnails/744.png",
+        "hires": "src/assets/hires/744.png"
       }
     },
     {
@@ -27130,9 +27130,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/745.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/745.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/745.png"
+        "sprite": "src/assets/sprites/745.png",
+        "thumbnail": "src/assets/thumbnails/745.png",
+        "hires": "src/assets/hires/745.png"
       }
     },
     {
@@ -27163,9 +27163,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/746.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/746.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/746.png"
+        "sprite": "src/assets/sprites/746.png",
+        "thumbnail": "src/assets/thumbnails/746.png",
+        "hires": "src/assets/hires/746.png"
       }
     },
     {
@@ -27200,9 +27200,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/747.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/747.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/747.png"
+        "sprite": "src/assets/sprites/747.png",
+        "thumbnail": "src/assets/thumbnails/747.png",
+        "hires": "src/assets/hires/747.png"
       }
     },
     {
@@ -27237,9 +27237,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/748.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/748.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/748.png"
+        "sprite": "src/assets/sprites/748.png",
+        "thumbnail": "src/assets/thumbnails/748.png",
+        "hires": "src/assets/hires/748.png"
       }
     },
     {
@@ -27274,9 +27274,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/749.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/749.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/749.png"
+        "sprite": "src/assets/sprites/749.png",
+        "thumbnail": "src/assets/thumbnails/749.png",
+        "hires": "src/assets/hires/749.png"
       }
     },
     {
@@ -27311,9 +27311,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/750.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/750.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/750.png"
+        "sprite": "src/assets/sprites/750.png",
+        "thumbnail": "src/assets/thumbnails/750.png",
+        "hires": "src/assets/hires/750.png"
       }
     },
     {
@@ -27347,9 +27347,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/751.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/751.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/751.png"
+        "sprite": "src/assets/sprites/751.png",
+        "thumbnail": "src/assets/thumbnails/751.png",
+        "hires": "src/assets/hires/751.png"
       }
     },
     {
@@ -27383,9 +27383,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/752.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/752.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/752.png"
+        "sprite": "src/assets/sprites/752.png",
+        "thumbnail": "src/assets/thumbnails/752.png",
+        "hires": "src/assets/hires/752.png"
       }
     },
     {
@@ -27419,9 +27419,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/753.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/753.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/753.png"
+        "sprite": "src/assets/sprites/753.png",
+        "thumbnail": "src/assets/thumbnails/753.png",
+        "hires": "src/assets/hires/753.png"
       }
     },
     {
@@ -27455,9 +27455,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/754.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/754.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/754.png"
+        "sprite": "src/assets/sprites/754.png",
+        "thumbnail": "src/assets/thumbnails/754.png",
+        "hires": "src/assets/hires/754.png"
       }
     },
     {
@@ -27492,9 +27492,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/755.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/755.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/755.png"
+        "sprite": "src/assets/sprites/755.png",
+        "thumbnail": "src/assets/thumbnails/755.png",
+        "hires": "src/assets/hires/755.png"
       }
     },
     {
@@ -27529,9 +27529,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/756.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/756.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/756.png"
+        "sprite": "src/assets/sprites/756.png",
+        "thumbnail": "src/assets/thumbnails/756.png",
+        "hires": "src/assets/hires/756.png"
       }
     },
     {
@@ -27565,9 +27565,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/757.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/757.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/757.png"
+        "sprite": "src/assets/sprites/757.png",
+        "thumbnail": "src/assets/thumbnails/757.png",
+        "hires": "src/assets/hires/757.png"
       }
     },
     {
@@ -27601,9 +27601,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/758.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/758.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/758.png"
+        "sprite": "src/assets/sprites/758.png",
+        "thumbnail": "src/assets/thumbnails/758.png",
+        "hires": "src/assets/hires/758.png"
       }
     },
     {
@@ -27638,9 +27638,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/759.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/759.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/759.png"
+        "sprite": "src/assets/sprites/759.png",
+        "thumbnail": "src/assets/thumbnails/759.png",
+        "hires": "src/assets/hires/759.png"
       }
     },
     {
@@ -27675,9 +27675,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/760.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/760.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/760.png"
+        "sprite": "src/assets/sprites/760.png",
+        "thumbnail": "src/assets/thumbnails/760.png",
+        "hires": "src/assets/hires/760.png"
       }
     },
     {
@@ -27712,9 +27712,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/761.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/761.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/761.png"
+        "sprite": "src/assets/sprites/761.png",
+        "thumbnail": "src/assets/thumbnails/761.png",
+        "hires": "src/assets/hires/761.png"
       }
     },
     {
@@ -27752,9 +27752,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/762.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/762.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/762.png"
+        "sprite": "src/assets/sprites/762.png",
+        "thumbnail": "src/assets/thumbnails/762.png",
+        "hires": "src/assets/hires/762.png"
       }
     },
     {
@@ -27789,9 +27789,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/763.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/763.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/763.png"
+        "sprite": "src/assets/sprites/763.png",
+        "thumbnail": "src/assets/thumbnails/763.png",
+        "hires": "src/assets/hires/763.png"
       }
     },
     {
@@ -27826,9 +27826,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/764.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/764.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/764.png"
+        "sprite": "src/assets/sprites/764.png",
+        "thumbnail": "src/assets/thumbnails/764.png",
+        "hires": "src/assets/hires/764.png"
       }
     },
     {
@@ -27863,9 +27863,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/765.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/765.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/765.png"
+        "sprite": "src/assets/sprites/765.png",
+        "thumbnail": "src/assets/thumbnails/765.png",
+        "hires": "src/assets/hires/765.png"
       }
     },
     {
@@ -27899,9 +27899,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/766.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/766.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/766.png"
+        "sprite": "src/assets/sprites/766.png",
+        "thumbnail": "src/assets/thumbnails/766.png",
+        "hires": "src/assets/hires/766.png"
       }
     },
     {
@@ -27932,9 +27932,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/767.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/767.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/767.png"
+        "sprite": "src/assets/sprites/767.png",
+        "thumbnail": "src/assets/thumbnails/767.png",
+        "hires": "src/assets/hires/767.png"
       }
     },
     {
@@ -27965,9 +27965,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/768.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/768.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/768.png"
+        "sprite": "src/assets/sprites/768.png",
+        "thumbnail": "src/assets/thumbnails/768.png",
+        "hires": "src/assets/hires/768.png"
       }
     },
     {
@@ -28001,9 +28001,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/769.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/769.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/769.png"
+        "sprite": "src/assets/sprites/769.png",
+        "thumbnail": "src/assets/thumbnails/769.png",
+        "hires": "src/assets/hires/769.png"
       }
     },
     {
@@ -28037,9 +28037,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/770.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/770.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/770.png"
+        "sprite": "src/assets/sprites/770.png",
+        "thumbnail": "src/assets/thumbnails/770.png",
+        "hires": "src/assets/hires/770.png"
       }
     },
     {
@@ -28073,9 +28073,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/771.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/771.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/771.png"
+        "sprite": "src/assets/sprites/771.png",
+        "thumbnail": "src/assets/thumbnails/771.png",
+        "hires": "src/assets/hires/771.png"
       }
     },
     {
@@ -28106,9 +28106,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/772.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/772.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/772.png"
+        "sprite": "src/assets/sprites/772.png",
+        "thumbnail": "src/assets/thumbnails/772.png",
+        "hires": "src/assets/hires/772.png"
       }
     },
     {
@@ -28139,9 +28139,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/773.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/773.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/773.png"
+        "sprite": "src/assets/sprites/773.png",
+        "thumbnail": "src/assets/thumbnails/773.png",
+        "hires": "src/assets/hires/773.png"
       }
     },
     {
@@ -28172,9 +28172,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/774.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/774.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/774.png"
+        "sprite": "src/assets/sprites/774.png",
+        "thumbnail": "src/assets/thumbnails/774.png",
+        "hires": "src/assets/hires/774.png"
       }
     },
     {
@@ -28205,9 +28205,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/775.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/775.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/775.png"
+        "sprite": "src/assets/sprites/775.png",
+        "thumbnail": "src/assets/thumbnails/775.png",
+        "hires": "src/assets/hires/775.png"
       }
     },
     {
@@ -28238,9 +28238,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/776.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/776.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/776.png"
+        "sprite": "src/assets/sprites/776.png",
+        "thumbnail": "src/assets/thumbnails/776.png",
+        "hires": "src/assets/hires/776.png"
       }
     },
     {
@@ -28275,9 +28275,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/777.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/777.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/777.png"
+        "sprite": "src/assets/sprites/777.png",
+        "thumbnail": "src/assets/thumbnails/777.png",
+        "hires": "src/assets/hires/777.png"
       }
     },
     {
@@ -28308,9 +28308,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/778.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/778.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/778.png"
+        "sprite": "src/assets/sprites/778.png",
+        "thumbnail": "src/assets/thumbnails/778.png",
+        "hires": "src/assets/hires/778.png"
       }
     },
     {
@@ -28345,9 +28345,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/779.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/779.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/779.png"
+        "sprite": "src/assets/sprites/779.png",
+        "thumbnail": "src/assets/thumbnails/779.png",
+        "hires": "src/assets/hires/779.png"
       }
     },
     {
@@ -28382,9 +28382,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/780.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/780.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/780.png"
+        "sprite": "src/assets/sprites/780.png",
+        "thumbnail": "src/assets/thumbnails/780.png",
+        "hires": "src/assets/hires/780.png"
       }
     },
     {
@@ -28415,9 +28415,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/781.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/781.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/781.png"
+        "sprite": "src/assets/sprites/781.png",
+        "thumbnail": "src/assets/thumbnails/781.png",
+        "hires": "src/assets/hires/781.png"
       }
     },
     {
@@ -28452,9 +28452,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/782.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/782.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/782.png"
+        "sprite": "src/assets/sprites/782.png",
+        "thumbnail": "src/assets/thumbnails/782.png",
+        "hires": "src/assets/hires/782.png"
       }
     },
     {
@@ -28489,9 +28489,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/783.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/783.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/783.png"
+        "sprite": "src/assets/sprites/783.png",
+        "thumbnail": "src/assets/thumbnails/783.png",
+        "hires": "src/assets/hires/783.png"
       }
     },
     {
@@ -28526,9 +28526,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/784.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/784.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/784.png"
+        "sprite": "src/assets/sprites/784.png",
+        "thumbnail": "src/assets/thumbnails/784.png",
+        "hires": "src/assets/hires/784.png"
       }
     },
     {
@@ -28562,9 +28562,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/785.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/785.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/785.png"
+        "sprite": "src/assets/sprites/785.png",
+        "thumbnail": "src/assets/thumbnails/785.png",
+        "hires": "src/assets/hires/785.png"
       }
     },
     {
@@ -28598,9 +28598,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/786.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/786.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/786.png"
+        "sprite": "src/assets/sprites/786.png",
+        "thumbnail": "src/assets/thumbnails/786.png",
+        "hires": "src/assets/hires/786.png"
       }
     },
     {
@@ -28634,9 +28634,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/787.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/787.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/787.png"
+        "sprite": "src/assets/sprites/787.png",
+        "thumbnail": "src/assets/thumbnails/787.png",
+        "hires": "src/assets/hires/787.png"
       }
     },
     {
@@ -28670,9 +28670,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/788.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/788.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/788.png"
+        "sprite": "src/assets/sprites/788.png",
+        "thumbnail": "src/assets/thumbnails/788.png",
+        "hires": "src/assets/hires/788.png"
       }
     },
     {
@@ -28703,9 +28703,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/789.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/789.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/789.png"
+        "sprite": "src/assets/sprites/789.png",
+        "thumbnail": "src/assets/thumbnails/789.png",
+        "hires": "src/assets/hires/789.png"
       }
     },
     {
@@ -28742,9 +28742,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/790.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/790.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/790.png"
+        "sprite": "src/assets/sprites/790.png",
+        "thumbnail": "src/assets/thumbnails/790.png",
+        "hires": "src/assets/hires/790.png"
       }
     },
     {
@@ -28775,9 +28775,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/791.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/791.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/791.png"
+        "sprite": "src/assets/sprites/791.png",
+        "thumbnail": "src/assets/thumbnails/791.png",
+        "hires": "src/assets/hires/791.png"
       }
     },
     {
@@ -28808,9 +28808,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/792.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/792.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/792.png"
+        "sprite": "src/assets/sprites/792.png",
+        "thumbnail": "src/assets/thumbnails/792.png",
+        "hires": "src/assets/hires/792.png"
       }
     },
     {
@@ -28841,9 +28841,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/793.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/793.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/793.png"
+        "sprite": "src/assets/sprites/793.png",
+        "thumbnail": "src/assets/thumbnails/793.png",
+        "hires": "src/assets/hires/793.png"
       }
     },
     {
@@ -28874,9 +28874,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/794.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/794.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/794.png"
+        "sprite": "src/assets/sprites/794.png",
+        "thumbnail": "src/assets/thumbnails/794.png",
+        "hires": "src/assets/hires/794.png"
       }
     },
     {
@@ -28907,9 +28907,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/795.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/795.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/795.png"
+        "sprite": "src/assets/sprites/795.png",
+        "thumbnail": "src/assets/thumbnails/795.png",
+        "hires": "src/assets/hires/795.png"
       }
     },
     {
@@ -28940,9 +28940,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/796.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/796.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/796.png"
+        "sprite": "src/assets/sprites/796.png",
+        "thumbnail": "src/assets/thumbnails/796.png",
+        "hires": "src/assets/hires/796.png"
       }
     },
     {
@@ -28973,9 +28973,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/797.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/797.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/797.png"
+        "sprite": "src/assets/sprites/797.png",
+        "thumbnail": "src/assets/thumbnails/797.png",
+        "hires": "src/assets/hires/797.png"
       }
     },
     {
@@ -29006,9 +29006,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/798.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/798.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/798.png"
+        "sprite": "src/assets/sprites/798.png",
+        "thumbnail": "src/assets/thumbnails/798.png",
+        "hires": "src/assets/hires/798.png"
       }
     },
     {
@@ -29039,9 +29039,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/799.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/799.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/799.png"
+        "sprite": "src/assets/sprites/799.png",
+        "thumbnail": "src/assets/thumbnails/799.png",
+        "hires": "src/assets/hires/799.png"
       }
     },
     {
@@ -29072,9 +29072,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/800.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/800.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/800.png"
+        "sprite": "src/assets/sprites/800.png",
+        "thumbnail": "src/assets/thumbnails/800.png",
+        "hires": "src/assets/hires/800.png"
       }
     },
     {
@@ -29105,9 +29105,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/801.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/801.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/801.png"
+        "sprite": "src/assets/sprites/801.png",
+        "thumbnail": "src/assets/thumbnails/801.png",
+        "hires": "src/assets/hires/801.png"
       }
     },
     {
@@ -29138,9 +29138,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/802.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/802.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/802.png"
+        "sprite": "src/assets/sprites/802.png",
+        "thumbnail": "src/assets/thumbnails/802.png",
+        "hires": "src/assets/hires/802.png"
       }
     },
     {
@@ -29171,9 +29171,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/803.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/803.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/803.png"
+        "sprite": "src/assets/sprites/803.png",
+        "thumbnail": "src/assets/thumbnails/803.png",
+        "hires": "src/assets/hires/803.png"
       }
     },
     {
@@ -29204,9 +29204,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/804.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/804.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/804.png"
+        "sprite": "src/assets/sprites/804.png",
+        "thumbnail": "src/assets/thumbnails/804.png",
+        "hires": "src/assets/hires/804.png"
       }
     },
     {
@@ -29237,9 +29237,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/805.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/805.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/805.png"
+        "sprite": "src/assets/sprites/805.png",
+        "thumbnail": "src/assets/thumbnails/805.png",
+        "hires": "src/assets/hires/805.png"
       }
     },
     {
@@ -29270,9 +29270,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/806.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/806.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/806.png"
+        "sprite": "src/assets/sprites/806.png",
+        "thumbnail": "src/assets/thumbnails/806.png",
+        "hires": "src/assets/hires/806.png"
       }
     },
     {
@@ -29303,9 +29303,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/807.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/807.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/807.png"
+        "sprite": "src/assets/sprites/807.png",
+        "thumbnail": "src/assets/thumbnails/807.png",
+        "hires": "src/assets/hires/807.png"
       }
     },
     {
@@ -29336,9 +29336,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/808.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/808.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/808.png"
+        "sprite": "src/assets/sprites/808.png",
+        "thumbnail": "src/assets/thumbnails/808.png",
+        "hires": "src/assets/hires/808.png"
       }
     },
     {
@@ -29369,9 +29369,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/809.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/809.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/809.png"
+        "sprite": "src/assets/sprites/809.png",
+        "thumbnail": "src/assets/thumbnails/809.png",
+        "hires": "src/assets/hires/809.png"
       }
     },
     {
@@ -29396,9 +29396,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/810.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/810.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/810.png"
+        "sprite": "src/assets/sprites/810.png",
+        "thumbnail": "src/assets/thumbnails/810.png",
+        "hires": "src/assets/hires/810.png"
       }
     },
     {
@@ -29423,9 +29423,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/811.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/811.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/811.png"
+        "sprite": "src/assets/sprites/811.png",
+        "thumbnail": "src/assets/thumbnails/811.png",
+        "hires": "src/assets/hires/811.png"
       }
     },
     {
@@ -29450,9 +29450,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/812.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/812.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/812.png"
+        "sprite": "src/assets/sprites/812.png",
+        "thumbnail": "src/assets/thumbnails/812.png",
+        "hires": "src/assets/hires/812.png"
       }
     },
     {
@@ -29477,9 +29477,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/813.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/813.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/813.png"
+        "sprite": "src/assets/sprites/813.png",
+        "thumbnail": "src/assets/thumbnails/813.png",
+        "hires": "src/assets/hires/813.png"
       }
     },
     {
@@ -29504,9 +29504,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/814.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/814.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/814.png"
+        "sprite": "src/assets/sprites/814.png",
+        "thumbnail": "src/assets/thumbnails/814.png",
+        "hires": "src/assets/hires/814.png"
       }
     },
     {
@@ -29531,9 +29531,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/815.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/815.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/815.png"
+        "sprite": "src/assets/sprites/815.png",
+        "thumbnail": "src/assets/thumbnails/815.png",
+        "hires": "src/assets/hires/815.png"
       }
     },
     {
@@ -29558,9 +29558,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/816.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/816.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/816.png"
+        "sprite": "src/assets/sprites/816.png",
+        "thumbnail": "src/assets/thumbnails/816.png",
+        "hires": "src/assets/hires/816.png"
       }
     },
     {
@@ -29585,9 +29585,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/817.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/817.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/817.png"
+        "sprite": "src/assets/sprites/817.png",
+        "thumbnail": "src/assets/thumbnails/817.png",
+        "hires": "src/assets/hires/817.png"
       }
     },
     {
@@ -29612,9 +29612,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/818.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/818.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/818.png"
+        "sprite": "src/assets/sprites/818.png",
+        "thumbnail": "src/assets/thumbnails/818.png",
+        "hires": "src/assets/hires/818.png"
       }
     },
     {
@@ -29639,9 +29639,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/819.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/819.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/819.png"
+        "sprite": "src/assets/sprites/819.png",
+        "thumbnail": "src/assets/thumbnails/819.png",
+        "hires": "src/assets/hires/819.png"
       }
     },
     {
@@ -29666,9 +29666,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/820.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/820.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/820.png"
+        "sprite": "src/assets/sprites/820.png",
+        "thumbnail": "src/assets/thumbnails/820.png",
+        "hires": "src/assets/hires/820.png"
       }
     },
     {
@@ -29694,9 +29694,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/821.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/821.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/821.png"
+        "sprite": "src/assets/sprites/821.png",
+        "thumbnail": "src/assets/thumbnails/821.png",
+        "hires": "src/assets/hires/821.png"
       }
     },
     {
@@ -29722,9 +29722,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/822.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/822.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/822.png"
+        "sprite": "src/assets/sprites/822.png",
+        "thumbnail": "src/assets/thumbnails/822.png",
+        "hires": "src/assets/hires/822.png"
       }
     },
     {
@@ -29750,9 +29750,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/823.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/823.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/823.png"
+        "sprite": "src/assets/sprites/823.png",
+        "thumbnail": "src/assets/thumbnails/823.png",
+        "hires": "src/assets/hires/823.png"
       }
     },
     {
@@ -29778,9 +29778,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/824.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/824.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/824.png"
+        "sprite": "src/assets/sprites/824.png",
+        "thumbnail": "src/assets/thumbnails/824.png",
+        "hires": "src/assets/hires/824.png"
       }
     },
     {
@@ -29806,9 +29806,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/825.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/825.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/825.png"
+        "sprite": "src/assets/sprites/825.png",
+        "thumbnail": "src/assets/thumbnails/825.png",
+        "hires": "src/assets/hires/825.png"
       }
     },
     {
@@ -29834,9 +29834,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/826.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/826.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/826.png"
+        "sprite": "src/assets/sprites/826.png",
+        "thumbnail": "src/assets/thumbnails/826.png",
+        "hires": "src/assets/hires/826.png"
       }
     },
     {
@@ -29862,9 +29862,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/827.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/827.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/827.png"
+        "sprite": "src/assets/sprites/827.png",
+        "thumbnail": "src/assets/thumbnails/827.png",
+        "hires": "src/assets/hires/827.png"
       }
     },
     {
@@ -29890,9 +29890,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/828.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/828.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/828.png"
+        "sprite": "src/assets/sprites/828.png",
+        "thumbnail": "src/assets/thumbnails/828.png",
+        "hires": "src/assets/hires/828.png"
       }
     },
     {
@@ -29918,9 +29918,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/829.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/829.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/829.png"
+        "sprite": "src/assets/sprites/829.png",
+        "thumbnail": "src/assets/thumbnails/829.png",
+        "hires": "src/assets/hires/829.png"
       }
     },
     {
@@ -29946,9 +29946,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/830.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/830.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/830.png"
+        "sprite": "src/assets/sprites/830.png",
+        "thumbnail": "src/assets/thumbnails/830.png",
+        "hires": "src/assets/hires/830.png"
       }
     },
     {
@@ -29974,9 +29974,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/831.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/831.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/831.png"
+        "sprite": "src/assets/sprites/831.png",
+        "thumbnail": "src/assets/thumbnails/831.png",
+        "hires": "src/assets/hires/831.png"
       }
     },
     {
@@ -30002,9 +30002,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/832.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/832.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/832.png"
+        "sprite": "src/assets/sprites/832.png",
+        "thumbnail": "src/assets/thumbnails/832.png",
+        "hires": "src/assets/hires/832.png"
       }
     },
     {
@@ -30030,9 +30030,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/833.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/833.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/833.png"
+        "sprite": "src/assets/sprites/833.png",
+        "thumbnail": "src/assets/thumbnails/833.png",
+        "hires": "src/assets/hires/833.png"
       }
     },
     {
@@ -30058,9 +30058,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/834.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/834.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/834.png"
+        "sprite": "src/assets/sprites/834.png",
+        "thumbnail": "src/assets/thumbnails/834.png",
+        "hires": "src/assets/hires/834.png"
       }
     },
     {
@@ -30085,9 +30085,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/835.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/835.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/835.png"
+        "sprite": "src/assets/sprites/835.png",
+        "thumbnail": "src/assets/thumbnails/835.png",
+        "hires": "src/assets/hires/835.png"
       }
     },
     {
@@ -30112,9 +30112,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/836.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/836.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/836.png"
+        "sprite": "src/assets/sprites/836.png",
+        "thumbnail": "src/assets/thumbnails/836.png",
+        "hires": "src/assets/hires/836.png"
       }
     },
     {
@@ -30140,9 +30140,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/837.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/837.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/837.png"
+        "sprite": "src/assets/sprites/837.png",
+        "thumbnail": "src/assets/thumbnails/837.png",
+        "hires": "src/assets/hires/837.png"
       }
     },
     {
@@ -30168,9 +30168,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/838.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/838.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/838.png"
+        "sprite": "src/assets/sprites/838.png",
+        "thumbnail": "src/assets/thumbnails/838.png",
+        "hires": "src/assets/hires/838.png"
       }
     },
     {
@@ -30196,9 +30196,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/839.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/839.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/839.png"
+        "sprite": "src/assets/sprites/839.png",
+        "thumbnail": "src/assets/thumbnails/839.png",
+        "hires": "src/assets/hires/839.png"
       }
     },
     {
@@ -30229,9 +30229,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/840.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/840.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/840.png"
+        "sprite": "src/assets/sprites/840.png",
+        "thumbnail": "src/assets/thumbnails/840.png",
+        "hires": "src/assets/hires/840.png"
       }
     },
     {
@@ -30257,9 +30257,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/841.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/841.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/841.png"
+        "sprite": "src/assets/sprites/841.png",
+        "thumbnail": "src/assets/thumbnails/841.png",
+        "hires": "src/assets/hires/841.png"
       }
     },
     {
@@ -30285,9 +30285,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/842.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/842.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/842.png"
+        "sprite": "src/assets/sprites/842.png",
+        "thumbnail": "src/assets/thumbnails/842.png",
+        "hires": "src/assets/hires/842.png"
       }
     },
     {
@@ -30313,9 +30313,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/843.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/843.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/843.png"
+        "sprite": "src/assets/sprites/843.png",
+        "thumbnail": "src/assets/thumbnails/843.png",
+        "hires": "src/assets/hires/843.png"
       }
     },
     {
@@ -30341,9 +30341,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/844.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/844.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/844.png"
+        "sprite": "src/assets/sprites/844.png",
+        "thumbnail": "src/assets/thumbnails/844.png",
+        "hires": "src/assets/hires/844.png"
       }
     },
     {
@@ -30365,9 +30365,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Gulp-missile", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/845.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/845.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/845.png"
+        "sprite": "src/assets/sprites/845.png",
+        "thumbnail": "src/assets/thumbnails/845.png",
+        "hires": "src/assets/hires/845.png"
       }
     },
     {
@@ -30392,9 +30392,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/846.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/846.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/846.png"
+        "sprite": "src/assets/sprites/846.png",
+        "thumbnail": "src/assets/thumbnails/846.png",
+        "hires": "src/assets/hires/846.png"
       }
     },
     {
@@ -30419,9 +30419,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/847.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/847.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/847.png"
+        "sprite": "src/assets/sprites/847.png",
+        "thumbnail": "src/assets/thumbnails/847.png",
+        "hires": "src/assets/hires/847.png"
       }
     },
     {
@@ -30447,9 +30447,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/848.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/848.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/848.png"
+        "sprite": "src/assets/sprites/848.png",
+        "thumbnail": "src/assets/thumbnails/848.png",
+        "hires": "src/assets/hires/848.png"
       }
     },
     {
@@ -30475,9 +30475,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/849.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/849.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/849.png"
+        "sprite": "src/assets/sprites/849.png",
+        "thumbnail": "src/assets/thumbnails/849.png",
+        "hires": "src/assets/hires/849.png"
       }
     },
     {
@@ -30503,9 +30503,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/850.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/850.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/850.png"
+        "sprite": "src/assets/sprites/850.png",
+        "thumbnail": "src/assets/thumbnails/850.png",
+        "hires": "src/assets/hires/850.png"
       }
     },
     {
@@ -30531,9 +30531,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/851.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/851.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/851.png"
+        "sprite": "src/assets/sprites/851.png",
+        "thumbnail": "src/assets/thumbnails/851.png",
+        "hires": "src/assets/hires/851.png"
       }
     },
     {
@@ -30558,9 +30558,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/852.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/852.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/852.png"
+        "sprite": "src/assets/sprites/852.png",
+        "thumbnail": "src/assets/thumbnails/852.png",
+        "hires": "src/assets/hires/852.png"
       }
     },
     {
@@ -30585,9 +30585,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/853.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/853.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/853.png"
+        "sprite": "src/assets/sprites/853.png",
+        "thumbnail": "src/assets/thumbnails/853.png",
+        "hires": "src/assets/hires/853.png"
       }
     },
     {
@@ -30612,9 +30612,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/854.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/854.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/854.png"
+        "sprite": "src/assets/sprites/854.png",
+        "thumbnail": "src/assets/thumbnails/854.png",
+        "hires": "src/assets/hires/854.png"
       }
     },
     {
@@ -30639,9 +30639,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/855.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/855.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/855.png"
+        "sprite": "src/assets/sprites/855.png",
+        "thumbnail": "src/assets/thumbnails/855.png",
+        "hires": "src/assets/hires/855.png"
       }
     },
     {
@@ -30667,9 +30667,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/856.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/856.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/856.png"
+        "sprite": "src/assets/sprites/856.png",
+        "thumbnail": "src/assets/thumbnails/856.png",
+        "hires": "src/assets/hires/856.png"
       }
     },
     {
@@ -30695,9 +30695,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/857.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/857.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/857.png"
+        "sprite": "src/assets/sprites/857.png",
+        "thumbnail": "src/assets/thumbnails/857.png",
+        "hires": "src/assets/hires/857.png"
       }
     },
     {
@@ -30723,9 +30723,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/858.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/858.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/858.png"
+        "sprite": "src/assets/sprites/858.png",
+        "thumbnail": "src/assets/thumbnails/858.png",
+        "hires": "src/assets/hires/858.png"
       }
     },
     {
@@ -30751,9 +30751,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/859.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/859.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/859.png"
+        "sprite": "src/assets/sprites/859.png",
+        "thumbnail": "src/assets/thumbnails/859.png",
+        "hires": "src/assets/hires/859.png"
       }
     },
     {
@@ -30779,9 +30779,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/860.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/860.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/860.png"
+        "sprite": "src/assets/sprites/860.png",
+        "thumbnail": "src/assets/thumbnails/860.png",
+        "hires": "src/assets/hires/860.png"
       }
     },
     {
@@ -30807,9 +30807,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/861.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/861.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/861.png"
+        "sprite": "src/assets/sprites/861.png",
+        "thumbnail": "src/assets/thumbnails/861.png",
+        "hires": "src/assets/hires/861.png"
       }
     },
     {
@@ -30835,9 +30835,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/862.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/862.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/862.png"
+        "sprite": "src/assets/sprites/862.png",
+        "thumbnail": "src/assets/thumbnails/862.png",
+        "hires": "src/assets/hires/862.png"
       }
     },
     {
@@ -30863,9 +30863,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/863.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/863.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/863.png"
+        "sprite": "src/assets/sprites/863.png",
+        "thumbnail": "src/assets/thumbnails/863.png",
+        "hires": "src/assets/hires/863.png"
       }
     },
     {
@@ -30890,9 +30890,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/864.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/864.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/864.png"
+        "sprite": "src/assets/sprites/864.png",
+        "thumbnail": "src/assets/thumbnails/864.png",
+        "hires": "src/assets/hires/864.png"
       }
     },
     {
@@ -30917,9 +30917,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/865.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/865.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/865.png"
+        "sprite": "src/assets/sprites/865.png",
+        "thumbnail": "src/assets/thumbnails/865.png",
+        "hires": "src/assets/hires/865.png"
       }
     },
     {
@@ -30945,9 +30945,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/866.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/866.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/866.png"
+        "sprite": "src/assets/sprites/866.png",
+        "thumbnail": "src/assets/thumbnails/866.png",
+        "hires": "src/assets/hires/866.png"
       }
     },
     {
@@ -30969,9 +30969,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Wandering-spirit", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/867.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/867.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/867.png"
+        "sprite": "src/assets/sprites/867.png",
+        "thumbnail": "src/assets/thumbnails/867.png",
+        "hires": "src/assets/hires/867.png"
       }
     },
     {
@@ -30996,9 +30996,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/868.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/868.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/868.png"
+        "sprite": "src/assets/sprites/868.png",
+        "thumbnail": "src/assets/thumbnails/868.png",
+        "hires": "src/assets/hires/868.png"
       }
     },
     {
@@ -31023,9 +31023,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/869.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/869.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/869.png"
+        "sprite": "src/assets/sprites/869.png",
+        "thumbnail": "src/assets/thumbnails/869.png",
+        "hires": "src/assets/hires/869.png"
       }
     },
     {
@@ -31050,9 +31050,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/870.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/870.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/870.png"
+        "sprite": "src/assets/sprites/870.png",
+        "thumbnail": "src/assets/thumbnails/870.png",
+        "hires": "src/assets/hires/870.png"
       }
     },
     {
@@ -31077,9 +31077,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/871.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/871.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/871.png"
+        "sprite": "src/assets/sprites/871.png",
+        "thumbnail": "src/assets/thumbnails/871.png",
+        "hires": "src/assets/hires/871.png"
       }
     },
     {
@@ -31104,9 +31104,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/872.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/872.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/872.png"
+        "sprite": "src/assets/sprites/872.png",
+        "thumbnail": "src/assets/thumbnails/872.png",
+        "hires": "src/assets/hires/872.png"
       }
     },
     {
@@ -31131,9 +31131,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/873.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/873.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/873.png"
+        "sprite": "src/assets/sprites/873.png",
+        "thumbnail": "src/assets/thumbnails/873.png",
+        "hires": "src/assets/hires/873.png"
       }
     },
     {
@@ -31155,9 +31155,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Power-spot", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/874.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/874.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/874.png"
+        "sprite": "src/assets/sprites/874.png",
+        "thumbnail": "src/assets/thumbnails/874.png",
+        "hires": "src/assets/hires/874.png"
       }
     },
     {
@@ -31179,9 +31179,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Ice-face", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/875.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/875.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/875.png"
+        "sprite": "src/assets/sprites/875.png",
+        "thumbnail": "src/assets/thumbnails/875.png",
+        "hires": "src/assets/hires/875.png"
       }
     },
     {
@@ -31207,9 +31207,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/876.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/876.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/876.png"
+        "sprite": "src/assets/sprites/876.png",
+        "thumbnail": "src/assets/thumbnails/876.png",
+        "hires": "src/assets/hires/876.png"
       }
     },
     {
@@ -31231,8 +31231,8 @@ export const pokedexData: Pokedex = [
         "ability": [["Hunger-switch", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/877.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/877.png"
+        "sprite": "src/assets/sprites/877.png",
+        "thumbnail": "src/assets/thumbnails/877.png"
       }
     },
     {
@@ -31257,9 +31257,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/878.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/878.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/878.png"
+        "sprite": "src/assets/sprites/878.png",
+        "thumbnail": "src/assets/thumbnails/878.png",
+        "hires": "src/assets/hires/878.png"
       }
     },
     {
@@ -31284,9 +31284,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/879.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/879.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/879.png"
+        "sprite": "src/assets/sprites/879.png",
+        "thumbnail": "src/assets/thumbnails/879.png",
+        "hires": "src/assets/hires/879.png"
       }
     },
     {
@@ -31312,9 +31312,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/880.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/880.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/880.png"
+        "sprite": "src/assets/sprites/880.png",
+        "thumbnail": "src/assets/thumbnails/880.png",
+        "hires": "src/assets/hires/880.png"
       }
     },
     {
@@ -31340,9 +31340,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/881.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/881.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/881.png"
+        "sprite": "src/assets/sprites/881.png",
+        "thumbnail": "src/assets/thumbnails/881.png",
+        "hires": "src/assets/hires/881.png"
       }
     },
     {
@@ -31368,9 +31368,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/882.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/882.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/882.png"
+        "sprite": "src/assets/sprites/882.png",
+        "thumbnail": "src/assets/thumbnails/882.png",
+        "hires": "src/assets/hires/882.png"
       }
     },
     {
@@ -31396,9 +31396,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/883.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/883.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/883.png"
+        "sprite": "src/assets/sprites/883.png",
+        "thumbnail": "src/assets/thumbnails/883.png",
+        "hires": "src/assets/hires/883.png"
       }
     },
     {
@@ -31424,9 +31424,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/884.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/884.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/884.png"
+        "sprite": "src/assets/sprites/884.png",
+        "thumbnail": "src/assets/thumbnails/884.png",
+        "hires": "src/assets/hires/884.png"
       }
     },
     {
@@ -31452,9 +31452,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/885.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/885.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/885.png"
+        "sprite": "src/assets/sprites/885.png",
+        "thumbnail": "src/assets/thumbnails/885.png",
+        "hires": "src/assets/hires/885.png"
       }
     },
     {
@@ -31480,9 +31480,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/886.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/886.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/886.png"
+        "sprite": "src/assets/sprites/886.png",
+        "thumbnail": "src/assets/thumbnails/886.png",
+        "hires": "src/assets/hires/886.png"
       }
     },
     {
@@ -31508,9 +31508,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/887.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/887.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/887.png"
+        "sprite": "src/assets/sprites/887.png",
+        "thumbnail": "src/assets/thumbnails/887.png",
+        "hires": "src/assets/hires/887.png"
       }
     },
     {
@@ -31532,9 +31532,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Intrepid-sword", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/888.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/888.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/888.png"
+        "sprite": "src/assets/sprites/888.png",
+        "thumbnail": "src/assets/thumbnails/888.png",
+        "hires": "src/assets/hires/888.png"
       }
     },
     {
@@ -31556,9 +31556,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Dauntless-shield", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/889.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/889.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/889.png"
+        "sprite": "src/assets/sprites/889.png",
+        "thumbnail": "src/assets/thumbnails/889.png",
+        "hires": "src/assets/hires/889.png"
       }
     },
     {
@@ -31580,9 +31580,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Pressure", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/890.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/890.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/890.png"
+        "sprite": "src/assets/sprites/890.png",
+        "thumbnail": "src/assets/thumbnails/890.png",
+        "hires": "src/assets/hires/890.png"
       }
     },
     {
@@ -31609,9 +31609,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Inner-focus", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/891.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/891.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/891.png"
+        "sprite": "src/assets/sprites/891.png",
+        "thumbnail": "src/assets/thumbnails/891.png",
+        "hires": "src/assets/hires/891.png"
       }
     },
     {
@@ -31633,9 +31633,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Unseen-fist", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/892.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/892.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/892.png"
+        "sprite": "src/assets/sprites/892.png",
+        "thumbnail": "src/assets/thumbnails/892.png",
+        "hires": "src/assets/hires/892.png"
       }
     },
     {
@@ -31657,9 +31657,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Leaf-guard", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/893.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/893.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/893.png"
+        "sprite": "src/assets/sprites/893.png",
+        "thumbnail": "src/assets/thumbnails/893.png",
+        "hires": "src/assets/hires/893.png"
       }
     },
     {
@@ -31681,9 +31681,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Transistor", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/894.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/894.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/894.png"
+        "sprite": "src/assets/sprites/894.png",
+        "thumbnail": "src/assets/thumbnails/894.png",
+        "hires": "src/assets/hires/894.png"
       }
     },
     {
@@ -31705,9 +31705,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Dragons-maw", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/895.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/895.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/895.png"
+        "sprite": "src/assets/sprites/895.png",
+        "thumbnail": "src/assets/thumbnails/895.png",
+        "hires": "src/assets/hires/895.png"
       }
     },
     {
@@ -31729,9 +31729,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Chilling-neigh", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/896.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/896.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/896.png"
+        "sprite": "src/assets/sprites/896.png",
+        "thumbnail": "src/assets/thumbnails/896.png",
+        "hires": "src/assets/hires/896.png"
       }
     },
     {
@@ -31753,9 +31753,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Grim-neigh", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/897.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/897.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/897.png"
+        "sprite": "src/assets/sprites/897.png",
+        "thumbnail": "src/assets/thumbnails/897.png",
+        "hires": "src/assets/hires/897.png"
       }
     },
     {
@@ -31777,9 +31777,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Unnerve", "false"]]
       },
       "image": {
-        "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/898.png",
-        "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/898.png",
-        "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/898.png"
+        "sprite": "src/assets/sprites/898.png",
+        "thumbnail": "src/assets/thumbnails/898.png",
+        "hires": "src/assets/hires/898.png"
       }
     }
   ]

@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Pokedex } from '../types/Pokedex'
 import PokemonComponent from './Pokemon'
 import {pokedexData} from '../pokedex'
-import { Pokemon } from '../types/Pokemon'
+import { Box } from '@mui/material'
 
 type PokedexComponentProps = {
     onPokemonSelected: (pokemonSelected: string) => void
@@ -17,14 +17,13 @@ export default function PokedexComponent(props: PokedexComponentProps) {
 
     return (
         <>
-        <section className="flex flex-wrap flex-row gap-3 place-content-evenly">
+        <Box className="flex flex-wrap flex-row gap-3 place-content-center">
         {pokedex.map(pokemon =>
-            <div className='w-1/4' key={pokemon.id}>
+            <Box className='w-1/4' key={pokemon.id}>
                 <PokemonComponent pokemon={pokemon} onPokemonSelected={onPokemonSelected}></PokemonComponent>
-            </div>
-                
+            </Box>      
         )}
-        </section>
+        </Box>
             
         </>
     )

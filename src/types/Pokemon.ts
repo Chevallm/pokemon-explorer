@@ -7,7 +7,7 @@ export type Pokemon = {
       french: string;
     };
     type: [string, string?];
-    base: {
+    base?: {
       HP: number;
       Attack: number;
       Defense: number;
@@ -24,13 +24,13 @@ export type Pokemon = {
     profile: {
       height: string;
       weight: string;
-      egg: [string, string];
+      egg?: string[];
       ability: [string, string][];
       gender: string;
     };
     image: {
       sprite: string;
       thumbnail: string;
-      hires: string;
+      hires?: string;
     };
   };

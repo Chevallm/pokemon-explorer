@@ -32,9 +32,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/001.png",
-        "thumbnail": "src/assets/thumbnails/001.png",
-        "hires": "src/assets/hires/001.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/001.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/001.png",
+        "hires": "pokemon-explorer/src/assets/hires/001.png"
       }
     },
     {
@@ -68,9 +68,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/002.png",
-        "thumbnail": "src/assets/thumbnails/002.png",
-        "hires": "src/assets/hires/002.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/002.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/002.png",
+        "hires": "pokemon-explorer/src/assets/hires/002.png"
       }
     },
     {
@@ -104,9 +104,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/003.png",
-        "thumbnail": "src/assets/thumbnails/003.png",
-        "hires": "src/assets/hires/003.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/003.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/003.png",
+        "hires": "pokemon-explorer/src/assets/hires/003.png"
       }
     },
     {
@@ -140,9 +140,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/004.png",
-        "thumbnail": "src/assets/thumbnails/004.png",
-        "hires": "src/assets/hires/004.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/004.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/004.png",
+        "hires": "pokemon-explorer/src/assets/hires/004.png"
       }
     },
     {
@@ -176,9 +176,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/005.png",
-        "thumbnail": "src/assets/thumbnails/005.png",
-        "hires": "src/assets/hires/005.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/005.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/005.png",
+        "hires": "pokemon-explorer/src/assets/hires/005.png"
       }
     },
     {
@@ -212,9 +212,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/006.png",
-        "thumbnail": "src/assets/thumbnails/006.png",
-        "hires": "src/assets/hires/006.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/006.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/006.png",
+        "hires": "pokemon-explorer/src/assets/hires/006.png"
       }
     },
     {
@@ -248,9 +248,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/007.png",
-        "thumbnail": "src/assets/thumbnails/007.png",
-        "hires": "src/assets/hires/007.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/007.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/007.png",
+        "hires": "pokemon-explorer/src/assets/hires/007.png"
       }
     },
     {
@@ -284,9 +284,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/008.png",
-        "thumbnail": "src/assets/thumbnails/008.png",
-        "hires": "src/assets/hires/008.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/008.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/008.png",
+        "hires": "pokemon-explorer/src/assets/hires/008.png"
       }
     },
     {
@@ -320,9 +320,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/009.png",
-        "thumbnail": "src/assets/thumbnails/009.png",
-        "hires": "src/assets/hires/009.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/009.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/009.png",
+        "hires": "pokemon-explorer/src/assets/hires/009.png"
       }
     },
     {
@@ -356,9 +356,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/010.png",
-        "thumbnail": "src/assets/thumbnails/010.png",
-        "hires": "src/assets/hires/010.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/010.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/010.png",
+        "hires": "pokemon-explorer/src/assets/hires/010.png"
       }
     },
     {
@@ -389,9 +389,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/011.png",
-        "thumbnail": "src/assets/thumbnails/011.png",
-        "hires": "src/assets/hires/011.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/011.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/011.png",
+        "hires": "pokemon-explorer/src/assets/hires/011.png"
       }
     },
     {
@@ -425,9 +425,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/012.png",
-        "thumbnail": "src/assets/thumbnails/012.png",
-        "hires": "src/assets/hires/012.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/012.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/012.png",
+        "hires": "pokemon-explorer/src/assets/hires/012.png"
       }
     },
     {
@@ -461,9 +461,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/013.png",
-        "thumbnail": "src/assets/thumbnails/013.png",
-        "hires": "src/assets/hires/013.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/013.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/013.png",
+        "hires": "pokemon-explorer/src/assets/hires/013.png"
       }
     },
     {
@@ -494,9 +494,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/014.png",
-        "thumbnail": "src/assets/thumbnails/014.png",
-        "hires": "src/assets/hires/014.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/014.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/014.png",
+        "hires": "pokemon-explorer/src/assets/hires/014.png"
       }
     },
     {
@@ -530,9 +530,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/015.png",
-        "thumbnail": "src/assets/thumbnails/015.png",
-        "hires": "src/assets/hires/015.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/015.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/015.png",
+        "hires": "pokemon-explorer/src/assets/hires/015.png"
       }
     },
     {
@@ -567,9 +567,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/016.png",
-        "thumbnail": "src/assets/thumbnails/016.png",
-        "hires": "src/assets/hires/016.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/016.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/016.png",
+        "hires": "pokemon-explorer/src/assets/hires/016.png"
       }
     },
     {
@@ -604,9 +604,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/017.png",
-        "thumbnail": "src/assets/thumbnails/017.png",
-        "hires": "src/assets/hires/017.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/017.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/017.png",
+        "hires": "pokemon-explorer/src/assets/hires/017.png"
       }
     },
     {
@@ -641,9 +641,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/018.png",
-        "thumbnail": "src/assets/thumbnails/018.png",
-        "hires": "src/assets/hires/018.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/018.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/018.png",
+        "hires": "pokemon-explorer/src/assets/hires/018.png"
       }
     },
     {
@@ -678,9 +678,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/019.png",
-        "thumbnail": "src/assets/thumbnails/019.png",
-        "hires": "src/assets/hires/019.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/019.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/019.png",
+        "hires": "pokemon-explorer/src/assets/hires/019.png"
       }
     },
     {
@@ -715,9 +715,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/020.png",
-        "thumbnail": "src/assets/thumbnails/020.png",
-        "hires": "src/assets/hires/020.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/020.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/020.png",
+        "hires": "pokemon-explorer/src/assets/hires/020.png"
       }
     },
     {
@@ -751,9 +751,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/021.png",
-        "thumbnail": "src/assets/thumbnails/021.png",
-        "hires": "src/assets/hires/021.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/021.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/021.png",
+        "hires": "pokemon-explorer/src/assets/hires/021.png"
       }
     },
     {
@@ -787,9 +787,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/022.png",
-        "thumbnail": "src/assets/thumbnails/022.png",
-        "hires": "src/assets/hires/022.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/022.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/022.png",
+        "hires": "pokemon-explorer/src/assets/hires/022.png"
       }
     },
     {
@@ -824,9 +824,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/023.png",
-        "thumbnail": "src/assets/thumbnails/023.png",
-        "hires": "src/assets/hires/023.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/023.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/023.png",
+        "hires": "pokemon-explorer/src/assets/hires/023.png"
       }
     },
     {
@@ -861,9 +861,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/024.png",
-        "thumbnail": "src/assets/thumbnails/024.png",
-        "hires": "src/assets/hires/024.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/024.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/024.png",
+        "hires": "pokemon-explorer/src/assets/hires/024.png"
       }
     },
     {
@@ -900,9 +900,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/025.png",
-        "thumbnail": "src/assets/thumbnails/025.png",
-        "hires": "src/assets/hires/025.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/025.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/025.png",
+        "hires": "pokemon-explorer/src/assets/hires/025.png"
       }
     },
     {
@@ -936,9 +936,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/026.png",
-        "thumbnail": "src/assets/thumbnails/026.png",
-        "hires": "src/assets/hires/026.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/026.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/026.png",
+        "hires": "pokemon-explorer/src/assets/hires/026.png"
       }
     },
     {
@@ -972,9 +972,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/027.png",
-        "thumbnail": "src/assets/thumbnails/027.png",
-        "hires": "src/assets/hires/027.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/027.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/027.png",
+        "hires": "pokemon-explorer/src/assets/hires/027.png"
       }
     },
     {
@@ -1008,9 +1008,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/028.png",
-        "thumbnail": "src/assets/thumbnails/028.png",
-        "hires": "src/assets/hires/028.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/028.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/028.png",
+        "hires": "pokemon-explorer/src/assets/hires/028.png"
       }
     },
     {
@@ -1045,9 +1045,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/029.png",
-        "thumbnail": "src/assets/thumbnails/029.png",
-        "hires": "src/assets/hires/029.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/029.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/029.png",
+        "hires": "pokemon-explorer/src/assets/hires/029.png"
       }
     },
     {
@@ -1085,9 +1085,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/030.png",
-        "thumbnail": "src/assets/thumbnails/030.png",
-        "hires": "src/assets/hires/030.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/030.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/030.png",
+        "hires": "pokemon-explorer/src/assets/hires/030.png"
       }
     },
     {
@@ -1122,9 +1122,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/031.png",
-        "thumbnail": "src/assets/thumbnails/031.png",
-        "hires": "src/assets/hires/031.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/031.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/031.png",
+        "hires": "pokemon-explorer/src/assets/hires/031.png"
       }
     },
     {
@@ -1159,9 +1159,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/032.png",
-        "thumbnail": "src/assets/thumbnails/032.png",
-        "hires": "src/assets/hires/032.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/032.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/032.png",
+        "hires": "pokemon-explorer/src/assets/hires/032.png"
       }
     },
     {
@@ -1199,9 +1199,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/033.png",
-        "thumbnail": "src/assets/thumbnails/033.png",
-        "hires": "src/assets/hires/033.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/033.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/033.png",
+        "hires": "pokemon-explorer/src/assets/hires/033.png"
       }
     },
     {
@@ -1236,9 +1236,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/034.png",
-        "thumbnail": "src/assets/thumbnails/034.png",
-        "hires": "src/assets/hires/034.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/034.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/034.png",
+        "hires": "pokemon-explorer/src/assets/hires/034.png"
       }
     },
     {
@@ -1276,9 +1276,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/035.png",
-        "thumbnail": "src/assets/thumbnails/035.png",
-        "hires": "src/assets/hires/035.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/035.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/035.png",
+        "hires": "pokemon-explorer/src/assets/hires/035.png"
       }
     },
     {
@@ -1313,9 +1313,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/036.png",
-        "thumbnail": "src/assets/thumbnails/036.png",
-        "hires": "src/assets/hires/036.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/036.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/036.png",
+        "hires": "pokemon-explorer/src/assets/hires/036.png"
       }
     },
     {
@@ -1349,9 +1349,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/037.png",
-        "thumbnail": "src/assets/thumbnails/037.png",
-        "hires": "src/assets/hires/037.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/037.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/037.png",
+        "hires": "pokemon-explorer/src/assets/hires/037.png"
       }
     },
     {
@@ -1385,9 +1385,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/038.png",
-        "thumbnail": "src/assets/thumbnails/038.png",
-        "hires": "src/assets/hires/038.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/038.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/038.png",
+        "hires": "pokemon-explorer/src/assets/hires/038.png"
       }
     },
     {
@@ -1425,9 +1425,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/039.png",
-        "thumbnail": "src/assets/thumbnails/039.png",
-        "hires": "src/assets/hires/039.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/039.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/039.png",
+        "hires": "pokemon-explorer/src/assets/hires/039.png"
       }
     },
     {
@@ -1462,9 +1462,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/040.png",
-        "thumbnail": "src/assets/thumbnails/040.png",
-        "hires": "src/assets/hires/040.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/040.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/040.png",
+        "hires": "pokemon-explorer/src/assets/hires/040.png"
       }
     },
     {
@@ -1498,9 +1498,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/041.png",
-        "thumbnail": "src/assets/thumbnails/041.png",
-        "hires": "src/assets/hires/041.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/041.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/041.png",
+        "hires": "pokemon-explorer/src/assets/hires/041.png"
       }
     },
     {
@@ -1537,9 +1537,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/042.png",
-        "thumbnail": "src/assets/thumbnails/042.png",
-        "hires": "src/assets/hires/042.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/042.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/042.png",
+        "hires": "pokemon-explorer/src/assets/hires/042.png"
       }
     },
     {
@@ -1573,9 +1573,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/043.png",
-        "thumbnail": "src/assets/thumbnails/043.png",
-        "hires": "src/assets/hires/043.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/043.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/043.png",
+        "hires": "pokemon-explorer/src/assets/hires/043.png"
       }
     },
     {
@@ -1615,9 +1615,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/044.png",
-        "thumbnail": "src/assets/thumbnails/044.png",
-        "hires": "src/assets/hires/044.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/044.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/044.png",
+        "hires": "pokemon-explorer/src/assets/hires/044.png"
       }
     },
     {
@@ -1651,9 +1651,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/045.png",
-        "thumbnail": "src/assets/thumbnails/045.png",
-        "hires": "src/assets/hires/045.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/045.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/045.png",
+        "hires": "pokemon-explorer/src/assets/hires/045.png"
       }
     },
     {
@@ -1688,9 +1688,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/046.png",
-        "thumbnail": "src/assets/thumbnails/046.png",
-        "hires": "src/assets/hires/046.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/046.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/046.png",
+        "hires": "pokemon-explorer/src/assets/hires/046.png"
       }
     },
     {
@@ -1725,9 +1725,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/047.png",
-        "thumbnail": "src/assets/thumbnails/047.png",
-        "hires": "src/assets/hires/047.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/047.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/047.png",
+        "hires": "pokemon-explorer/src/assets/hires/047.png"
       }
     },
     {
@@ -1762,9 +1762,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/048.png",
-        "thumbnail": "src/assets/thumbnails/048.png",
-        "hires": "src/assets/hires/048.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/048.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/048.png",
+        "hires": "pokemon-explorer/src/assets/hires/048.png"
       }
     },
     {
@@ -1799,9 +1799,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/049.png",
-        "thumbnail": "src/assets/thumbnails/049.png",
-        "hires": "src/assets/hires/049.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/049.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/049.png",
+        "hires": "pokemon-explorer/src/assets/hires/049.png"
       }
     },
     {
@@ -1836,9 +1836,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/050.png",
-        "thumbnail": "src/assets/thumbnails/050.png",
-        "hires": "src/assets/hires/050.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/050.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/050.png",
+        "hires": "pokemon-explorer/src/assets/hires/050.png"
       }
     },
     {
@@ -1873,9 +1873,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/051.png",
-        "thumbnail": "src/assets/thumbnails/051.png",
-        "hires": "src/assets/hires/051.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/051.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/051.png",
+        "hires": "pokemon-explorer/src/assets/hires/051.png"
       }
     },
     {
@@ -1910,9 +1910,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/052.png",
-        "thumbnail": "src/assets/thumbnails/052.png",
-        "hires": "src/assets/hires/052.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/052.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/052.png",
+        "hires": "pokemon-explorer/src/assets/hires/052.png"
       }
     },
     {
@@ -1947,9 +1947,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/053.png",
-        "thumbnail": "src/assets/thumbnails/053.png",
-        "hires": "src/assets/hires/053.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/053.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/053.png",
+        "hires": "pokemon-explorer/src/assets/hires/053.png"
       }
     },
     {
@@ -1984,9 +1984,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/054.png",
-        "thumbnail": "src/assets/thumbnails/054.png",
-        "hires": "src/assets/hires/054.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/054.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/054.png",
+        "hires": "pokemon-explorer/src/assets/hires/054.png"
       }
     },
     {
@@ -2021,9 +2021,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/055.png",
-        "thumbnail": "src/assets/thumbnails/055.png",
-        "hires": "src/assets/hires/055.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/055.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/055.png",
+        "hires": "pokemon-explorer/src/assets/hires/055.png"
       }
     },
     {
@@ -2058,9 +2058,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/056.png",
-        "thumbnail": "src/assets/thumbnails/056.png",
-        "hires": "src/assets/hires/056.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/056.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/056.png",
+        "hires": "pokemon-explorer/src/assets/hires/056.png"
       }
     },
     {
@@ -2095,9 +2095,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/057.png",
-        "thumbnail": "src/assets/thumbnails/057.png",
-        "hires": "src/assets/hires/057.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/057.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/057.png",
+        "hires": "pokemon-explorer/src/assets/hires/057.png"
       }
     },
     {
@@ -2132,9 +2132,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/058.png",
-        "thumbnail": "src/assets/thumbnails/058.png",
-        "hires": "src/assets/hires/058.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/058.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/058.png",
+        "hires": "pokemon-explorer/src/assets/hires/058.png"
       }
     },
     {
@@ -2169,9 +2169,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/059.png",
-        "thumbnail": "src/assets/thumbnails/059.png",
-        "hires": "src/assets/hires/059.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/059.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/059.png",
+        "hires": "pokemon-explorer/src/assets/hires/059.png"
       }
     },
     {
@@ -2206,9 +2206,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/060.png",
-        "thumbnail": "src/assets/thumbnails/060.png",
-        "hires": "src/assets/hires/060.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/060.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/060.png",
+        "hires": "pokemon-explorer/src/assets/hires/060.png"
       }
     },
     {
@@ -2249,9 +2249,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/061.png",
-        "thumbnail": "src/assets/thumbnails/061.png",
-        "hires": "src/assets/hires/061.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/061.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/061.png",
+        "hires": "pokemon-explorer/src/assets/hires/061.png"
       }
     },
     {
@@ -2286,9 +2286,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/062.png",
-        "thumbnail": "src/assets/thumbnails/062.png",
-        "hires": "src/assets/hires/062.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/062.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/062.png",
+        "hires": "pokemon-explorer/src/assets/hires/062.png"
       }
     },
     {
@@ -2323,9 +2323,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/063.png",
-        "thumbnail": "src/assets/thumbnails/063.png",
-        "hires": "src/assets/hires/063.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/063.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/063.png",
+        "hires": "pokemon-explorer/src/assets/hires/063.png"
       }
     },
     {
@@ -2360,9 +2360,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/064.png",
-        "thumbnail": "src/assets/thumbnails/064.png",
-        "hires": "src/assets/hires/064.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/064.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/064.png",
+        "hires": "pokemon-explorer/src/assets/hires/064.png"
       }
     },
     {
@@ -2397,9 +2397,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/065.png",
-        "thumbnail": "src/assets/thumbnails/065.png",
-        "hires": "src/assets/hires/065.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/065.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/065.png",
+        "hires": "pokemon-explorer/src/assets/hires/065.png"
       }
     },
     {
@@ -2434,9 +2434,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/066.png",
-        "thumbnail": "src/assets/thumbnails/066.png",
-        "hires": "src/assets/hires/066.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/066.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/066.png",
+        "hires": "pokemon-explorer/src/assets/hires/066.png"
       }
     },
     {
@@ -2471,9 +2471,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/067.png",
-        "thumbnail": "src/assets/thumbnails/067.png",
-        "hires": "src/assets/hires/067.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/067.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/067.png",
+        "hires": "pokemon-explorer/src/assets/hires/067.png"
       }
     },
     {
@@ -2508,9 +2508,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/068.png",
-        "thumbnail": "src/assets/thumbnails/068.png",
-        "hires": "src/assets/hires/068.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/068.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/068.png",
+        "hires": "pokemon-explorer/src/assets/hires/068.png"
       }
     },
     {
@@ -2544,9 +2544,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/069.png",
-        "thumbnail": "src/assets/thumbnails/069.png",
-        "hires": "src/assets/hires/069.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/069.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/069.png",
+        "hires": "pokemon-explorer/src/assets/hires/069.png"
       }
     },
     {
@@ -2583,9 +2583,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/070.png",
-        "thumbnail": "src/assets/thumbnails/070.png",
-        "hires": "src/assets/hires/070.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/070.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/070.png",
+        "hires": "pokemon-explorer/src/assets/hires/070.png"
       }
     },
     {
@@ -2619,9 +2619,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/071.png",
-        "thumbnail": "src/assets/thumbnails/071.png",
-        "hires": "src/assets/hires/071.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/071.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/071.png",
+        "hires": "pokemon-explorer/src/assets/hires/071.png"
       }
     },
     {
@@ -2656,9 +2656,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/072.png",
-        "thumbnail": "src/assets/thumbnails/072.png",
-        "hires": "src/assets/hires/072.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/072.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/072.png",
+        "hires": "pokemon-explorer/src/assets/hires/072.png"
       }
     },
     {
@@ -2693,9 +2693,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/073.png",
-        "thumbnail": "src/assets/thumbnails/073.png",
-        "hires": "src/assets/hires/073.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/073.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/073.png",
+        "hires": "pokemon-explorer/src/assets/hires/073.png"
       }
     },
     {
@@ -2730,9 +2730,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/074.png",
-        "thumbnail": "src/assets/thumbnails/074.png",
-        "hires": "src/assets/hires/074.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/074.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/074.png",
+        "hires": "pokemon-explorer/src/assets/hires/074.png"
       }
     },
     {
@@ -2767,9 +2767,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/075.png",
-        "thumbnail": "src/assets/thumbnails/075.png",
-        "hires": "src/assets/hires/075.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/075.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/075.png",
+        "hires": "pokemon-explorer/src/assets/hires/075.png"
       }
     },
     {
@@ -2804,9 +2804,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/076.png",
-        "thumbnail": "src/assets/thumbnails/076.png",
-        "hires": "src/assets/hires/076.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/076.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/076.png",
+        "hires": "pokemon-explorer/src/assets/hires/076.png"
       }
     },
     {
@@ -2841,9 +2841,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/077.png",
-        "thumbnail": "src/assets/thumbnails/077.png",
-        "hires": "src/assets/hires/077.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/077.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/077.png",
+        "hires": "pokemon-explorer/src/assets/hires/077.png"
       }
     },
     {
@@ -2878,9 +2878,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/078.png",
-        "thumbnail": "src/assets/thumbnails/078.png",
-        "hires": "src/assets/hires/078.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/078.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/078.png",
+        "hires": "pokemon-explorer/src/assets/hires/078.png"
       }
     },
     {
@@ -2920,9 +2920,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/079.png",
-        "thumbnail": "src/assets/thumbnails/079.png",
-        "hires": "src/assets/hires/079.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/079.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/079.png",
+        "hires": "pokemon-explorer/src/assets/hires/079.png"
       }
     },
     {
@@ -2957,9 +2957,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/080.png",
-        "thumbnail": "src/assets/thumbnails/080.png",
-        "hires": "src/assets/hires/080.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/080.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/080.png",
+        "hires": "pokemon-explorer/src/assets/hires/080.png"
       }
     },
     {
@@ -2994,9 +2994,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/081.png",
-        "thumbnail": "src/assets/thumbnails/081.png",
-        "hires": "src/assets/hires/081.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/081.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/081.png",
+        "hires": "pokemon-explorer/src/assets/hires/081.png"
       }
     },
     {
@@ -3034,9 +3034,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/082.png",
-        "thumbnail": "src/assets/thumbnails/082.png",
-        "hires": "src/assets/hires/082.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/082.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/082.png",
+        "hires": "pokemon-explorer/src/assets/hires/082.png"
       }
     },
     {
@@ -3071,9 +3071,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/083.png",
-        "thumbnail": "src/assets/thumbnails/083.png",
-        "hires": "src/assets/hires/083.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/083.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/083.png",
+        "hires": "pokemon-explorer/src/assets/hires/083.png"
       }
     },
     {
@@ -3108,9 +3108,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/084.png",
-        "thumbnail": "src/assets/thumbnails/084.png",
-        "hires": "src/assets/hires/084.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/084.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/084.png",
+        "hires": "pokemon-explorer/src/assets/hires/084.png"
       }
     },
     {
@@ -3145,9 +3145,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/085.png",
-        "thumbnail": "src/assets/thumbnails/085.png",
-        "hires": "src/assets/hires/085.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/085.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/085.png",
+        "hires": "pokemon-explorer/src/assets/hires/085.png"
       }
     },
     {
@@ -3182,9 +3182,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/086.png",
-        "thumbnail": "src/assets/thumbnails/086.png",
-        "hires": "src/assets/hires/086.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/086.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/086.png",
+        "hires": "pokemon-explorer/src/assets/hires/086.png"
       }
     },
     {
@@ -3219,9 +3219,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/087.png",
-        "thumbnail": "src/assets/thumbnails/087.png",
-        "hires": "src/assets/hires/087.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/087.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/087.png",
+        "hires": "pokemon-explorer/src/assets/hires/087.png"
       }
     },
     {
@@ -3256,9 +3256,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/088.png",
-        "thumbnail": "src/assets/thumbnails/088.png",
-        "hires": "src/assets/hires/088.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/088.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/088.png",
+        "hires": "pokemon-explorer/src/assets/hires/088.png"
       }
     },
     {
@@ -3293,9 +3293,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/089.png",
-        "thumbnail": "src/assets/thumbnails/089.png",
-        "hires": "src/assets/hires/089.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/089.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/089.png",
+        "hires": "pokemon-explorer/src/assets/hires/089.png"
       }
     },
     {
@@ -3330,9 +3330,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/090.png",
-        "thumbnail": "src/assets/thumbnails/090.png",
-        "hires": "src/assets/hires/090.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/090.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/090.png",
+        "hires": "pokemon-explorer/src/assets/hires/090.png"
       }
     },
     {
@@ -3367,9 +3367,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/091.png",
-        "thumbnail": "src/assets/thumbnails/091.png",
-        "hires": "src/assets/hires/091.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/091.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/091.png",
+        "hires": "pokemon-explorer/src/assets/hires/091.png"
       }
     },
     {
@@ -3400,9 +3400,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/092.png",
-        "thumbnail": "src/assets/thumbnails/092.png",
-        "hires": "src/assets/hires/092.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/092.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/092.png",
+        "hires": "pokemon-explorer/src/assets/hires/092.png"
       }
     },
     {
@@ -3433,9 +3433,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/093.png",
-        "thumbnail": "src/assets/thumbnails/093.png",
-        "hires": "src/assets/hires/093.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/093.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/093.png",
+        "hires": "pokemon-explorer/src/assets/hires/093.png"
       }
     },
     {
@@ -3466,9 +3466,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/094.png",
-        "thumbnail": "src/assets/thumbnails/094.png",
-        "hires": "src/assets/hires/094.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/094.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/094.png",
+        "hires": "pokemon-explorer/src/assets/hires/094.png"
       }
     },
     {
@@ -3503,9 +3503,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/095.png",
-        "thumbnail": "src/assets/thumbnails/095.png",
-        "hires": "src/assets/hires/095.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/095.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/095.png",
+        "hires": "pokemon-explorer/src/assets/hires/095.png"
       }
     },
     {
@@ -3540,9 +3540,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/096.png",
-        "thumbnail": "src/assets/thumbnails/096.png",
-        "hires": "src/assets/hires/096.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/096.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/096.png",
+        "hires": "pokemon-explorer/src/assets/hires/096.png"
       }
     },
     {
@@ -3577,9 +3577,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/097.png",
-        "thumbnail": "src/assets/thumbnails/097.png",
-        "hires": "src/assets/hires/097.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/097.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/097.png",
+        "hires": "pokemon-explorer/src/assets/hires/097.png"
       }
     },
     {
@@ -3614,9 +3614,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/098.png",
-        "thumbnail": "src/assets/thumbnails/098.png",
-        "hires": "src/assets/hires/098.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/098.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/098.png",
+        "hires": "pokemon-explorer/src/assets/hires/098.png"
       }
     },
     {
@@ -3651,9 +3651,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/099.png",
-        "thumbnail": "src/assets/thumbnails/099.png",
-        "hires": "src/assets/hires/099.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/099.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/099.png",
+        "hires": "pokemon-explorer/src/assets/hires/099.png"
       }
     },
     {
@@ -3688,9 +3688,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/100.png",
-        "thumbnail": "src/assets/thumbnails/100.png",
-        "hires": "src/assets/hires/100.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/100.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/100.png",
+        "hires": "pokemon-explorer/src/assets/hires/100.png"
       }
     },
     {
@@ -3725,9 +3725,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/101.png",
-        "thumbnail": "src/assets/thumbnails/101.png",
-        "hires": "src/assets/hires/101.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/101.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/101.png",
+        "hires": "pokemon-explorer/src/assets/hires/101.png"
       }
     },
     {
@@ -3761,9 +3761,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/102.png",
-        "thumbnail": "src/assets/thumbnails/102.png",
-        "hires": "src/assets/hires/102.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/102.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/102.png",
+        "hires": "pokemon-explorer/src/assets/hires/102.png"
       }
     },
     {
@@ -3797,9 +3797,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/103.png",
-        "thumbnail": "src/assets/thumbnails/103.png",
-        "hires": "src/assets/hires/103.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/103.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/103.png",
+        "hires": "pokemon-explorer/src/assets/hires/103.png"
       }
     },
     {
@@ -3834,9 +3834,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/104.png",
-        "thumbnail": "src/assets/thumbnails/104.png",
-        "hires": "src/assets/hires/104.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/104.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/104.png",
+        "hires": "pokemon-explorer/src/assets/hires/104.png"
       }
     },
     {
@@ -3871,9 +3871,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/105.png",
-        "thumbnail": "src/assets/thumbnails/105.png",
-        "hires": "src/assets/hires/105.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/105.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/105.png",
+        "hires": "pokemon-explorer/src/assets/hires/105.png"
       }
     },
     {
@@ -3908,9 +3908,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/106.png",
-        "thumbnail": "src/assets/thumbnails/106.png",
-        "hires": "src/assets/hires/106.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/106.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/106.png",
+        "hires": "pokemon-explorer/src/assets/hires/106.png"
       }
     },
     {
@@ -3945,9 +3945,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/107.png",
-        "thumbnail": "src/assets/thumbnails/107.png",
-        "hires": "src/assets/hires/107.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/107.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/107.png",
+        "hires": "pokemon-explorer/src/assets/hires/107.png"
       }
     },
     {
@@ -3982,9 +3982,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/108.png",
-        "thumbnail": "src/assets/thumbnails/108.png",
-        "hires": "src/assets/hires/108.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/108.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/108.png",
+        "hires": "pokemon-explorer/src/assets/hires/108.png"
       }
     },
     {
@@ -4015,9 +4015,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/109.png",
-        "thumbnail": "src/assets/thumbnails/109.png",
-        "hires": "src/assets/hires/109.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/109.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/109.png",
+        "hires": "pokemon-explorer/src/assets/hires/109.png"
       }
     },
     {
@@ -4048,9 +4048,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/110.png",
-        "thumbnail": "src/assets/thumbnails/110.png",
-        "hires": "src/assets/hires/110.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/110.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/110.png",
+        "hires": "pokemon-explorer/src/assets/hires/110.png"
       }
     },
     {
@@ -4085,9 +4085,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/111.png",
-        "thumbnail": "src/assets/thumbnails/111.png",
-        "hires": "src/assets/hires/111.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/111.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/111.png",
+        "hires": "pokemon-explorer/src/assets/hires/111.png"
       }
     },
     {
@@ -4125,9 +4125,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/112.png",
-        "thumbnail": "src/assets/thumbnails/112.png",
-        "hires": "src/assets/hires/112.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/112.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/112.png",
+        "hires": "pokemon-explorer/src/assets/hires/112.png"
       }
     },
     {
@@ -4165,9 +4165,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/113.png",
-        "thumbnail": "src/assets/thumbnails/113.png",
-        "hires": "src/assets/hires/113.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/113.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/113.png",
+        "hires": "pokemon-explorer/src/assets/hires/113.png"
       }
     },
     {
@@ -4202,9 +4202,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/114.png",
-        "thumbnail": "src/assets/thumbnails/114.png",
-        "hires": "src/assets/hires/114.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/114.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/114.png",
+        "hires": "pokemon-explorer/src/assets/hires/114.png"
       }
     },
     {
@@ -4239,9 +4239,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/115.png",
-        "thumbnail": "src/assets/thumbnails/115.png",
-        "hires": "src/assets/hires/115.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/115.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/115.png",
+        "hires": "pokemon-explorer/src/assets/hires/115.png"
       }
     },
     {
@@ -4276,9 +4276,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/116.png",
-        "thumbnail": "src/assets/thumbnails/116.png",
-        "hires": "src/assets/hires/116.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/116.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/116.png",
+        "hires": "pokemon-explorer/src/assets/hires/116.png"
       }
     },
     {
@@ -4316,9 +4316,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/117.png",
-        "thumbnail": "src/assets/thumbnails/117.png",
-        "hires": "src/assets/hires/117.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/117.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/117.png",
+        "hires": "pokemon-explorer/src/assets/hires/117.png"
       }
     },
     {
@@ -4353,9 +4353,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/118.png",
-        "thumbnail": "src/assets/thumbnails/118.png",
-        "hires": "src/assets/hires/118.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/118.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/118.png",
+        "hires": "pokemon-explorer/src/assets/hires/118.png"
       }
     },
     {
@@ -4390,9 +4390,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/119.png",
-        "thumbnail": "src/assets/thumbnails/119.png",
-        "hires": "src/assets/hires/119.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/119.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/119.png",
+        "hires": "pokemon-explorer/src/assets/hires/119.png"
       }
     },
     {
@@ -4427,9 +4427,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/120.png",
-        "thumbnail": "src/assets/thumbnails/120.png",
-        "hires": "src/assets/hires/120.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/120.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/120.png",
+        "hires": "pokemon-explorer/src/assets/hires/120.png"
       }
     },
     {
@@ -4464,9 +4464,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/121.png",
-        "thumbnail": "src/assets/thumbnails/121.png",
-        "hires": "src/assets/hires/121.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/121.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/121.png",
+        "hires": "pokemon-explorer/src/assets/hires/121.png"
       }
     },
     {
@@ -4501,9 +4501,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/122.png",
-        "thumbnail": "src/assets/thumbnails/122.png",
-        "hires": "src/assets/hires/122.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/122.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/122.png",
+        "hires": "pokemon-explorer/src/assets/hires/122.png"
       }
     },
     {
@@ -4538,9 +4538,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/123.png",
-        "thumbnail": "src/assets/thumbnails/123.png",
-        "hires": "src/assets/hires/123.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/123.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/123.png",
+        "hires": "pokemon-explorer/src/assets/hires/123.png"
       }
     },
     {
@@ -4575,9 +4575,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/124.png",
-        "thumbnail": "src/assets/thumbnails/124.png",
-        "hires": "src/assets/hires/124.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/124.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/124.png",
+        "hires": "pokemon-explorer/src/assets/hires/124.png"
       }
     },
     {
@@ -4614,9 +4614,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/125.png",
-        "thumbnail": "src/assets/thumbnails/125.png",
-        "hires": "src/assets/hires/125.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/125.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/125.png",
+        "hires": "pokemon-explorer/src/assets/hires/125.png"
       }
     },
     {
@@ -4653,9 +4653,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/126.png",
-        "thumbnail": "src/assets/thumbnails/126.png",
-        "hires": "src/assets/hires/126.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/126.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/126.png",
+        "hires": "pokemon-explorer/src/assets/hires/126.png"
       }
     },
     {
@@ -4690,9 +4690,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/127.png",
-        "thumbnail": "src/assets/thumbnails/127.png",
-        "hires": "src/assets/hires/127.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/127.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/127.png",
+        "hires": "pokemon-explorer/src/assets/hires/127.png"
       }
     },
     {
@@ -4727,9 +4727,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/128.png",
-        "thumbnail": "src/assets/thumbnails/128.png",
-        "hires": "src/assets/hires/128.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/128.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/128.png",
+        "hires": "pokemon-explorer/src/assets/hires/128.png"
       }
     },
     {
@@ -4763,9 +4763,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/129.png",
-        "thumbnail": "src/assets/thumbnails/129.png",
-        "hires": "src/assets/hires/129.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/129.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/129.png",
+        "hires": "pokemon-explorer/src/assets/hires/129.png"
       }
     },
     {
@@ -4799,9 +4799,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/130.png",
-        "thumbnail": "src/assets/thumbnails/130.png",
-        "hires": "src/assets/hires/130.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/130.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/130.png",
+        "hires": "pokemon-explorer/src/assets/hires/130.png"
       }
     },
     {
@@ -4836,9 +4836,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/131.png",
-        "thumbnail": "src/assets/thumbnails/131.png",
-        "hires": "src/assets/hires/131.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/131.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/131.png",
+        "hires": "pokemon-explorer/src/assets/hires/131.png"
       }
     },
     {
@@ -4872,9 +4872,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/132.png",
-        "thumbnail": "src/assets/thumbnails/132.png",
-        "hires": "src/assets/hires/132.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/132.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/132.png",
+        "hires": "pokemon-explorer/src/assets/hires/132.png"
       }
     },
     {
@@ -4920,9 +4920,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/133.png",
-        "thumbnail": "src/assets/thumbnails/133.png",
-        "hires": "src/assets/hires/133.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/133.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/133.png",
+        "hires": "pokemon-explorer/src/assets/hires/133.png"
       }
     },
     {
@@ -4956,9 +4956,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/134.png",
-        "thumbnail": "src/assets/thumbnails/134.png",
-        "hires": "src/assets/hires/134.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/134.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/134.png",
+        "hires": "pokemon-explorer/src/assets/hires/134.png"
       }
     },
     {
@@ -4992,9 +4992,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/135.png",
-        "thumbnail": "src/assets/thumbnails/135.png",
-        "hires": "src/assets/hires/135.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/135.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/135.png",
+        "hires": "pokemon-explorer/src/assets/hires/135.png"
       }
     },
     {
@@ -5028,9 +5028,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/136.png",
-        "thumbnail": "src/assets/thumbnails/136.png",
-        "hires": "src/assets/hires/136.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/136.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/136.png",
+        "hires": "pokemon-explorer/src/assets/hires/136.png"
       }
     },
     {
@@ -5065,9 +5065,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/137.png",
-        "thumbnail": "src/assets/thumbnails/137.png",
-        "hires": "src/assets/hires/137.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/137.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/137.png",
+        "hires": "pokemon-explorer/src/assets/hires/137.png"
       }
     },
     {
@@ -5102,9 +5102,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/138.png",
-        "thumbnail": "src/assets/thumbnails/138.png",
-        "hires": "src/assets/hires/138.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/138.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/138.png",
+        "hires": "pokemon-explorer/src/assets/hires/138.png"
       }
     },
     {
@@ -5139,9 +5139,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/139.png",
-        "thumbnail": "src/assets/thumbnails/139.png",
-        "hires": "src/assets/hires/139.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/139.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/139.png",
+        "hires": "pokemon-explorer/src/assets/hires/139.png"
       }
     },
     {
@@ -5176,9 +5176,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/140.png",
-        "thumbnail": "src/assets/thumbnails/140.png",
-        "hires": "src/assets/hires/140.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/140.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/140.png",
+        "hires": "pokemon-explorer/src/assets/hires/140.png"
       }
     },
     {
@@ -5213,9 +5213,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/141.png",
-        "thumbnail": "src/assets/thumbnails/141.png",
-        "hires": "src/assets/hires/141.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/141.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/141.png",
+        "hires": "pokemon-explorer/src/assets/hires/141.png"
       }
     },
     {
@@ -5250,9 +5250,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/142.png",
-        "thumbnail": "src/assets/thumbnails/142.png",
-        "hires": "src/assets/hires/142.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/142.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/142.png",
+        "hires": "pokemon-explorer/src/assets/hires/142.png"
       }
     },
     {
@@ -5287,9 +5287,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/143.png",
-        "thumbnail": "src/assets/thumbnails/143.png",
-        "hires": "src/assets/hires/143.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/143.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/143.png",
+        "hires": "pokemon-explorer/src/assets/hires/143.png"
       }
     },
     {
@@ -5323,9 +5323,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/144.png",
-        "thumbnail": "src/assets/thumbnails/144.png",
-        "hires": "src/assets/hires/144.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/144.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/144.png",
+        "hires": "pokemon-explorer/src/assets/hires/144.png"
       }
     },
     {
@@ -5359,9 +5359,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/145.png",
-        "thumbnail": "src/assets/thumbnails/145.png",
-        "hires": "src/assets/hires/145.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/145.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/145.png",
+        "hires": "pokemon-explorer/src/assets/hires/145.png"
       }
     },
     {
@@ -5395,9 +5395,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/146.png",
-        "thumbnail": "src/assets/thumbnails/146.png",
-        "hires": "src/assets/hires/146.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/146.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/146.png",
+        "hires": "pokemon-explorer/src/assets/hires/146.png"
       }
     },
     {
@@ -5431,9 +5431,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/147.png",
-        "thumbnail": "src/assets/thumbnails/147.png",
-        "hires": "src/assets/hires/147.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/147.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/147.png",
+        "hires": "pokemon-explorer/src/assets/hires/147.png"
       }
     },
     {
@@ -5467,9 +5467,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/148.png",
-        "thumbnail": "src/assets/thumbnails/148.png",
-        "hires": "src/assets/hires/148.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/148.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/148.png",
+        "hires": "pokemon-explorer/src/assets/hires/148.png"
       }
     },
     {
@@ -5503,9 +5503,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/149.png",
-        "thumbnail": "src/assets/thumbnails/149.png",
-        "hires": "src/assets/hires/149.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/149.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/149.png",
+        "hires": "pokemon-explorer/src/assets/hires/149.png"
       }
     },
     {
@@ -5539,9 +5539,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/150.png",
-        "thumbnail": "src/assets/thumbnails/150.png",
-        "hires": "src/assets/hires/150.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/150.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/150.png",
+        "hires": "pokemon-explorer/src/assets/hires/150.png"
       }
     },
     {
@@ -5572,9 +5572,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/151.png",
-        "thumbnail": "src/assets/thumbnails/151.png",
-        "hires": "src/assets/hires/151.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/151.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/151.png",
+        "hires": "pokemon-explorer/src/assets/hires/151.png"
       }
     },
     {
@@ -5608,9 +5608,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/152.png",
-        "thumbnail": "src/assets/thumbnails/152.png",
-        "hires": "src/assets/hires/152.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/152.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/152.png",
+        "hires": "pokemon-explorer/src/assets/hires/152.png"
       }
     },
     {
@@ -5644,9 +5644,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/153.png",
-        "thumbnail": "src/assets/thumbnails/153.png",
-        "hires": "src/assets/hires/153.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/153.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/153.png",
+        "hires": "pokemon-explorer/src/assets/hires/153.png"
       }
     },
     {
@@ -5680,9 +5680,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/154.png",
-        "thumbnail": "src/assets/thumbnails/154.png",
-        "hires": "src/assets/hires/154.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/154.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/154.png",
+        "hires": "pokemon-explorer/src/assets/hires/154.png"
       }
     },
     {
@@ -5716,9 +5716,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/155.png",
-        "thumbnail": "src/assets/thumbnails/155.png",
-        "hires": "src/assets/hires/155.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/155.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/155.png",
+        "hires": "pokemon-explorer/src/assets/hires/155.png"
       }
     },
     {
@@ -5752,9 +5752,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/156.png",
-        "thumbnail": "src/assets/thumbnails/156.png",
-        "hires": "src/assets/hires/156.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/156.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/156.png",
+        "hires": "pokemon-explorer/src/assets/hires/156.png"
       }
     },
     {
@@ -5788,9 +5788,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/157.png",
-        "thumbnail": "src/assets/thumbnails/157.png",
-        "hires": "src/assets/hires/157.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/157.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/157.png",
+        "hires": "pokemon-explorer/src/assets/hires/157.png"
       }
     },
     {
@@ -5824,9 +5824,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/158.png",
-        "thumbnail": "src/assets/thumbnails/158.png",
-        "hires": "src/assets/hires/158.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/158.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/158.png",
+        "hires": "pokemon-explorer/src/assets/hires/158.png"
       }
     },
     {
@@ -5860,9 +5860,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/159.png",
-        "thumbnail": "src/assets/thumbnails/159.png",
-        "hires": "src/assets/hires/159.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/159.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/159.png",
+        "hires": "pokemon-explorer/src/assets/hires/159.png"
       }
     },
     {
@@ -5896,9 +5896,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/160.png",
-        "thumbnail": "src/assets/thumbnails/160.png",
-        "hires": "src/assets/hires/160.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/160.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/160.png",
+        "hires": "pokemon-explorer/src/assets/hires/160.png"
       }
     },
     {
@@ -5933,9 +5933,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/161.png",
-        "thumbnail": "src/assets/thumbnails/161.png",
-        "hires": "src/assets/hires/161.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/161.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/161.png",
+        "hires": "pokemon-explorer/src/assets/hires/161.png"
       }
     },
     {
@@ -5970,9 +5970,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/162.png",
-        "thumbnail": "src/assets/thumbnails/162.png",
-        "hires": "src/assets/hires/162.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/162.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/162.png",
+        "hires": "pokemon-explorer/src/assets/hires/162.png"
       }
     },
     {
@@ -6007,9 +6007,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/163.png",
-        "thumbnail": "src/assets/thumbnails/163.png",
-        "hires": "src/assets/hires/163.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/163.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/163.png",
+        "hires": "pokemon-explorer/src/assets/hires/163.png"
       }
     },
     {
@@ -6044,9 +6044,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/164.png",
-        "thumbnail": "src/assets/thumbnails/164.png",
-        "hires": "src/assets/hires/164.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/164.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/164.png",
+        "hires": "pokemon-explorer/src/assets/hires/164.png"
       }
     },
     {
@@ -6081,9 +6081,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/165.png",
-        "thumbnail": "src/assets/thumbnails/165.png",
-        "hires": "src/assets/hires/165.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/165.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/165.png",
+        "hires": "pokemon-explorer/src/assets/hires/165.png"
       }
     },
     {
@@ -6118,9 +6118,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/166.png",
-        "thumbnail": "src/assets/thumbnails/166.png",
-        "hires": "src/assets/hires/166.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/166.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/166.png",
+        "hires": "pokemon-explorer/src/assets/hires/166.png"
       }
     },
     {
@@ -6155,9 +6155,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/167.png",
-        "thumbnail": "src/assets/thumbnails/167.png",
-        "hires": "src/assets/hires/167.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/167.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/167.png",
+        "hires": "pokemon-explorer/src/assets/hires/167.png"
       }
     },
     {
@@ -6192,9 +6192,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/168.png",
-        "thumbnail": "src/assets/thumbnails/168.png",
-        "hires": "src/assets/hires/168.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/168.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/168.png",
+        "hires": "pokemon-explorer/src/assets/hires/168.png"
       }
     },
     {
@@ -6228,9 +6228,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/169.png",
-        "thumbnail": "src/assets/thumbnails/169.png",
-        "hires": "src/assets/hires/169.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/169.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/169.png",
+        "hires": "pokemon-explorer/src/assets/hires/169.png"
       }
     },
     {
@@ -6265,9 +6265,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/170.png",
-        "thumbnail": "src/assets/thumbnails/170.png",
-        "hires": "src/assets/hires/170.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/170.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/170.png",
+        "hires": "pokemon-explorer/src/assets/hires/170.png"
       }
     },
     {
@@ -6302,9 +6302,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/171.png",
-        "thumbnail": "src/assets/thumbnails/171.png",
-        "hires": "src/assets/hires/171.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/171.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/171.png",
+        "hires": "pokemon-explorer/src/assets/hires/171.png"
       }
     },
     {
@@ -6338,9 +6338,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/172.png",
-        "thumbnail": "src/assets/thumbnails/172.png",
-        "hires": "src/assets/hires/172.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/172.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/172.png",
+        "hires": "pokemon-explorer/src/assets/hires/172.png"
       }
     },
     {
@@ -6375,9 +6375,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/173.png",
-        "thumbnail": "src/assets/thumbnails/173.png",
-        "hires": "src/assets/hires/173.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/173.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/173.png",
+        "hires": "pokemon-explorer/src/assets/hires/173.png"
       }
     },
     {
@@ -6412,9 +6412,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/174.png",
-        "thumbnail": "src/assets/thumbnails/174.png",
-        "hires": "src/assets/hires/174.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/174.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/174.png",
+        "hires": "pokemon-explorer/src/assets/hires/174.png"
       }
     },
     {
@@ -6449,9 +6449,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/175.png",
-        "thumbnail": "src/assets/thumbnails/175.png",
-        "hires": "src/assets/hires/175.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/175.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/175.png",
+        "hires": "pokemon-explorer/src/assets/hires/175.png"
       }
     },
     {
@@ -6489,9 +6489,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/176.png",
-        "thumbnail": "src/assets/thumbnails/176.png",
-        "hires": "src/assets/hires/176.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/176.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/176.png",
+        "hires": "pokemon-explorer/src/assets/hires/176.png"
       }
     },
     {
@@ -6526,9 +6526,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/177.png",
-        "thumbnail": "src/assets/thumbnails/177.png",
-        "hires": "src/assets/hires/177.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/177.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/177.png",
+        "hires": "pokemon-explorer/src/assets/hires/177.png"
       }
     },
     {
@@ -6563,9 +6563,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/178.png",
-        "thumbnail": "src/assets/thumbnails/178.png",
-        "hires": "src/assets/hires/178.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/178.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/178.png",
+        "hires": "pokemon-explorer/src/assets/hires/178.png"
       }
     },
     {
@@ -6599,9 +6599,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/179.png",
-        "thumbnail": "src/assets/thumbnails/179.png",
-        "hires": "src/assets/hires/179.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/179.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/179.png",
+        "hires": "pokemon-explorer/src/assets/hires/179.png"
       }
     },
     {
@@ -6635,9 +6635,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/180.png",
-        "thumbnail": "src/assets/thumbnails/180.png",
-        "hires": "src/assets/hires/180.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/180.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/180.png",
+        "hires": "pokemon-explorer/src/assets/hires/180.png"
       }
     },
     {
@@ -6671,9 +6671,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/181.png",
-        "thumbnail": "src/assets/thumbnails/181.png",
-        "hires": "src/assets/hires/181.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/181.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/181.png",
+        "hires": "pokemon-explorer/src/assets/hires/181.png"
       }
     },
     {
@@ -6707,9 +6707,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/182.png",
-        "thumbnail": "src/assets/thumbnails/182.png",
-        "hires": "src/assets/hires/182.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/182.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/182.png",
+        "hires": "pokemon-explorer/src/assets/hires/182.png"
       }
     },
     {
@@ -6747,9 +6747,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/183.png",
-        "thumbnail": "src/assets/thumbnails/183.png",
-        "hires": "src/assets/hires/183.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/183.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/183.png",
+        "hires": "pokemon-explorer/src/assets/hires/183.png"
       }
     },
     {
@@ -6784,9 +6784,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/184.png",
-        "thumbnail": "src/assets/thumbnails/184.png",
-        "hires": "src/assets/hires/184.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/184.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/184.png",
+        "hires": "pokemon-explorer/src/assets/hires/184.png"
       }
     },
     {
@@ -6821,9 +6821,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/185.png",
-        "thumbnail": "src/assets/thumbnails/185.png",
-        "hires": "src/assets/hires/185.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/185.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/185.png",
+        "hires": "pokemon-explorer/src/assets/hires/185.png"
       }
     },
     {
@@ -6858,9 +6858,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/186.png",
-        "thumbnail": "src/assets/thumbnails/186.png",
-        "hires": "src/assets/hires/186.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/186.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/186.png",
+        "hires": "pokemon-explorer/src/assets/hires/186.png"
       }
     },
     {
@@ -6895,9 +6895,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/187.png",
-        "thumbnail": "src/assets/thumbnails/187.png",
-        "hires": "src/assets/hires/187.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/187.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/187.png",
+        "hires": "pokemon-explorer/src/assets/hires/187.png"
       }
     },
     {
@@ -6932,9 +6932,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/188.png",
-        "thumbnail": "src/assets/thumbnails/188.png",
-        "hires": "src/assets/hires/188.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/188.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/188.png",
+        "hires": "pokemon-explorer/src/assets/hires/188.png"
       }
     },
     {
@@ -6969,9 +6969,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/189.png",
-        "thumbnail": "src/assets/thumbnails/189.png",
-        "hires": "src/assets/hires/189.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/189.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/189.png",
+        "hires": "pokemon-explorer/src/assets/hires/189.png"
       }
     },
     {
@@ -7006,9 +7006,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/190.png",
-        "thumbnail": "src/assets/thumbnails/190.png",
-        "hires": "src/assets/hires/190.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/190.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/190.png",
+        "hires": "pokemon-explorer/src/assets/hires/190.png"
       }
     },
     {
@@ -7043,9 +7043,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/191.png",
-        "thumbnail": "src/assets/thumbnails/191.png",
-        "hires": "src/assets/hires/191.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/191.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/191.png",
+        "hires": "pokemon-explorer/src/assets/hires/191.png"
       }
     },
     {
@@ -7080,9 +7080,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/192.png",
-        "thumbnail": "src/assets/thumbnails/192.png",
-        "hires": "src/assets/hires/192.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/192.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/192.png",
+        "hires": "pokemon-explorer/src/assets/hires/192.png"
       }
     },
     {
@@ -7117,9 +7117,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/193.png",
-        "thumbnail": "src/assets/thumbnails/193.png",
-        "hires": "src/assets/hires/193.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/193.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/193.png",
+        "hires": "pokemon-explorer/src/assets/hires/193.png"
       }
     },
     {
@@ -7154,9 +7154,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/194.png",
-        "thumbnail": "src/assets/thumbnails/194.png",
-        "hires": "src/assets/hires/194.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/194.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/194.png",
+        "hires": "pokemon-explorer/src/assets/hires/194.png"
       }
     },
     {
@@ -7191,9 +7191,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/195.png",
-        "thumbnail": "src/assets/thumbnails/195.png",
-        "hires": "src/assets/hires/195.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/195.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/195.png",
+        "hires": "pokemon-explorer/src/assets/hires/195.png"
       }
     },
     {
@@ -7227,9 +7227,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/196.png",
-        "thumbnail": "src/assets/thumbnails/196.png",
-        "hires": "src/assets/hires/196.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/196.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/196.png",
+        "hires": "pokemon-explorer/src/assets/hires/196.png"
       }
     },
     {
@@ -7263,9 +7263,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/197.png",
-        "thumbnail": "src/assets/thumbnails/197.png",
-        "hires": "src/assets/hires/197.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/197.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/197.png",
+        "hires": "pokemon-explorer/src/assets/hires/197.png"
       }
     },
     {
@@ -7300,9 +7300,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/198.png",
-        "thumbnail": "src/assets/thumbnails/198.png",
-        "hires": "src/assets/hires/198.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/198.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/198.png",
+        "hires": "pokemon-explorer/src/assets/hires/198.png"
       }
     },
     {
@@ -7337,9 +7337,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/199.png",
-        "thumbnail": "src/assets/thumbnails/199.png",
-        "hires": "src/assets/hires/199.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/199.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/199.png",
+        "hires": "pokemon-explorer/src/assets/hires/199.png"
       }
     },
     {
@@ -7370,9 +7370,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/200.png",
-        "thumbnail": "src/assets/thumbnails/200.png",
-        "hires": "src/assets/hires/200.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/200.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/200.png",
+        "hires": "pokemon-explorer/src/assets/hires/200.png"
       }
     },
     {
@@ -7403,9 +7403,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/201.png",
-        "thumbnail": "src/assets/thumbnails/201.png",
-        "hires": "src/assets/hires/201.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/201.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/201.png",
+        "hires": "pokemon-explorer/src/assets/hires/201.png"
       }
     },
     {
@@ -7439,9 +7439,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/202.png",
-        "thumbnail": "src/assets/thumbnails/202.png",
-        "hires": "src/assets/hires/202.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/202.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/202.png",
+        "hires": "pokemon-explorer/src/assets/hires/202.png"
       }
     },
     {
@@ -7476,9 +7476,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/203.png",
-        "thumbnail": "src/assets/thumbnails/203.png",
-        "hires": "src/assets/hires/203.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/203.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/203.png",
+        "hires": "pokemon-explorer/src/assets/hires/203.png"
       }
     },
     {
@@ -7512,9 +7512,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/204.png",
-        "thumbnail": "src/assets/thumbnails/204.png",
-        "hires": "src/assets/hires/204.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/204.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/204.png",
+        "hires": "pokemon-explorer/src/assets/hires/204.png"
       }
     },
     {
@@ -7548,9 +7548,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/205.png",
-        "thumbnail": "src/assets/thumbnails/205.png",
-        "hires": "src/assets/hires/205.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/205.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/205.png",
+        "hires": "pokemon-explorer/src/assets/hires/205.png"
       }
     },
     {
@@ -7585,9 +7585,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/206.png",
-        "thumbnail": "src/assets/thumbnails/206.png",
-        "hires": "src/assets/hires/206.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/206.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/206.png",
+        "hires": "pokemon-explorer/src/assets/hires/206.png"
       }
     },
     {
@@ -7622,9 +7622,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/207.png",
-        "thumbnail": "src/assets/thumbnails/207.png",
-        "hires": "src/assets/hires/207.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/207.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/207.png",
+        "hires": "pokemon-explorer/src/assets/hires/207.png"
       }
     },
     {
@@ -7659,9 +7659,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/208.png",
-        "thumbnail": "src/assets/thumbnails/208.png",
-        "hires": "src/assets/hires/208.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/208.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/208.png",
+        "hires": "pokemon-explorer/src/assets/hires/208.png"
       }
     },
     {
@@ -7696,9 +7696,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/209.png",
-        "thumbnail": "src/assets/thumbnails/209.png",
-        "hires": "src/assets/hires/209.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/209.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/209.png",
+        "hires": "pokemon-explorer/src/assets/hires/209.png"
       }
     },
     {
@@ -7733,9 +7733,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/210.png",
-        "thumbnail": "src/assets/thumbnails/210.png",
-        "hires": "src/assets/hires/210.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/210.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/210.png",
+        "hires": "pokemon-explorer/src/assets/hires/210.png"
       }
     },
     {
@@ -7770,9 +7770,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/211.png",
-        "thumbnail": "src/assets/thumbnails/211.png",
-        "hires": "src/assets/hires/211.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/211.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/211.png",
+        "hires": "pokemon-explorer/src/assets/hires/211.png"
       }
     },
     {
@@ -7807,9 +7807,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/212.png",
-        "thumbnail": "src/assets/thumbnails/212.png",
-        "hires": "src/assets/hires/212.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/212.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/212.png",
+        "hires": "pokemon-explorer/src/assets/hires/212.png"
       }
     },
     {
@@ -7844,9 +7844,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/213.png",
-        "thumbnail": "src/assets/thumbnails/213.png",
-        "hires": "src/assets/hires/213.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/213.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/213.png",
+        "hires": "pokemon-explorer/src/assets/hires/213.png"
       }
     },
     {
@@ -7881,9 +7881,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/214.png",
-        "thumbnail": "src/assets/thumbnails/214.png",
-        "hires": "src/assets/hires/214.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/214.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/214.png",
+        "hires": "pokemon-explorer/src/assets/hires/214.png"
       }
     },
     {
@@ -7918,9 +7918,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/215.png",
-        "thumbnail": "src/assets/thumbnails/215.png",
-        "hires": "src/assets/hires/215.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/215.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/215.png",
+        "hires": "pokemon-explorer/src/assets/hires/215.png"
       }
     },
     {
@@ -7955,9 +7955,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/216.png",
-        "thumbnail": "src/assets/thumbnails/216.png",
-        "hires": "src/assets/hires/216.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/216.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/216.png",
+        "hires": "pokemon-explorer/src/assets/hires/216.png"
       }
     },
     {
@@ -7992,9 +7992,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/217.png",
-        "thumbnail": "src/assets/thumbnails/217.png",
-        "hires": "src/assets/hires/217.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/217.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/217.png",
+        "hires": "pokemon-explorer/src/assets/hires/217.png"
       }
     },
     {
@@ -8029,9 +8029,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/218.png",
-        "thumbnail": "src/assets/thumbnails/218.png",
-        "hires": "src/assets/hires/218.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/218.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/218.png",
+        "hires": "pokemon-explorer/src/assets/hires/218.png"
       }
     },
     {
@@ -8066,9 +8066,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/219.png",
-        "thumbnail": "src/assets/thumbnails/219.png",
-        "hires": "src/assets/hires/219.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/219.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/219.png",
+        "hires": "pokemon-explorer/src/assets/hires/219.png"
       }
     },
     {
@@ -8103,9 +8103,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/220.png",
-        "thumbnail": "src/assets/thumbnails/220.png",
-        "hires": "src/assets/hires/220.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/220.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/220.png",
+        "hires": "pokemon-explorer/src/assets/hires/220.png"
       }
     },
     {
@@ -8143,9 +8143,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/221.png",
-        "thumbnail": "src/assets/thumbnails/221.png",
-        "hires": "src/assets/hires/221.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/221.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/221.png",
+        "hires": "pokemon-explorer/src/assets/hires/221.png"
       }
     },
     {
@@ -8180,9 +8180,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/222.png",
-        "thumbnail": "src/assets/thumbnails/222.png",
-        "hires": "src/assets/hires/222.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/222.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/222.png",
+        "hires": "pokemon-explorer/src/assets/hires/222.png"
       }
     },
     {
@@ -8217,9 +8217,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/223.png",
-        "thumbnail": "src/assets/thumbnails/223.png",
-        "hires": "src/assets/hires/223.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/223.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/223.png",
+        "hires": "pokemon-explorer/src/assets/hires/223.png"
       }
     },
     {
@@ -8254,9 +8254,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/224.png",
-        "thumbnail": "src/assets/thumbnails/224.png",
-        "hires": "src/assets/hires/224.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/224.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/224.png",
+        "hires": "pokemon-explorer/src/assets/hires/224.png"
       }
     },
     {
@@ -8291,9 +8291,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/225.png",
-        "thumbnail": "src/assets/thumbnails/225.png",
-        "hires": "src/assets/hires/225.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/225.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/225.png",
+        "hires": "pokemon-explorer/src/assets/hires/225.png"
       }
     },
     {
@@ -8328,9 +8328,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/226.png",
-        "thumbnail": "src/assets/thumbnails/226.png",
-        "hires": "src/assets/hires/226.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/226.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/226.png",
+        "hires": "pokemon-explorer/src/assets/hires/226.png"
       }
     },
     {
@@ -8365,9 +8365,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/227.png",
-        "thumbnail": "src/assets/thumbnails/227.png",
-        "hires": "src/assets/hires/227.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/227.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/227.png",
+        "hires": "pokemon-explorer/src/assets/hires/227.png"
       }
     },
     {
@@ -8402,9 +8402,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/228.png",
-        "thumbnail": "src/assets/thumbnails/228.png",
-        "hires": "src/assets/hires/228.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/228.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/228.png",
+        "hires": "pokemon-explorer/src/assets/hires/228.png"
       }
     },
     {
@@ -8439,9 +8439,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/229.png",
-        "thumbnail": "src/assets/thumbnails/229.png",
-        "hires": "src/assets/hires/229.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/229.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/229.png",
+        "hires": "pokemon-explorer/src/assets/hires/229.png"
       }
     },
     {
@@ -8476,9 +8476,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/230.png",
-        "thumbnail": "src/assets/thumbnails/230.png",
-        "hires": "src/assets/hires/230.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/230.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/230.png",
+        "hires": "pokemon-explorer/src/assets/hires/230.png"
       }
     },
     {
@@ -8512,9 +8512,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/231.png",
-        "thumbnail": "src/assets/thumbnails/231.png",
-        "hires": "src/assets/hires/231.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/231.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/231.png",
+        "hires": "pokemon-explorer/src/assets/hires/231.png"
       }
     },
     {
@@ -8548,9 +8548,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/232.png",
-        "thumbnail": "src/assets/thumbnails/232.png",
-        "hires": "src/assets/hires/232.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/232.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/232.png",
+        "hires": "pokemon-explorer/src/assets/hires/232.png"
       }
     },
     {
@@ -8588,9 +8588,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/233.png",
-        "thumbnail": "src/assets/thumbnails/233.png",
-        "hires": "src/assets/hires/233.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/233.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/233.png",
+        "hires": "pokemon-explorer/src/assets/hires/233.png"
       }
     },
     {
@@ -8625,9 +8625,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/234.png",
-        "thumbnail": "src/assets/thumbnails/234.png",
-        "hires": "src/assets/hires/234.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/234.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/234.png",
+        "hires": "pokemon-explorer/src/assets/hires/234.png"
       }
     },
     {
@@ -8662,9 +8662,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/235.png",
-        "thumbnail": "src/assets/thumbnails/235.png",
-        "hires": "src/assets/hires/235.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/235.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/235.png",
+        "hires": "pokemon-explorer/src/assets/hires/235.png"
       }
     },
     {
@@ -8705,9 +8705,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/236.png",
-        "thumbnail": "src/assets/thumbnails/236.png",
-        "hires": "src/assets/hires/236.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/236.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/236.png",
+        "hires": "pokemon-explorer/src/assets/hires/236.png"
       }
     },
     {
@@ -8742,9 +8742,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/237.png",
-        "thumbnail": "src/assets/thumbnails/237.png",
-        "hires": "src/assets/hires/237.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/237.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/237.png",
+        "hires": "pokemon-explorer/src/assets/hires/237.png"
       }
     },
     {
@@ -8779,9 +8779,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/238.png",
-        "thumbnail": "src/assets/thumbnails/238.png",
-        "hires": "src/assets/hires/238.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/238.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/238.png",
+        "hires": "pokemon-explorer/src/assets/hires/238.png"
       }
     },
     {
@@ -8815,9 +8815,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/239.png",
-        "thumbnail": "src/assets/thumbnails/239.png",
-        "hires": "src/assets/hires/239.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/239.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/239.png",
+        "hires": "pokemon-explorer/src/assets/hires/239.png"
       }
     },
     {
@@ -8851,9 +8851,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/240.png",
-        "thumbnail": "src/assets/thumbnails/240.png",
-        "hires": "src/assets/hires/240.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/240.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/240.png",
+        "hires": "pokemon-explorer/src/assets/hires/240.png"
       }
     },
     {
@@ -8888,9 +8888,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/241.png",
-        "thumbnail": "src/assets/thumbnails/241.png",
-        "hires": "src/assets/hires/241.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/241.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/241.png",
+        "hires": "pokemon-explorer/src/assets/hires/241.png"
       }
     },
     {
@@ -8925,9 +8925,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/242.png",
-        "thumbnail": "src/assets/thumbnails/242.png",
-        "hires": "src/assets/hires/242.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/242.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/242.png",
+        "hires": "pokemon-explorer/src/assets/hires/242.png"
       }
     },
     {
@@ -8961,9 +8961,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/243.png",
-        "thumbnail": "src/assets/thumbnails/243.png",
-        "hires": "src/assets/hires/243.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/243.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/243.png",
+        "hires": "pokemon-explorer/src/assets/hires/243.png"
       }
     },
     {
@@ -8997,9 +8997,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/244.png",
-        "thumbnail": "src/assets/thumbnails/244.png",
-        "hires": "src/assets/hires/244.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/244.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/244.png",
+        "hires": "pokemon-explorer/src/assets/hires/244.png"
       }
     },
     {
@@ -9033,9 +9033,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/245.png",
-        "thumbnail": "src/assets/thumbnails/245.png",
-        "hires": "src/assets/hires/245.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/245.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/245.png",
+        "hires": "pokemon-explorer/src/assets/hires/245.png"
       }
     },
     {
@@ -9069,9 +9069,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/246.png",
-        "thumbnail": "src/assets/thumbnails/246.png",
-        "hires": "src/assets/hires/246.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/246.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/246.png",
+        "hires": "pokemon-explorer/src/assets/hires/246.png"
       }
     },
     {
@@ -9102,9 +9102,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/247.png",
-        "thumbnail": "src/assets/thumbnails/247.png",
-        "hires": "src/assets/hires/247.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/247.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/247.png",
+        "hires": "pokemon-explorer/src/assets/hires/247.png"
       }
     },
     {
@@ -9138,9 +9138,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/248.png",
-        "thumbnail": "src/assets/thumbnails/248.png",
-        "hires": "src/assets/hires/248.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/248.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/248.png",
+        "hires": "pokemon-explorer/src/assets/hires/248.png"
       }
     },
     {
@@ -9174,9 +9174,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/249.png",
-        "thumbnail": "src/assets/thumbnails/249.png",
-        "hires": "src/assets/hires/249.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/249.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/249.png",
+        "hires": "pokemon-explorer/src/assets/hires/249.png"
       }
     },
     {
@@ -9210,9 +9210,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/250.png",
-        "thumbnail": "src/assets/thumbnails/250.png",
-        "hires": "src/assets/hires/250.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/250.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/250.png",
+        "hires": "pokemon-explorer/src/assets/hires/250.png"
       }
     },
     {
@@ -9243,9 +9243,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/251.png",
-        "thumbnail": "src/assets/thumbnails/251.png",
-        "hires": "src/assets/hires/251.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/251.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/251.png",
+        "hires": "pokemon-explorer/src/assets/hires/251.png"
       }
     },
     {
@@ -9279,9 +9279,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/252.png",
-        "thumbnail": "src/assets/thumbnails/252.png",
-        "hires": "src/assets/hires/252.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/252.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/252.png",
+        "hires": "pokemon-explorer/src/assets/hires/252.png"
       }
     },
     {
@@ -9315,9 +9315,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/253.png",
-        "thumbnail": "src/assets/thumbnails/253.png",
-        "hires": "src/assets/hires/253.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/253.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/253.png",
+        "hires": "pokemon-explorer/src/assets/hires/253.png"
       }
     },
     {
@@ -9351,9 +9351,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/254.png",
-        "thumbnail": "src/assets/thumbnails/254.png",
-        "hires": "src/assets/hires/254.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/254.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/254.png",
+        "hires": "pokemon-explorer/src/assets/hires/254.png"
       }
     },
     {
@@ -9387,9 +9387,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/255.png",
-        "thumbnail": "src/assets/thumbnails/255.png",
-        "hires": "src/assets/hires/255.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/255.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/255.png",
+        "hires": "pokemon-explorer/src/assets/hires/255.png"
       }
     },
     {
@@ -9423,9 +9423,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/256.png",
-        "thumbnail": "src/assets/thumbnails/256.png",
-        "hires": "src/assets/hires/256.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/256.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/256.png",
+        "hires": "pokemon-explorer/src/assets/hires/256.png"
       }
     },
     {
@@ -9459,9 +9459,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/257.png",
-        "thumbnail": "src/assets/thumbnails/257.png",
-        "hires": "src/assets/hires/257.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/257.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/257.png",
+        "hires": "pokemon-explorer/src/assets/hires/257.png"
       }
     },
     {
@@ -9495,9 +9495,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/258.png",
-        "thumbnail": "src/assets/thumbnails/258.png",
-        "hires": "src/assets/hires/258.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/258.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/258.png",
+        "hires": "pokemon-explorer/src/assets/hires/258.png"
       }
     },
     {
@@ -9531,9 +9531,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/259.png",
-        "thumbnail": "src/assets/thumbnails/259.png",
-        "hires": "src/assets/hires/259.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/259.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/259.png",
+        "hires": "pokemon-explorer/src/assets/hires/259.png"
       }
     },
     {
@@ -9567,9 +9567,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/260.png",
-        "thumbnail": "src/assets/thumbnails/260.png",
-        "hires": "src/assets/hires/260.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/260.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/260.png",
+        "hires": "pokemon-explorer/src/assets/hires/260.png"
       }
     },
     {
@@ -9604,9 +9604,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/261.png",
-        "thumbnail": "src/assets/thumbnails/261.png",
-        "hires": "src/assets/hires/261.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/261.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/261.png",
+        "hires": "pokemon-explorer/src/assets/hires/261.png"
       }
     },
     {
@@ -9641,9 +9641,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/262.png",
-        "thumbnail": "src/assets/thumbnails/262.png",
-        "hires": "src/assets/hires/262.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/262.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/262.png",
+        "hires": "pokemon-explorer/src/assets/hires/262.png"
       }
     },
     {
@@ -9678,9 +9678,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/263.png",
-        "thumbnail": "src/assets/thumbnails/263.png",
-        "hires": "src/assets/hires/263.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/263.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/263.png",
+        "hires": "pokemon-explorer/src/assets/hires/263.png"
       }
     },
     {
@@ -9718,9 +9718,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/264.png",
-        "thumbnail": "src/assets/thumbnails/264.png",
-        "hires": "src/assets/hires/264.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/264.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/264.png",
+        "hires": "pokemon-explorer/src/assets/hires/264.png"
       }
     },
     {
@@ -9759,9 +9759,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/265.png",
-        "thumbnail": "src/assets/thumbnails/265.png",
-        "hires": "src/assets/hires/265.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/265.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/265.png",
+        "hires": "pokemon-explorer/src/assets/hires/265.png"
       }
     },
     {
@@ -9795,9 +9795,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/266.png",
-        "thumbnail": "src/assets/thumbnails/266.png",
-        "hires": "src/assets/hires/266.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/266.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/266.png",
+        "hires": "pokemon-explorer/src/assets/hires/266.png"
       }
     },
     {
@@ -9831,9 +9831,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/267.png",
-        "thumbnail": "src/assets/thumbnails/267.png",
-        "hires": "src/assets/hires/267.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/267.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/267.png",
+        "hires": "pokemon-explorer/src/assets/hires/267.png"
       }
     },
     {
@@ -9867,9 +9867,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/268.png",
-        "thumbnail": "src/assets/thumbnails/268.png",
-        "hires": "src/assets/hires/268.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/268.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/268.png",
+        "hires": "pokemon-explorer/src/assets/hires/268.png"
       }
     },
     {
@@ -9903,9 +9903,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/269.png",
-        "thumbnail": "src/assets/thumbnails/269.png",
-        "hires": "src/assets/hires/269.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/269.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/269.png",
+        "hires": "pokemon-explorer/src/assets/hires/269.png"
       }
     },
     {
@@ -9940,9 +9940,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/270.png",
-        "thumbnail": "src/assets/thumbnails/270.png",
-        "hires": "src/assets/hires/270.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/270.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/270.png",
+        "hires": "pokemon-explorer/src/assets/hires/270.png"
       }
     },
     {
@@ -9980,9 +9980,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/271.png",
-        "thumbnail": "src/assets/thumbnails/271.png",
-        "hires": "src/assets/hires/271.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/271.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/271.png",
+        "hires": "pokemon-explorer/src/assets/hires/271.png"
       }
     },
     {
@@ -10017,9 +10017,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/272.png",
-        "thumbnail": "src/assets/thumbnails/272.png",
-        "hires": "src/assets/hires/272.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/272.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/272.png",
+        "hires": "pokemon-explorer/src/assets/hires/272.png"
       }
     },
     {
@@ -10054,9 +10054,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/273.png",
-        "thumbnail": "src/assets/thumbnails/273.png",
-        "hires": "src/assets/hires/273.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/273.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/273.png",
+        "hires": "pokemon-explorer/src/assets/hires/273.png"
       }
     },
     {
@@ -10094,9 +10094,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/274.png",
-        "thumbnail": "src/assets/thumbnails/274.png",
-        "hires": "src/assets/hires/274.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/274.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/274.png",
+        "hires": "pokemon-explorer/src/assets/hires/274.png"
       }
     },
     {
@@ -10131,9 +10131,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/275.png",
-        "thumbnail": "src/assets/thumbnails/275.png",
-        "hires": "src/assets/hires/275.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/275.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/275.png",
+        "hires": "pokemon-explorer/src/assets/hires/275.png"
       }
     },
     {
@@ -10167,9 +10167,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/276.png",
-        "thumbnail": "src/assets/thumbnails/276.png",
-        "hires": "src/assets/hires/276.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/276.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/276.png",
+        "hires": "pokemon-explorer/src/assets/hires/276.png"
       }
     },
     {
@@ -10203,9 +10203,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/277.png",
-        "thumbnail": "src/assets/thumbnails/277.png",
-        "hires": "src/assets/hires/277.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/277.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/277.png",
+        "hires": "pokemon-explorer/src/assets/hires/277.png"
       }
     },
     {
@@ -10240,9 +10240,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/278.png",
-        "thumbnail": "src/assets/thumbnails/278.png",
-        "hires": "src/assets/hires/278.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/278.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/278.png",
+        "hires": "pokemon-explorer/src/assets/hires/278.png"
       }
     },
     {
@@ -10277,9 +10277,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/279.png",
-        "thumbnail": "src/assets/thumbnails/279.png",
-        "hires": "src/assets/hires/279.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/279.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/279.png",
+        "hires": "pokemon-explorer/src/assets/hires/279.png"
       }
     },
     {
@@ -10314,9 +10314,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/280.png",
-        "thumbnail": "src/assets/thumbnails/280.png",
-        "hires": "src/assets/hires/280.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/280.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/280.png",
+        "hires": "pokemon-explorer/src/assets/hires/280.png"
       }
     },
     {
@@ -10351,9 +10351,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/281.png",
-        "thumbnail": "src/assets/thumbnails/281.png",
-        "hires": "src/assets/hires/281.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/281.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/281.png",
+        "hires": "pokemon-explorer/src/assets/hires/281.png"
       }
     },
     {
@@ -10388,9 +10388,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/282.png",
-        "thumbnail": "src/assets/thumbnails/282.png",
-        "hires": "src/assets/hires/282.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/282.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/282.png",
+        "hires": "pokemon-explorer/src/assets/hires/282.png"
       }
     },
     {
@@ -10424,9 +10424,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/283.png",
-        "thumbnail": "src/assets/thumbnails/283.png",
-        "hires": "src/assets/hires/283.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/283.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/283.png",
+        "hires": "pokemon-explorer/src/assets/hires/283.png"
       }
     },
     {
@@ -10460,9 +10460,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/284.png",
-        "thumbnail": "src/assets/thumbnails/284.png",
-        "hires": "src/assets/hires/284.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/284.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/284.png",
+        "hires": "pokemon-explorer/src/assets/hires/284.png"
       }
     },
     {
@@ -10497,9 +10497,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/285.png",
-        "thumbnail": "src/assets/thumbnails/285.png",
-        "hires": "src/assets/hires/285.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/285.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/285.png",
+        "hires": "pokemon-explorer/src/assets/hires/285.png"
       }
     },
     {
@@ -10534,9 +10534,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/286.png",
-        "thumbnail": "src/assets/thumbnails/286.png",
-        "hires": "src/assets/hires/286.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/286.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/286.png",
+        "hires": "pokemon-explorer/src/assets/hires/286.png"
       }
     },
     {
@@ -10567,9 +10567,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/287.png",
-        "thumbnail": "src/assets/thumbnails/287.png",
-        "hires": "src/assets/hires/287.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/287.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/287.png",
+        "hires": "pokemon-explorer/src/assets/hires/287.png"
       }
     },
     {
@@ -10600,9 +10600,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/288.png",
-        "thumbnail": "src/assets/thumbnails/288.png",
-        "hires": "src/assets/hires/288.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/288.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/288.png",
+        "hires": "pokemon-explorer/src/assets/hires/288.png"
       }
     },
     {
@@ -10633,9 +10633,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/289.png",
-        "thumbnail": "src/assets/thumbnails/289.png",
-        "hires": "src/assets/hires/289.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/289.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/289.png",
+        "hires": "pokemon-explorer/src/assets/hires/289.png"
       }
     },
     {
@@ -10674,9 +10674,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/290.png",
-        "thumbnail": "src/assets/thumbnails/290.png",
-        "hires": "src/assets/hires/290.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/290.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/290.png",
+        "hires": "pokemon-explorer/src/assets/hires/290.png"
       }
     },
     {
@@ -10710,9 +10710,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/291.png",
-        "thumbnail": "src/assets/thumbnails/291.png",
-        "hires": "src/assets/hires/291.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/291.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/291.png",
+        "hires": "pokemon-explorer/src/assets/hires/291.png"
       }
     },
     {
@@ -10745,9 +10745,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/292.png",
-        "thumbnail": "src/assets/thumbnails/292.png",
-        "hires": "src/assets/hires/292.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/292.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/292.png",
+        "hires": "pokemon-explorer/src/assets/hires/292.png"
       }
     },
     {
@@ -10781,9 +10781,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/293.png",
-        "thumbnail": "src/assets/thumbnails/293.png",
-        "hires": "src/assets/hires/293.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/293.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/293.png",
+        "hires": "pokemon-explorer/src/assets/hires/293.png"
       }
     },
     {
@@ -10817,9 +10817,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/294.png",
-        "thumbnail": "src/assets/thumbnails/294.png",
-        "hires": "src/assets/hires/294.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/294.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/294.png",
+        "hires": "pokemon-explorer/src/assets/hires/294.png"
       }
     },
     {
@@ -10853,9 +10853,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/295.png",
-        "thumbnail": "src/assets/thumbnails/295.png",
-        "hires": "src/assets/hires/295.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/295.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/295.png",
+        "hires": "pokemon-explorer/src/assets/hires/295.png"
       }
     },
     {
@@ -10890,9 +10890,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/296.png",
-        "thumbnail": "src/assets/thumbnails/296.png",
-        "hires": "src/assets/hires/296.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/296.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/296.png",
+        "hires": "pokemon-explorer/src/assets/hires/296.png"
       }
     },
     {
@@ -10927,9 +10927,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/297.png",
-        "thumbnail": "src/assets/thumbnails/297.png",
-        "hires": "src/assets/hires/297.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/297.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/297.png",
+        "hires": "pokemon-explorer/src/assets/hires/297.png"
       }
     },
     {
@@ -10964,9 +10964,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/298.png",
-        "thumbnail": "src/assets/thumbnails/298.png",
-        "hires": "src/assets/hires/298.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/298.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/298.png",
+        "hires": "pokemon-explorer/src/assets/hires/298.png"
       }
     },
     {
@@ -11001,9 +11001,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/299.png",
-        "thumbnail": "src/assets/thumbnails/299.png",
-        "hires": "src/assets/hires/299.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/299.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/299.png",
+        "hires": "pokemon-explorer/src/assets/hires/299.png"
       }
     },
     {
@@ -11038,9 +11038,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/300.png",
-        "thumbnail": "src/assets/thumbnails/300.png",
-        "hires": "src/assets/hires/300.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/300.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/300.png",
+        "hires": "pokemon-explorer/src/assets/hires/300.png"
       }
     },
     {
@@ -11075,9 +11075,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/301.png",
-        "thumbnail": "src/assets/thumbnails/301.png",
-        "hires": "src/assets/hires/301.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/301.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/301.png",
+        "hires": "pokemon-explorer/src/assets/hires/301.png"
       }
     },
     {
@@ -11112,9 +11112,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/302.png",
-        "thumbnail": "src/assets/thumbnails/302.png",
-        "hires": "src/assets/hires/302.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/302.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/302.png",
+        "hires": "pokemon-explorer/src/assets/hires/302.png"
       }
     },
     {
@@ -11149,9 +11149,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/303.png",
-        "thumbnail": "src/assets/thumbnails/303.png",
-        "hires": "src/assets/hires/303.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/303.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/303.png",
+        "hires": "pokemon-explorer/src/assets/hires/303.png"
       }
     },
     {
@@ -11186,9 +11186,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/304.png",
-        "thumbnail": "src/assets/thumbnails/304.png",
-        "hires": "src/assets/hires/304.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/304.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/304.png",
+        "hires": "pokemon-explorer/src/assets/hires/304.png"
       }
     },
     {
@@ -11223,9 +11223,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/305.png",
-        "thumbnail": "src/assets/thumbnails/305.png",
-        "hires": "src/assets/hires/305.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/305.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/305.png",
+        "hires": "pokemon-explorer/src/assets/hires/305.png"
       }
     },
     {
@@ -11260,9 +11260,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/306.png",
-        "thumbnail": "src/assets/thumbnails/306.png",
-        "hires": "src/assets/hires/306.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/306.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/306.png",
+        "hires": "pokemon-explorer/src/assets/hires/306.png"
       }
     },
     {
@@ -11296,9 +11296,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/307.png",
-        "thumbnail": "src/assets/thumbnails/307.png",
-        "hires": "src/assets/hires/307.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/307.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/307.png",
+        "hires": "pokemon-explorer/src/assets/hires/307.png"
       }
     },
     {
@@ -11332,9 +11332,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/308.png",
-        "thumbnail": "src/assets/thumbnails/308.png",
-        "hires": "src/assets/hires/308.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/308.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/308.png",
+        "hires": "pokemon-explorer/src/assets/hires/308.png"
       }
     },
     {
@@ -11369,9 +11369,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/309.png",
-        "thumbnail": "src/assets/thumbnails/309.png",
-        "hires": "src/assets/hires/309.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/309.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/309.png",
+        "hires": "pokemon-explorer/src/assets/hires/309.png"
       }
     },
     {
@@ -11406,9 +11406,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/310.png",
-        "thumbnail": "src/assets/thumbnails/310.png",
-        "hires": "src/assets/hires/310.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/310.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/310.png",
+        "hires": "pokemon-explorer/src/assets/hires/310.png"
       }
     },
     {
@@ -11442,9 +11442,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/311.png",
-        "thumbnail": "src/assets/thumbnails/311.png",
-        "hires": "src/assets/hires/311.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/311.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/311.png",
+        "hires": "pokemon-explorer/src/assets/hires/311.png"
       }
     },
     {
@@ -11478,9 +11478,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/312.png",
-        "thumbnail": "src/assets/thumbnails/312.png",
-        "hires": "src/assets/hires/312.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/312.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/312.png",
+        "hires": "pokemon-explorer/src/assets/hires/312.png"
       }
     },
     {
@@ -11515,9 +11515,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/313.png",
-        "thumbnail": "src/assets/thumbnails/313.png",
-        "hires": "src/assets/hires/313.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/313.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/313.png",
+        "hires": "pokemon-explorer/src/assets/hires/313.png"
       }
     },
     {
@@ -11552,9 +11552,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/314.png",
-        "thumbnail": "src/assets/thumbnails/314.png",
-        "hires": "src/assets/hires/314.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/314.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/314.png",
+        "hires": "pokemon-explorer/src/assets/hires/314.png"
       }
     },
     {
@@ -11592,9 +11592,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/315.png",
-        "thumbnail": "src/assets/thumbnails/315.png",
-        "hires": "src/assets/hires/315.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/315.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/315.png",
+        "hires": "pokemon-explorer/src/assets/hires/315.png"
       }
     },
     {
@@ -11629,9 +11629,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/316.png",
-        "thumbnail": "src/assets/thumbnails/316.png",
-        "hires": "src/assets/hires/316.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/316.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/316.png",
+        "hires": "pokemon-explorer/src/assets/hires/316.png"
       }
     },
     {
@@ -11666,9 +11666,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/317.png",
-        "thumbnail": "src/assets/thumbnails/317.png",
-        "hires": "src/assets/hires/317.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/317.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/317.png",
+        "hires": "pokemon-explorer/src/assets/hires/317.png"
       }
     },
     {
@@ -11702,9 +11702,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/318.png",
-        "thumbnail": "src/assets/thumbnails/318.png",
-        "hires": "src/assets/hires/318.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/318.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/318.png",
+        "hires": "pokemon-explorer/src/assets/hires/318.png"
       }
     },
     {
@@ -11738,9 +11738,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/319.png",
-        "thumbnail": "src/assets/thumbnails/319.png",
-        "hires": "src/assets/hires/319.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/319.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/319.png",
+        "hires": "pokemon-explorer/src/assets/hires/319.png"
       }
     },
     {
@@ -11775,9 +11775,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/320.png",
-        "thumbnail": "src/assets/thumbnails/320.png",
-        "hires": "src/assets/hires/320.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/320.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/320.png",
+        "hires": "pokemon-explorer/src/assets/hires/320.png"
       }
     },
     {
@@ -11812,9 +11812,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/321.png",
-        "thumbnail": "src/assets/thumbnails/321.png",
-        "hires": "src/assets/hires/321.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/321.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/321.png",
+        "hires": "pokemon-explorer/src/assets/hires/321.png"
       }
     },
     {
@@ -11849,9 +11849,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/322.png",
-        "thumbnail": "src/assets/thumbnails/322.png",
-        "hires": "src/assets/hires/322.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/322.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/322.png",
+        "hires": "pokemon-explorer/src/assets/hires/322.png"
       }
     },
     {
@@ -11886,9 +11886,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/323.png",
-        "thumbnail": "src/assets/thumbnails/323.png",
-        "hires": "src/assets/hires/323.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/323.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/323.png",
+        "hires": "pokemon-explorer/src/assets/hires/323.png"
       }
     },
     {
@@ -11923,9 +11923,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/324.png",
-        "thumbnail": "src/assets/thumbnails/324.png",
-        "hires": "src/assets/hires/324.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/324.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/324.png",
+        "hires": "pokemon-explorer/src/assets/hires/324.png"
       }
     },
     {
@@ -11960,9 +11960,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/325.png",
-        "thumbnail": "src/assets/thumbnails/325.png",
-        "hires": "src/assets/hires/325.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/325.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/325.png",
+        "hires": "pokemon-explorer/src/assets/hires/325.png"
       }
     },
     {
@@ -11997,9 +11997,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/326.png",
-        "thumbnail": "src/assets/thumbnails/326.png",
-        "hires": "src/assets/hires/326.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/326.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/326.png",
+        "hires": "pokemon-explorer/src/assets/hires/326.png"
       }
     },
     {
@@ -12034,9 +12034,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/327.png",
-        "thumbnail": "src/assets/thumbnails/327.png",
-        "hires": "src/assets/hires/327.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/327.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/327.png",
+        "hires": "pokemon-explorer/src/assets/hires/327.png"
       }
     },
     {
@@ -12071,9 +12071,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/328.png",
-        "thumbnail": "src/assets/thumbnails/328.png",
-        "hires": "src/assets/hires/328.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/328.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/328.png",
+        "hires": "pokemon-explorer/src/assets/hires/328.png"
       }
     },
     {
@@ -12104,9 +12104,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/329.png",
-        "thumbnail": "src/assets/thumbnails/329.png",
-        "hires": "src/assets/hires/329.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/329.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/329.png",
+        "hires": "pokemon-explorer/src/assets/hires/329.png"
       }
     },
     {
@@ -12137,9 +12137,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/330.png",
-        "thumbnail": "src/assets/thumbnails/330.png",
-        "hires": "src/assets/hires/330.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/330.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/330.png",
+        "hires": "pokemon-explorer/src/assets/hires/330.png"
       }
     },
     {
@@ -12173,9 +12173,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/331.png",
-        "thumbnail": "src/assets/thumbnails/331.png",
-        "hires": "src/assets/hires/331.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/331.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/331.png",
+        "hires": "pokemon-explorer/src/assets/hires/331.png"
       }
     },
     {
@@ -12209,9 +12209,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/332.png",
-        "thumbnail": "src/assets/thumbnails/332.png",
-        "hires": "src/assets/hires/332.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/332.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/332.png",
+        "hires": "pokemon-explorer/src/assets/hires/332.png"
       }
     },
     {
@@ -12245,9 +12245,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/333.png",
-        "thumbnail": "src/assets/thumbnails/333.png",
-        "hires": "src/assets/hires/333.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/333.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/333.png",
+        "hires": "pokemon-explorer/src/assets/hires/333.png"
       }
     },
     {
@@ -12281,9 +12281,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/334.png",
-        "thumbnail": "src/assets/thumbnails/334.png",
-        "hires": "src/assets/hires/334.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/334.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/334.png",
+        "hires": "pokemon-explorer/src/assets/hires/334.png"
       }
     },
     {
@@ -12317,9 +12317,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/335.png",
-        "thumbnail": "src/assets/thumbnails/335.png",
-        "hires": "src/assets/hires/335.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/335.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/335.png",
+        "hires": "pokemon-explorer/src/assets/hires/335.png"
       }
     },
     {
@@ -12353,9 +12353,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/336.png",
-        "thumbnail": "src/assets/thumbnails/336.png",
-        "hires": "src/assets/hires/336.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/336.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/336.png",
+        "hires": "pokemon-explorer/src/assets/hires/336.png"
       }
     },
     {
@@ -12386,9 +12386,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/337.png",
-        "thumbnail": "src/assets/thumbnails/337.png",
-        "hires": "src/assets/hires/337.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/337.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/337.png",
+        "hires": "pokemon-explorer/src/assets/hires/337.png"
       }
     },
     {
@@ -12419,9 +12419,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/338.png",
-        "thumbnail": "src/assets/thumbnails/338.png",
-        "hires": "src/assets/hires/338.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/338.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/338.png",
+        "hires": "pokemon-explorer/src/assets/hires/338.png"
       }
     },
     {
@@ -12456,9 +12456,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/339.png",
-        "thumbnail": "src/assets/thumbnails/339.png",
-        "hires": "src/assets/hires/339.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/339.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/339.png",
+        "hires": "pokemon-explorer/src/assets/hires/339.png"
       }
     },
     {
@@ -12493,9 +12493,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/340.png",
-        "thumbnail": "src/assets/thumbnails/340.png",
-        "hires": "src/assets/hires/340.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/340.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/340.png",
+        "hires": "pokemon-explorer/src/assets/hires/340.png"
       }
     },
     {
@@ -12530,9 +12530,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/341.png",
-        "thumbnail": "src/assets/thumbnails/341.png",
-        "hires": "src/assets/hires/341.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/341.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/341.png",
+        "hires": "pokemon-explorer/src/assets/hires/341.png"
       }
     },
     {
@@ -12567,9 +12567,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/342.png",
-        "thumbnail": "src/assets/thumbnails/342.png",
-        "hires": "src/assets/hires/342.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/342.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/342.png",
+        "hires": "pokemon-explorer/src/assets/hires/342.png"
       }
     },
     {
@@ -12600,9 +12600,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/343.png",
-        "thumbnail": "src/assets/thumbnails/343.png",
-        "hires": "src/assets/hires/343.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/343.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/343.png",
+        "hires": "pokemon-explorer/src/assets/hires/343.png"
       }
     },
     {
@@ -12633,9 +12633,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/344.png",
-        "thumbnail": "src/assets/thumbnails/344.png",
-        "hires": "src/assets/hires/344.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/344.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/344.png",
+        "hires": "pokemon-explorer/src/assets/hires/344.png"
       }
     },
     {
@@ -12669,9 +12669,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/345.png",
-        "thumbnail": "src/assets/thumbnails/345.png",
-        "hires": "src/assets/hires/345.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/345.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/345.png",
+        "hires": "pokemon-explorer/src/assets/hires/345.png"
       }
     },
     {
@@ -12705,9 +12705,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/346.png",
-        "thumbnail": "src/assets/thumbnails/346.png",
-        "hires": "src/assets/hires/346.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/346.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/346.png",
+        "hires": "pokemon-explorer/src/assets/hires/346.png"
       }
     },
     {
@@ -12741,9 +12741,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/347.png",
-        "thumbnail": "src/assets/thumbnails/347.png",
-        "hires": "src/assets/hires/347.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/347.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/347.png",
+        "hires": "pokemon-explorer/src/assets/hires/347.png"
       }
     },
     {
@@ -12777,9 +12777,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/348.png",
-        "thumbnail": "src/assets/thumbnails/348.png",
-        "hires": "src/assets/hires/348.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/348.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/348.png",
+        "hires": "pokemon-explorer/src/assets/hires/348.png"
       }
     },
     {
@@ -12818,9 +12818,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/349.png",
-        "thumbnail": "src/assets/thumbnails/349.png",
-        "hires": "src/assets/hires/349.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/349.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/349.png",
+        "hires": "pokemon-explorer/src/assets/hires/349.png"
       }
     },
     {
@@ -12857,9 +12857,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/350.png",
-        "thumbnail": "src/assets/thumbnails/350.png",
-        "hires": "src/assets/hires/350.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/350.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/350.png",
+        "hires": "pokemon-explorer/src/assets/hires/350.png"
       }
     },
     {
@@ -12890,9 +12890,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/351.png",
-        "thumbnail": "src/assets/thumbnails/351.png",
-        "hires": "src/assets/hires/351.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/351.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/351.png",
+        "hires": "pokemon-explorer/src/assets/hires/351.png"
       }
     },
     {
@@ -12926,9 +12926,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/352.png",
-        "thumbnail": "src/assets/thumbnails/352.png",
-        "hires": "src/assets/hires/352.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/352.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/352.png",
+        "hires": "pokemon-explorer/src/assets/hires/352.png"
       }
     },
     {
@@ -12963,9 +12963,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/353.png",
-        "thumbnail": "src/assets/thumbnails/353.png",
-        "hires": "src/assets/hires/353.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/353.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/353.png",
+        "hires": "pokemon-explorer/src/assets/hires/353.png"
       }
     },
     {
@@ -13000,9 +13000,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/354.png",
-        "thumbnail": "src/assets/thumbnails/354.png",
-        "hires": "src/assets/hires/354.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/354.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/354.png",
+        "hires": "pokemon-explorer/src/assets/hires/354.png"
       }
     },
     {
@@ -13036,9 +13036,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/355.png",
-        "thumbnail": "src/assets/thumbnails/355.png",
-        "hires": "src/assets/hires/355.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/355.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/355.png",
+        "hires": "pokemon-explorer/src/assets/hires/355.png"
       }
     },
     {
@@ -13075,9 +13075,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/356.png",
-        "thumbnail": "src/assets/thumbnails/356.png",
-        "hires": "src/assets/hires/356.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/356.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/356.png",
+        "hires": "pokemon-explorer/src/assets/hires/356.png"
       }
     },
     {
@@ -13112,9 +13112,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/357.png",
-        "thumbnail": "src/assets/thumbnails/357.png",
-        "hires": "src/assets/hires/357.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/357.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/357.png",
+        "hires": "pokemon-explorer/src/assets/hires/357.png"
       }
     },
     {
@@ -13145,9 +13145,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/358.png",
-        "thumbnail": "src/assets/thumbnails/358.png",
-        "hires": "src/assets/hires/358.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/358.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/358.png",
+        "hires": "pokemon-explorer/src/assets/hires/358.png"
       }
     },
     {
@@ -13182,9 +13182,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/359.png",
-        "thumbnail": "src/assets/thumbnails/359.png",
-        "hires": "src/assets/hires/359.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/359.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/359.png",
+        "hires": "pokemon-explorer/src/assets/hires/359.png"
       }
     },
     {
@@ -13218,9 +13218,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/360.png",
-        "thumbnail": "src/assets/thumbnails/360.png",
-        "hires": "src/assets/hires/360.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/360.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/360.png",
+        "hires": "pokemon-explorer/src/assets/hires/360.png"
       }
     },
     {
@@ -13260,9 +13260,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/361.png",
-        "thumbnail": "src/assets/thumbnails/361.png",
-        "hires": "src/assets/hires/361.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/361.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/361.png",
+        "hires": "pokemon-explorer/src/assets/hires/361.png"
       }
     },
     {
@@ -13297,9 +13297,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/362.png",
-        "thumbnail": "src/assets/thumbnails/362.png",
-        "hires": "src/assets/hires/362.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/362.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/362.png",
+        "hires": "pokemon-explorer/src/assets/hires/362.png"
       }
     },
     {
@@ -13334,9 +13334,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/363.png",
-        "thumbnail": "src/assets/thumbnails/363.png",
-        "hires": "src/assets/hires/363.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/363.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/363.png",
+        "hires": "pokemon-explorer/src/assets/hires/363.png"
       }
     },
     {
@@ -13371,9 +13371,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/364.png",
-        "thumbnail": "src/assets/thumbnails/364.png",
-        "hires": "src/assets/hires/364.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/364.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/364.png",
+        "hires": "pokemon-explorer/src/assets/hires/364.png"
       }
     },
     {
@@ -13408,9 +13408,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/365.png",
-        "thumbnail": "src/assets/thumbnails/365.png",
-        "hires": "src/assets/hires/365.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/365.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/365.png",
+        "hires": "pokemon-explorer/src/assets/hires/365.png"
       }
     },
     {
@@ -13449,9 +13449,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/366.png",
-        "thumbnail": "src/assets/thumbnails/366.png",
-        "hires": "src/assets/hires/366.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/366.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/366.png",
+        "hires": "pokemon-explorer/src/assets/hires/366.png"
       }
     },
     {
@@ -13485,9 +13485,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/367.png",
-        "thumbnail": "src/assets/thumbnails/367.png",
-        "hires": "src/assets/hires/367.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/367.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/367.png",
+        "hires": "pokemon-explorer/src/assets/hires/367.png"
       }
     },
     {
@@ -13521,9 +13521,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/368.png",
-        "thumbnail": "src/assets/thumbnails/368.png",
-        "hires": "src/assets/hires/368.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/368.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/368.png",
+        "hires": "pokemon-explorer/src/assets/hires/368.png"
       }
     },
     {
@@ -13558,9 +13558,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/369.png",
-        "thumbnail": "src/assets/thumbnails/369.png",
-        "hires": "src/assets/hires/369.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/369.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/369.png",
+        "hires": "pokemon-explorer/src/assets/hires/369.png"
       }
     },
     {
@@ -13594,9 +13594,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/370.png",
-        "thumbnail": "src/assets/thumbnails/370.png",
-        "hires": "src/assets/hires/370.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/370.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/370.png",
+        "hires": "pokemon-explorer/src/assets/hires/370.png"
       }
     },
     {
@@ -13630,9 +13630,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/371.png",
-        "thumbnail": "src/assets/thumbnails/371.png",
-        "hires": "src/assets/hires/371.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/371.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/371.png",
+        "hires": "pokemon-explorer/src/assets/hires/371.png"
       }
     },
     {
@@ -13666,9 +13666,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/372.png",
-        "thumbnail": "src/assets/thumbnails/372.png",
-        "hires": "src/assets/hires/372.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/372.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/372.png",
+        "hires": "pokemon-explorer/src/assets/hires/372.png"
       }
     },
     {
@@ -13702,9 +13702,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/373.png",
-        "thumbnail": "src/assets/thumbnails/373.png",
-        "hires": "src/assets/hires/373.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/373.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/373.png",
+        "hires": "pokemon-explorer/src/assets/hires/373.png"
       }
     },
     {
@@ -13738,9 +13738,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/374.png",
-        "thumbnail": "src/assets/thumbnails/374.png",
-        "hires": "src/assets/hires/374.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/374.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/374.png",
+        "hires": "pokemon-explorer/src/assets/hires/374.png"
       }
     },
     {
@@ -13774,9 +13774,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/375.png",
-        "thumbnail": "src/assets/thumbnails/375.png",
-        "hires": "src/assets/hires/375.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/375.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/375.png",
+        "hires": "pokemon-explorer/src/assets/hires/375.png"
       }
     },
     {
@@ -13810,9 +13810,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/376.png",
-        "thumbnail": "src/assets/thumbnails/376.png",
-        "hires": "src/assets/hires/376.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/376.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/376.png",
+        "hires": "pokemon-explorer/src/assets/hires/376.png"
       }
     },
     {
@@ -13846,9 +13846,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/377.png",
-        "thumbnail": "src/assets/thumbnails/377.png",
-        "hires": "src/assets/hires/377.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/377.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/377.png",
+        "hires": "pokemon-explorer/src/assets/hires/377.png"
       }
     },
     {
@@ -13882,9 +13882,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/378.png",
-        "thumbnail": "src/assets/thumbnails/378.png",
-        "hires": "src/assets/hires/378.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/378.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/378.png",
+        "hires": "pokemon-explorer/src/assets/hires/378.png"
       }
     },
     {
@@ -13918,9 +13918,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/379.png",
-        "thumbnail": "src/assets/thumbnails/379.png",
-        "hires": "src/assets/hires/379.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/379.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/379.png",
+        "hires": "pokemon-explorer/src/assets/hires/379.png"
       }
     },
     {
@@ -13951,9 +13951,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/380.png",
-        "thumbnail": "src/assets/thumbnails/380.png",
-        "hires": "src/assets/hires/380.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/380.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/380.png",
+        "hires": "pokemon-explorer/src/assets/hires/380.png"
       }
     },
     {
@@ -13984,9 +13984,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/381.png",
-        "thumbnail": "src/assets/thumbnails/381.png",
-        "hires": "src/assets/hires/381.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/381.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/381.png",
+        "hires": "pokemon-explorer/src/assets/hires/381.png"
       }
     },
     {
@@ -14017,9 +14017,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/382.png",
-        "thumbnail": "src/assets/thumbnails/382.png",
-        "hires": "src/assets/hires/382.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/382.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/382.png",
+        "hires": "pokemon-explorer/src/assets/hires/382.png"
       }
     },
     {
@@ -14050,9 +14050,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/383.png",
-        "thumbnail": "src/assets/thumbnails/383.png",
-        "hires": "src/assets/hires/383.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/383.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/383.png",
+        "hires": "pokemon-explorer/src/assets/hires/383.png"
       }
     },
     {
@@ -14083,9 +14083,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/384.png",
-        "thumbnail": "src/assets/thumbnails/384.png",
-        "hires": "src/assets/hires/384.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/384.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/384.png",
+        "hires": "pokemon-explorer/src/assets/hires/384.png"
       }
     },
     {
@@ -14116,9 +14116,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/385.png",
-        "thumbnail": "src/assets/thumbnails/385.png",
-        "hires": "src/assets/hires/385.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/385.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/385.png",
+        "hires": "pokemon-explorer/src/assets/hires/385.png"
       }
     },
     {
@@ -14149,9 +14149,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/386.png",
-        "thumbnail": "src/assets/thumbnails/386.png",
-        "hires": "src/assets/hires/386.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/386.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/386.png",
+        "hires": "pokemon-explorer/src/assets/hires/386.png"
       }
     },
     {
@@ -14185,9 +14185,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/387.png",
-        "thumbnail": "src/assets/thumbnails/387.png",
-        "hires": "src/assets/hires/387.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/387.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/387.png",
+        "hires": "pokemon-explorer/src/assets/hires/387.png"
       }
     },
     {
@@ -14221,9 +14221,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/388.png",
-        "thumbnail": "src/assets/thumbnails/388.png",
-        "hires": "src/assets/hires/388.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/388.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/388.png",
+        "hires": "pokemon-explorer/src/assets/hires/388.png"
       }
     },
     {
@@ -14257,9 +14257,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/389.png",
-        "thumbnail": "src/assets/thumbnails/389.png",
-        "hires": "src/assets/hires/389.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/389.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/389.png",
+        "hires": "pokemon-explorer/src/assets/hires/389.png"
       }
     },
     {
@@ -14293,9 +14293,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/390.png",
-        "thumbnail": "src/assets/thumbnails/390.png",
-        "hires": "src/assets/hires/390.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/390.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/390.png",
+        "hires": "pokemon-explorer/src/assets/hires/390.png"
       }
     },
     {
@@ -14329,9 +14329,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/391.png",
-        "thumbnail": "src/assets/thumbnails/391.png",
-        "hires": "src/assets/hires/391.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/391.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/391.png",
+        "hires": "pokemon-explorer/src/assets/hires/391.png"
       }
     },
     {
@@ -14365,9 +14365,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/392.png",
-        "thumbnail": "src/assets/thumbnails/392.png",
-        "hires": "src/assets/hires/392.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/392.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/392.png",
+        "hires": "pokemon-explorer/src/assets/hires/392.png"
       }
     },
     {
@@ -14401,9 +14401,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/393.png",
-        "thumbnail": "src/assets/thumbnails/393.png",
-        "hires": "src/assets/hires/393.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/393.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/393.png",
+        "hires": "pokemon-explorer/src/assets/hires/393.png"
       }
     },
     {
@@ -14437,9 +14437,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/394.png",
-        "thumbnail": "src/assets/thumbnails/394.png",
-        "hires": "src/assets/hires/394.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/394.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/394.png",
+        "hires": "pokemon-explorer/src/assets/hires/394.png"
       }
     },
     {
@@ -14473,9 +14473,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/395.png",
-        "thumbnail": "src/assets/thumbnails/395.png",
-        "hires": "src/assets/hires/395.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/395.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/395.png",
+        "hires": "pokemon-explorer/src/assets/hires/395.png"
       }
     },
     {
@@ -14509,9 +14509,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/396.png",
-        "thumbnail": "src/assets/thumbnails/396.png",
-        "hires": "src/assets/hires/396.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/396.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/396.png",
+        "hires": "pokemon-explorer/src/assets/hires/396.png"
       }
     },
     {
@@ -14545,9 +14545,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/397.png",
-        "thumbnail": "src/assets/thumbnails/397.png",
-        "hires": "src/assets/hires/397.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/397.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/397.png",
+        "hires": "pokemon-explorer/src/assets/hires/397.png"
       }
     },
     {
@@ -14581,9 +14581,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/398.png",
-        "thumbnail": "src/assets/thumbnails/398.png",
-        "hires": "src/assets/hires/398.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/398.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/398.png",
+        "hires": "pokemon-explorer/src/assets/hires/398.png"
       }
     },
     {
@@ -14618,9 +14618,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/399.png",
-        "thumbnail": "src/assets/thumbnails/399.png",
-        "hires": "src/assets/hires/399.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/399.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/399.png",
+        "hires": "pokemon-explorer/src/assets/hires/399.png"
       }
     },
     {
@@ -14655,9 +14655,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/400.png",
-        "thumbnail": "src/assets/thumbnails/400.png",
-        "hires": "src/assets/hires/400.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/400.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/400.png",
+        "hires": "pokemon-explorer/src/assets/hires/400.png"
       }
     },
     {
@@ -14691,9 +14691,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/401.png",
-        "thumbnail": "src/assets/thumbnails/401.png",
-        "hires": "src/assets/hires/401.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/401.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/401.png",
+        "hires": "pokemon-explorer/src/assets/hires/401.png"
       }
     },
     {
@@ -14727,9 +14727,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/402.png",
-        "thumbnail": "src/assets/thumbnails/402.png",
-        "hires": "src/assets/hires/402.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/402.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/402.png",
+        "hires": "pokemon-explorer/src/assets/hires/402.png"
       }
     },
     {
@@ -14764,9 +14764,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/403.png",
-        "thumbnail": "src/assets/thumbnails/403.png",
-        "hires": "src/assets/hires/403.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/403.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/403.png",
+        "hires": "pokemon-explorer/src/assets/hires/403.png"
       }
     },
     {
@@ -14801,9 +14801,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/404.png",
-        "thumbnail": "src/assets/thumbnails/404.png",
-        "hires": "src/assets/hires/404.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/404.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/404.png",
+        "hires": "pokemon-explorer/src/assets/hires/404.png"
       }
     },
     {
@@ -14838,9 +14838,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/405.png",
-        "thumbnail": "src/assets/thumbnails/405.png",
-        "hires": "src/assets/hires/405.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/405.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/405.png",
+        "hires": "pokemon-explorer/src/assets/hires/405.png"
       }
     },
     {
@@ -14875,9 +14875,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/406.png",
-        "thumbnail": "src/assets/thumbnails/406.png",
-        "hires": "src/assets/hires/406.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/406.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/406.png",
+        "hires": "pokemon-explorer/src/assets/hires/406.png"
       }
     },
     {
@@ -14912,9 +14912,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/407.png",
-        "thumbnail": "src/assets/thumbnails/407.png",
-        "hires": "src/assets/hires/407.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/407.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/407.png",
+        "hires": "pokemon-explorer/src/assets/hires/407.png"
       }
     },
     {
@@ -14948,9 +14948,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/408.png",
-        "thumbnail": "src/assets/thumbnails/408.png",
-        "hires": "src/assets/hires/408.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/408.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/408.png",
+        "hires": "pokemon-explorer/src/assets/hires/408.png"
       }
     },
     {
@@ -14984,9 +14984,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/409.png",
-        "thumbnail": "src/assets/thumbnails/409.png",
-        "hires": "src/assets/hires/409.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/409.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/409.png",
+        "hires": "pokemon-explorer/src/assets/hires/409.png"
       }
     },
     {
@@ -15020,9 +15020,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/410.png",
-        "thumbnail": "src/assets/thumbnails/410.png",
-        "hires": "src/assets/hires/410.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/410.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/410.png",
+        "hires": "pokemon-explorer/src/assets/hires/410.png"
       }
     },
     {
@@ -15056,9 +15056,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/411.png",
-        "thumbnail": "src/assets/thumbnails/411.png",
-        "hires": "src/assets/hires/411.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/411.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/411.png",
+        "hires": "pokemon-explorer/src/assets/hires/411.png"
       }
     },
     {
@@ -15097,9 +15097,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/412.png",
-        "thumbnail": "src/assets/thumbnails/412.png",
-        "hires": "src/assets/hires/412.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/412.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/412.png",
+        "hires": "pokemon-explorer/src/assets/hires/412.png"
       }
     },
     {
@@ -15133,9 +15133,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/413.png",
-        "thumbnail": "src/assets/thumbnails/413.png",
-        "hires": "src/assets/hires/413.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/413.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/413.png",
+        "hires": "pokemon-explorer/src/assets/hires/413.png"
       }
     },
     {
@@ -15169,9 +15169,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/414.png",
-        "thumbnail": "src/assets/thumbnails/414.png",
-        "hires": "src/assets/hires/414.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/414.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/414.png",
+        "hires": "pokemon-explorer/src/assets/hires/414.png"
       }
     },
     {
@@ -15205,9 +15205,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/415.png",
-        "thumbnail": "src/assets/thumbnails/415.png",
-        "hires": "src/assets/hires/415.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/415.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/415.png",
+        "hires": "pokemon-explorer/src/assets/hires/415.png"
       }
     },
     {
@@ -15241,9 +15241,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/416.png",
-        "thumbnail": "src/assets/thumbnails/416.png",
-        "hires": "src/assets/hires/416.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/416.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/416.png",
+        "hires": "pokemon-explorer/src/assets/hires/416.png"
       }
     },
     {
@@ -15278,9 +15278,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/417.png",
-        "thumbnail": "src/assets/thumbnails/417.png",
-        "hires": "src/assets/hires/417.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/417.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/417.png",
+        "hires": "pokemon-explorer/src/assets/hires/417.png"
       }
     },
     {
@@ -15314,9 +15314,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/418.png",
-        "thumbnail": "src/assets/thumbnails/418.png",
-        "hires": "src/assets/hires/418.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/418.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/418.png",
+        "hires": "pokemon-explorer/src/assets/hires/418.png"
       }
     },
     {
@@ -15350,9 +15350,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/419.png",
-        "thumbnail": "src/assets/thumbnails/419.png",
-        "hires": "src/assets/hires/419.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/419.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/419.png",
+        "hires": "pokemon-explorer/src/assets/hires/419.png"
       }
     },
     {
@@ -15383,9 +15383,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/420.png",
-        "thumbnail": "src/assets/thumbnails/420.png",
-        "hires": "src/assets/hires/420.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/420.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/420.png",
+        "hires": "pokemon-explorer/src/assets/hires/420.png"
       }
     },
     {
@@ -15416,9 +15416,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/421.png",
-        "thumbnail": "src/assets/thumbnails/421.png",
-        "hires": "src/assets/hires/421.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/421.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/421.png",
+        "hires": "pokemon-explorer/src/assets/hires/421.png"
       }
     },
     {
@@ -15453,9 +15453,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/422.png",
-        "thumbnail": "src/assets/thumbnails/422.png",
-        "hires": "src/assets/hires/422.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/422.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/422.png",
+        "hires": "pokemon-explorer/src/assets/hires/422.png"
       }
     },
     {
@@ -15490,9 +15490,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/423.png",
-        "thumbnail": "src/assets/thumbnails/423.png",
-        "hires": "src/assets/hires/423.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/423.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/423.png",
+        "hires": "pokemon-explorer/src/assets/hires/423.png"
       }
     },
     {
@@ -15527,9 +15527,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/424.png",
-        "thumbnail": "src/assets/thumbnails/424.png",
-        "hires": "src/assets/hires/424.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/424.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/424.png",
+        "hires": "pokemon-explorer/src/assets/hires/424.png"
       }
     },
     {
@@ -15564,9 +15564,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/425.png",
-        "thumbnail": "src/assets/thumbnails/425.png",
-        "hires": "src/assets/hires/425.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/425.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/425.png",
+        "hires": "pokemon-explorer/src/assets/hires/425.png"
       }
     },
     {
@@ -15601,9 +15601,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/426.png",
-        "thumbnail": "src/assets/thumbnails/426.png",
-        "hires": "src/assets/hires/426.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/426.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/426.png",
+        "hires": "pokemon-explorer/src/assets/hires/426.png"
       }
     },
     {
@@ -15638,9 +15638,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/427.png",
-        "thumbnail": "src/assets/thumbnails/427.png",
-        "hires": "src/assets/hires/427.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/427.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/427.png",
+        "hires": "pokemon-explorer/src/assets/hires/427.png"
       }
     },
     {
@@ -15675,9 +15675,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/428.png",
-        "thumbnail": "src/assets/thumbnails/428.png",
-        "hires": "src/assets/hires/428.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/428.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/428.png",
+        "hires": "pokemon-explorer/src/assets/hires/428.png"
       }
     },
     {
@@ -15708,9 +15708,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/429.png",
-        "thumbnail": "src/assets/thumbnails/429.png",
-        "hires": "src/assets/hires/429.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/429.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/429.png",
+        "hires": "pokemon-explorer/src/assets/hires/429.png"
       }
     },
     {
@@ -15745,9 +15745,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/430.png",
-        "thumbnail": "src/assets/thumbnails/430.png",
-        "hires": "src/assets/hires/430.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/430.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/430.png",
+        "hires": "pokemon-explorer/src/assets/hires/430.png"
       }
     },
     {
@@ -15782,9 +15782,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/431.png",
-        "thumbnail": "src/assets/thumbnails/431.png",
-        "hires": "src/assets/hires/431.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/431.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/431.png",
+        "hires": "pokemon-explorer/src/assets/hires/431.png"
       }
     },
     {
@@ -15819,9 +15819,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/432.png",
-        "thumbnail": "src/assets/thumbnails/432.png",
-        "hires": "src/assets/hires/432.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/432.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/432.png",
+        "hires": "pokemon-explorer/src/assets/hires/432.png"
       }
     },
     {
@@ -15852,9 +15852,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/433.png",
-        "thumbnail": "src/assets/thumbnails/433.png",
-        "hires": "src/assets/hires/433.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/433.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/433.png",
+        "hires": "pokemon-explorer/src/assets/hires/433.png"
       }
     },
     {
@@ -15889,9 +15889,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/434.png",
-        "thumbnail": "src/assets/thumbnails/434.png",
-        "hires": "src/assets/hires/434.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/434.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/434.png",
+        "hires": "pokemon-explorer/src/assets/hires/434.png"
       }
     },
     {
@@ -15926,9 +15926,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/435.png",
-        "thumbnail": "src/assets/thumbnails/435.png",
-        "hires": "src/assets/hires/435.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/435.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/435.png",
+        "hires": "pokemon-explorer/src/assets/hires/435.png"
       }
     },
     {
@@ -15963,9 +15963,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/436.png",
-        "thumbnail": "src/assets/thumbnails/436.png",
-        "hires": "src/assets/hires/436.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/436.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/436.png",
+        "hires": "pokemon-explorer/src/assets/hires/436.png"
       }
     },
     {
@@ -16000,9 +16000,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/437.png",
-        "thumbnail": "src/assets/thumbnails/437.png",
-        "hires": "src/assets/hires/437.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/437.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/437.png",
+        "hires": "pokemon-explorer/src/assets/hires/437.png"
       }
     },
     {
@@ -16037,9 +16037,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/438.png",
-        "thumbnail": "src/assets/thumbnails/438.png",
-        "hires": "src/assets/hires/438.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/438.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/438.png",
+        "hires": "pokemon-explorer/src/assets/hires/438.png"
       }
     },
     {
@@ -16074,9 +16074,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/439.png",
-        "thumbnail": "src/assets/thumbnails/439.png",
-        "hires": "src/assets/hires/439.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/439.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/439.png",
+        "hires": "pokemon-explorer/src/assets/hires/439.png"
       }
     },
     {
@@ -16111,9 +16111,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/440.png",
-        "thumbnail": "src/assets/thumbnails/440.png",
-        "hires": "src/assets/hires/440.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/440.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/440.png",
+        "hires": "pokemon-explorer/src/assets/hires/440.png"
       }
     },
     {
@@ -16148,9 +16148,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/441.png",
-        "thumbnail": "src/assets/thumbnails/441.png",
-        "hires": "src/assets/hires/441.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/441.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/441.png",
+        "hires": "pokemon-explorer/src/assets/hires/441.png"
       }
     },
     {
@@ -16184,9 +16184,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/442.png",
-        "thumbnail": "src/assets/thumbnails/442.png",
-        "hires": "src/assets/hires/442.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/442.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/442.png",
+        "hires": "pokemon-explorer/src/assets/hires/442.png"
       }
     },
     {
@@ -16220,9 +16220,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/443.png",
-        "thumbnail": "src/assets/thumbnails/443.png",
-        "hires": "src/assets/hires/443.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/443.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/443.png",
+        "hires": "pokemon-explorer/src/assets/hires/443.png"
       }
     },
     {
@@ -16256,9 +16256,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/444.png",
-        "thumbnail": "src/assets/thumbnails/444.png",
-        "hires": "src/assets/hires/444.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/444.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/444.png",
+        "hires": "pokemon-explorer/src/assets/hires/444.png"
       }
     },
     {
@@ -16292,9 +16292,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/445.png",
-        "thumbnail": "src/assets/thumbnails/445.png",
-        "hires": "src/assets/hires/445.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/445.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/445.png",
+        "hires": "pokemon-explorer/src/assets/hires/445.png"
       }
     },
     {
@@ -16329,9 +16329,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/446.png",
-        "thumbnail": "src/assets/thumbnails/446.png",
-        "hires": "src/assets/hires/446.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/446.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/446.png",
+        "hires": "pokemon-explorer/src/assets/hires/446.png"
       }
     },
     {
@@ -16366,9 +16366,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/447.png",
-        "thumbnail": "src/assets/thumbnails/447.png",
-        "hires": "src/assets/hires/447.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/447.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/447.png",
+        "hires": "pokemon-explorer/src/assets/hires/447.png"
       }
     },
     {
@@ -16403,9 +16403,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/448.png",
-        "thumbnail": "src/assets/thumbnails/448.png",
-        "hires": "src/assets/hires/448.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/448.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/448.png",
+        "hires": "pokemon-explorer/src/assets/hires/448.png"
       }
     },
     {
@@ -16439,9 +16439,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/449.png",
-        "thumbnail": "src/assets/thumbnails/449.png",
-        "hires": "src/assets/hires/449.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/449.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/449.png",
+        "hires": "pokemon-explorer/src/assets/hires/449.png"
       }
     },
     {
@@ -16475,9 +16475,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/450.png",
-        "thumbnail": "src/assets/thumbnails/450.png",
-        "hires": "src/assets/hires/450.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/450.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/450.png",
+        "hires": "pokemon-explorer/src/assets/hires/450.png"
       }
     },
     {
@@ -16512,9 +16512,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/451.png",
-        "thumbnail": "src/assets/thumbnails/451.png",
-        "hires": "src/assets/hires/451.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/451.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/451.png",
+        "hires": "pokemon-explorer/src/assets/hires/451.png"
       }
     },
     {
@@ -16549,9 +16549,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/452.png",
-        "thumbnail": "src/assets/thumbnails/452.png",
-        "hires": "src/assets/hires/452.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/452.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/452.png",
+        "hires": "pokemon-explorer/src/assets/hires/452.png"
       }
     },
     {
@@ -16586,9 +16586,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/453.png",
-        "thumbnail": "src/assets/thumbnails/453.png",
-        "hires": "src/assets/hires/453.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/453.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/453.png",
+        "hires": "pokemon-explorer/src/assets/hires/453.png"
       }
     },
     {
@@ -16623,9 +16623,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/454.png",
-        "thumbnail": "src/assets/thumbnails/454.png",
-        "hires": "src/assets/hires/454.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/454.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/454.png",
+        "hires": "pokemon-explorer/src/assets/hires/454.png"
       }
     },
     {
@@ -16656,9 +16656,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/455.png",
-        "thumbnail": "src/assets/thumbnails/455.png",
-        "hires": "src/assets/hires/455.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/455.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/455.png",
+        "hires": "pokemon-explorer/src/assets/hires/455.png"
       }
     },
     {
@@ -16693,9 +16693,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/456.png",
-        "thumbnail": "src/assets/thumbnails/456.png",
-        "hires": "src/assets/hires/456.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/456.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/456.png",
+        "hires": "pokemon-explorer/src/assets/hires/456.png"
       }
     },
     {
@@ -16730,9 +16730,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/457.png",
-        "thumbnail": "src/assets/thumbnails/457.png",
-        "hires": "src/assets/hires/457.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/457.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/457.png",
+        "hires": "pokemon-explorer/src/assets/hires/457.png"
       }
     },
     {
@@ -16767,9 +16767,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/458.png",
-        "thumbnail": "src/assets/thumbnails/458.png",
-        "hires": "src/assets/hires/458.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/458.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/458.png",
+        "hires": "pokemon-explorer/src/assets/hires/458.png"
       }
     },
     {
@@ -16803,9 +16803,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/459.png",
-        "thumbnail": "src/assets/thumbnails/459.png",
-        "hires": "src/assets/hires/459.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/459.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/459.png",
+        "hires": "pokemon-explorer/src/assets/hires/459.png"
       }
     },
     {
@@ -16839,9 +16839,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/460.png",
-        "thumbnail": "src/assets/thumbnails/460.png",
-        "hires": "src/assets/hires/460.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/460.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/460.png",
+        "hires": "pokemon-explorer/src/assets/hires/460.png"
       }
     },
     {
@@ -16875,9 +16875,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/461.png",
-        "thumbnail": "src/assets/thumbnails/461.png",
-        "hires": "src/assets/hires/461.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/461.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/461.png",
+        "hires": "pokemon-explorer/src/assets/hires/461.png"
       }
     },
     {
@@ -16912,9 +16912,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/462.png",
-        "thumbnail": "src/assets/thumbnails/462.png",
-        "hires": "src/assets/hires/462.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/462.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/462.png",
+        "hires": "pokemon-explorer/src/assets/hires/462.png"
       }
     },
     {
@@ -16949,9 +16949,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/463.png",
-        "thumbnail": "src/assets/thumbnails/463.png",
-        "hires": "src/assets/hires/463.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/463.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/463.png",
+        "hires": "pokemon-explorer/src/assets/hires/463.png"
       }
     },
     {
@@ -16986,9 +16986,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/464.png",
-        "thumbnail": "src/assets/thumbnails/464.png",
-        "hires": "src/assets/hires/464.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/464.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/464.png",
+        "hires": "pokemon-explorer/src/assets/hires/464.png"
       }
     },
     {
@@ -17023,9 +17023,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/465.png",
-        "thumbnail": "src/assets/thumbnails/465.png",
-        "hires": "src/assets/hires/465.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/465.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/465.png",
+        "hires": "pokemon-explorer/src/assets/hires/465.png"
       }
     },
     {
@@ -17059,9 +17059,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/466.png",
-        "thumbnail": "src/assets/thumbnails/466.png",
-        "hires": "src/assets/hires/466.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/466.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/466.png",
+        "hires": "pokemon-explorer/src/assets/hires/466.png"
       }
     },
     {
@@ -17095,9 +17095,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/467.png",
-        "thumbnail": "src/assets/thumbnails/467.png",
-        "hires": "src/assets/hires/467.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/467.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/467.png",
+        "hires": "pokemon-explorer/src/assets/hires/467.png"
       }
     },
     {
@@ -17132,9 +17132,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/468.png",
-        "thumbnail": "src/assets/thumbnails/468.png",
-        "hires": "src/assets/hires/468.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/468.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/468.png",
+        "hires": "pokemon-explorer/src/assets/hires/468.png"
       }
     },
     {
@@ -17169,9 +17169,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/469.png",
-        "thumbnail": "src/assets/thumbnails/469.png",
-        "hires": "src/assets/hires/469.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/469.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/469.png",
+        "hires": "pokemon-explorer/src/assets/hires/469.png"
       }
     },
     {
@@ -17205,9 +17205,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/470.png",
-        "thumbnail": "src/assets/thumbnails/470.png",
-        "hires": "src/assets/hires/470.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/470.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/470.png",
+        "hires": "pokemon-explorer/src/assets/hires/470.png"
       }
     },
     {
@@ -17241,9 +17241,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/471.png",
-        "thumbnail": "src/assets/thumbnails/471.png",
-        "hires": "src/assets/hires/471.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/471.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/471.png",
+        "hires": "pokemon-explorer/src/assets/hires/471.png"
       }
     },
     {
@@ -17278,9 +17278,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/472.png",
-        "thumbnail": "src/assets/thumbnails/472.png",
-        "hires": "src/assets/hires/472.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/472.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/472.png",
+        "hires": "pokemon-explorer/src/assets/hires/472.png"
       }
     },
     {
@@ -17315,9 +17315,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/473.png",
-        "thumbnail": "src/assets/thumbnails/473.png",
-        "hires": "src/assets/hires/473.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/473.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/473.png",
+        "hires": "pokemon-explorer/src/assets/hires/473.png"
       }
     },
     {
@@ -17352,9 +17352,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/474.png",
-        "thumbnail": "src/assets/thumbnails/474.png",
-        "hires": "src/assets/hires/474.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/474.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/474.png",
+        "hires": "pokemon-explorer/src/assets/hires/474.png"
       }
     },
     {
@@ -17388,9 +17388,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/475.png",
-        "thumbnail": "src/assets/thumbnails/475.png",
-        "hires": "src/assets/hires/475.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/475.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/475.png",
+        "hires": "pokemon-explorer/src/assets/hires/475.png"
       }
     },
     {
@@ -17425,9 +17425,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/476.png",
-        "thumbnail": "src/assets/thumbnails/476.png",
-        "hires": "src/assets/hires/476.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/476.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/476.png",
+        "hires": "pokemon-explorer/src/assets/hires/476.png"
       }
     },
     {
@@ -17461,9 +17461,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/477.png",
-        "thumbnail": "src/assets/thumbnails/477.png",
-        "hires": "src/assets/hires/477.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/477.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/477.png",
+        "hires": "pokemon-explorer/src/assets/hires/477.png"
       }
     },
     {
@@ -17497,9 +17497,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/478.png",
-        "thumbnail": "src/assets/thumbnails/478.png",
-        "hires": "src/assets/hires/478.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/478.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/478.png",
+        "hires": "pokemon-explorer/src/assets/hires/478.png"
       }
     },
     {
@@ -17530,9 +17530,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/479.png",
-        "thumbnail": "src/assets/thumbnails/479.png",
-        "hires": "src/assets/hires/479.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/479.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/479.png",
+        "hires": "pokemon-explorer/src/assets/hires/479.png"
       }
     },
     {
@@ -17563,9 +17563,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/480.png",
-        "thumbnail": "src/assets/thumbnails/480.png",
-        "hires": "src/assets/hires/480.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/480.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/480.png",
+        "hires": "pokemon-explorer/src/assets/hires/480.png"
       }
     },
     {
@@ -17596,9 +17596,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/481.png",
-        "thumbnail": "src/assets/thumbnails/481.png",
-        "hires": "src/assets/hires/481.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/481.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/481.png",
+        "hires": "pokemon-explorer/src/assets/hires/481.png"
       }
     },
     {
@@ -17629,9 +17629,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/482.png",
-        "thumbnail": "src/assets/thumbnails/482.png",
-        "hires": "src/assets/hires/482.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/482.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/482.png",
+        "hires": "pokemon-explorer/src/assets/hires/482.png"
       }
     },
     {
@@ -17665,9 +17665,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/483.png",
-        "thumbnail": "src/assets/thumbnails/483.png",
-        "hires": "src/assets/hires/483.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/483.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/483.png",
+        "hires": "pokemon-explorer/src/assets/hires/483.png"
       }
     },
     {
@@ -17701,9 +17701,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/484.png",
-        "thumbnail": "src/assets/thumbnails/484.png",
-        "hires": "src/assets/hires/484.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/484.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/484.png",
+        "hires": "pokemon-explorer/src/assets/hires/484.png"
       }
     },
     {
@@ -17737,9 +17737,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/485.png",
-        "thumbnail": "src/assets/thumbnails/485.png",
-        "hires": "src/assets/hires/485.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/485.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/485.png",
+        "hires": "pokemon-explorer/src/assets/hires/485.png"
       }
     },
     {
@@ -17770,9 +17770,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/486.png",
-        "thumbnail": "src/assets/thumbnails/486.png",
-        "hires": "src/assets/hires/486.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/486.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/486.png",
+        "hires": "pokemon-explorer/src/assets/hires/486.png"
       }
     },
     {
@@ -17806,9 +17806,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/487.png",
-        "thumbnail": "src/assets/thumbnails/487.png",
-        "hires": "src/assets/hires/487.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/487.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/487.png",
+        "hires": "pokemon-explorer/src/assets/hires/487.png"
       }
     },
     {
@@ -17839,9 +17839,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/488.png",
-        "thumbnail": "src/assets/thumbnails/488.png",
-        "hires": "src/assets/hires/488.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/488.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/488.png",
+        "hires": "pokemon-explorer/src/assets/hires/488.png"
       }
     },
     {
@@ -17872,9 +17872,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/489.png",
-        "thumbnail": "src/assets/thumbnails/489.png",
-        "hires": "src/assets/hires/489.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/489.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/489.png",
+        "hires": "pokemon-explorer/src/assets/hires/489.png"
       }
     },
     {
@@ -17905,9 +17905,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/490.png",
-        "thumbnail": "src/assets/thumbnails/490.png",
-        "hires": "src/assets/hires/490.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/490.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/490.png",
+        "hires": "pokemon-explorer/src/assets/hires/490.png"
       }
     },
     {
@@ -17938,9 +17938,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/491.png",
-        "thumbnail": "src/assets/thumbnails/491.png",
-        "hires": "src/assets/hires/491.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/491.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/491.png",
+        "hires": "pokemon-explorer/src/assets/hires/491.png"
       }
     },
     {
@@ -17971,9 +17971,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/492.png",
-        "thumbnail": "src/assets/thumbnails/492.png",
-        "hires": "src/assets/hires/492.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/492.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/492.png",
+        "hires": "pokemon-explorer/src/assets/hires/492.png"
       }
     },
     {
@@ -18004,9 +18004,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/493.png",
-        "thumbnail": "src/assets/thumbnails/493.png",
-        "hires": "src/assets/hires/493.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/493.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/493.png",
+        "hires": "pokemon-explorer/src/assets/hires/493.png"
       }
     },
     {
@@ -18037,9 +18037,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/494.png",
-        "thumbnail": "src/assets/thumbnails/494.png",
-        "hires": "src/assets/hires/494.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/494.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/494.png",
+        "hires": "pokemon-explorer/src/assets/hires/494.png"
       }
     },
     {
@@ -18073,9 +18073,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/495.png",
-        "thumbnail": "src/assets/thumbnails/495.png",
-        "hires": "src/assets/hires/495.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/495.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/495.png",
+        "hires": "pokemon-explorer/src/assets/hires/495.png"
       }
     },
     {
@@ -18109,9 +18109,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/496.png",
-        "thumbnail": "src/assets/thumbnails/496.png",
-        "hires": "src/assets/hires/496.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/496.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/496.png",
+        "hires": "pokemon-explorer/src/assets/hires/496.png"
       }
     },
     {
@@ -18145,9 +18145,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/497.png",
-        "thumbnail": "src/assets/thumbnails/497.png",
-        "hires": "src/assets/hires/497.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/497.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/497.png",
+        "hires": "pokemon-explorer/src/assets/hires/497.png"
       }
     },
     {
@@ -18181,9 +18181,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/498.png",
-        "thumbnail": "src/assets/thumbnails/498.png",
-        "hires": "src/assets/hires/498.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/498.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/498.png",
+        "hires": "pokemon-explorer/src/assets/hires/498.png"
       }
     },
     {
@@ -18217,9 +18217,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/499.png",
-        "thumbnail": "src/assets/thumbnails/499.png",
-        "hires": "src/assets/hires/499.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/499.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/499.png",
+        "hires": "pokemon-explorer/src/assets/hires/499.png"
       }
     },
     {
@@ -18253,9 +18253,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/500.png",
-        "thumbnail": "src/assets/thumbnails/500.png",
-        "hires": "src/assets/hires/500.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/500.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/500.png",
+        "hires": "pokemon-explorer/src/assets/hires/500.png"
       }
     },
     {
@@ -18289,9 +18289,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/501.png",
-        "thumbnail": "src/assets/thumbnails/501.png",
-        "hires": "src/assets/hires/501.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/501.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/501.png",
+        "hires": "pokemon-explorer/src/assets/hires/501.png"
       }
     },
     {
@@ -18325,9 +18325,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/502.png",
-        "thumbnail": "src/assets/thumbnails/502.png",
-        "hires": "src/assets/hires/502.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/502.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/502.png",
+        "hires": "pokemon-explorer/src/assets/hires/502.png"
       }
     },
     {
@@ -18361,9 +18361,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/503.png",
-        "thumbnail": "src/assets/thumbnails/503.png",
-        "hires": "src/assets/hires/503.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/503.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/503.png",
+        "hires": "pokemon-explorer/src/assets/hires/503.png"
       }
     },
     {
@@ -18398,9 +18398,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/504.png",
-        "thumbnail": "src/assets/thumbnails/504.png",
-        "hires": "src/assets/hires/504.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/504.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/504.png",
+        "hires": "pokemon-explorer/src/assets/hires/504.png"
       }
     },
     {
@@ -18435,9 +18435,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/505.png",
-        "thumbnail": "src/assets/thumbnails/505.png",
-        "hires": "src/assets/hires/505.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/505.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/505.png",
+        "hires": "pokemon-explorer/src/assets/hires/505.png"
       }
     },
     {
@@ -18472,9 +18472,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/506.png",
-        "thumbnail": "src/assets/thumbnails/506.png",
-        "hires": "src/assets/hires/506.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/506.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/506.png",
+        "hires": "pokemon-explorer/src/assets/hires/506.png"
       }
     },
     {
@@ -18509,9 +18509,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/507.png",
-        "thumbnail": "src/assets/thumbnails/507.png",
-        "hires": "src/assets/hires/507.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/507.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/507.png",
+        "hires": "pokemon-explorer/src/assets/hires/507.png"
       }
     },
     {
@@ -18546,9 +18546,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/508.png",
-        "thumbnail": "src/assets/thumbnails/508.png",
-        "hires": "src/assets/hires/508.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/508.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/508.png",
+        "hires": "pokemon-explorer/src/assets/hires/508.png"
       }
     },
     {
@@ -18583,9 +18583,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/509.png",
-        "thumbnail": "src/assets/thumbnails/509.png",
-        "hires": "src/assets/hires/509.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/509.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/509.png",
+        "hires": "pokemon-explorer/src/assets/hires/509.png"
       }
     },
     {
@@ -18620,9 +18620,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/510.png",
-        "thumbnail": "src/assets/thumbnails/510.png",
-        "hires": "src/assets/hires/510.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/510.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/510.png",
+        "hires": "pokemon-explorer/src/assets/hires/510.png"
       }
     },
     {
@@ -18656,9 +18656,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/511.png",
-        "thumbnail": "src/assets/thumbnails/511.png",
-        "hires": "src/assets/hires/511.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/511.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/511.png",
+        "hires": "pokemon-explorer/src/assets/hires/511.png"
       }
     },
     {
@@ -18692,9 +18692,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/512.png",
-        "thumbnail": "src/assets/thumbnails/512.png",
-        "hires": "src/assets/hires/512.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/512.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/512.png",
+        "hires": "pokemon-explorer/src/assets/hires/512.png"
       }
     },
     {
@@ -18728,9 +18728,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/513.png",
-        "thumbnail": "src/assets/thumbnails/513.png",
-        "hires": "src/assets/hires/513.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/513.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/513.png",
+        "hires": "pokemon-explorer/src/assets/hires/513.png"
       }
     },
     {
@@ -18764,9 +18764,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/514.png",
-        "thumbnail": "src/assets/thumbnails/514.png",
-        "hires": "src/assets/hires/514.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/514.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/514.png",
+        "hires": "pokemon-explorer/src/assets/hires/514.png"
       }
     },
     {
@@ -18800,9 +18800,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/515.png",
-        "thumbnail": "src/assets/thumbnails/515.png",
-        "hires": "src/assets/hires/515.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/515.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/515.png",
+        "hires": "pokemon-explorer/src/assets/hires/515.png"
       }
     },
     {
@@ -18836,9 +18836,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/516.png",
-        "thumbnail": "src/assets/thumbnails/516.png",
-        "hires": "src/assets/hires/516.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/516.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/516.png",
+        "hires": "pokemon-explorer/src/assets/hires/516.png"
       }
     },
     {
@@ -18873,9 +18873,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/517.png",
-        "thumbnail": "src/assets/thumbnails/517.png",
-        "hires": "src/assets/hires/517.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/517.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/517.png",
+        "hires": "pokemon-explorer/src/assets/hires/517.png"
       }
     },
     {
@@ -18910,9 +18910,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/518.png",
-        "thumbnail": "src/assets/thumbnails/518.png",
-        "hires": "src/assets/hires/518.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/518.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/518.png",
+        "hires": "pokemon-explorer/src/assets/hires/518.png"
       }
     },
     {
@@ -18947,9 +18947,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/519.png",
-        "thumbnail": "src/assets/thumbnails/519.png",
-        "hires": "src/assets/hires/519.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/519.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/519.png",
+        "hires": "pokemon-explorer/src/assets/hires/519.png"
       }
     },
     {
@@ -18984,9 +18984,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/520.png",
-        "thumbnail": "src/assets/thumbnails/520.png",
-        "hires": "src/assets/hires/520.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/520.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/520.png",
+        "hires": "pokemon-explorer/src/assets/hires/520.png"
       }
     },
     {
@@ -19021,9 +19021,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/521.png",
-        "thumbnail": "src/assets/thumbnails/521.png",
-        "hires": "src/assets/hires/521.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/521.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/521.png",
+        "hires": "pokemon-explorer/src/assets/hires/521.png"
       }
     },
     {
@@ -19058,9 +19058,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/522.png",
-        "thumbnail": "src/assets/thumbnails/522.png",
-        "hires": "src/assets/hires/522.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/522.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/522.png",
+        "hires": "pokemon-explorer/src/assets/hires/522.png"
       }
     },
     {
@@ -19095,9 +19095,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/523.png",
-        "thumbnail": "src/assets/thumbnails/523.png",
-        "hires": "src/assets/hires/523.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/523.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/523.png",
+        "hires": "pokemon-explorer/src/assets/hires/523.png"
       }
     },
     {
@@ -19132,9 +19132,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/524.png",
-        "thumbnail": "src/assets/thumbnails/524.png",
-        "hires": "src/assets/hires/524.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/524.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/524.png",
+        "hires": "pokemon-explorer/src/assets/hires/524.png"
       }
     },
     {
@@ -19169,9 +19169,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/525.png",
-        "thumbnail": "src/assets/thumbnails/525.png",
-        "hires": "src/assets/hires/525.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/525.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/525.png",
+        "hires": "pokemon-explorer/src/assets/hires/525.png"
       }
     },
     {
@@ -19206,9 +19206,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/526.png",
-        "thumbnail": "src/assets/thumbnails/526.png",
-        "hires": "src/assets/hires/526.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/526.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/526.png",
+        "hires": "pokemon-explorer/src/assets/hires/526.png"
       }
     },
     {
@@ -19243,9 +19243,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/527.png",
-        "thumbnail": "src/assets/thumbnails/527.png",
-        "hires": "src/assets/hires/527.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/527.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/527.png",
+        "hires": "pokemon-explorer/src/assets/hires/527.png"
       }
     },
     {
@@ -19280,9 +19280,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/528.png",
-        "thumbnail": "src/assets/thumbnails/528.png",
-        "hires": "src/assets/hires/528.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/528.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/528.png",
+        "hires": "pokemon-explorer/src/assets/hires/528.png"
       }
     },
     {
@@ -19317,9 +19317,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/529.png",
-        "thumbnail": "src/assets/thumbnails/529.png",
-        "hires": "src/assets/hires/529.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/529.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/529.png",
+        "hires": "pokemon-explorer/src/assets/hires/529.png"
       }
     },
     {
@@ -19354,9 +19354,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/530.png",
-        "thumbnail": "src/assets/thumbnails/530.png",
-        "hires": "src/assets/hires/530.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/530.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/530.png",
+        "hires": "pokemon-explorer/src/assets/hires/530.png"
       }
     },
     {
@@ -19391,9 +19391,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/531.png",
-        "thumbnail": "src/assets/thumbnails/531.png",
-        "hires": "src/assets/hires/531.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/531.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/531.png",
+        "hires": "pokemon-explorer/src/assets/hires/531.png"
       }
     },
     {
@@ -19428,9 +19428,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/532.png",
-        "thumbnail": "src/assets/thumbnails/532.png",
-        "hires": "src/assets/hires/532.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/532.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/532.png",
+        "hires": "pokemon-explorer/src/assets/hires/532.png"
       }
     },
     {
@@ -19465,9 +19465,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/533.png",
-        "thumbnail": "src/assets/thumbnails/533.png",
-        "hires": "src/assets/hires/533.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/533.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/533.png",
+        "hires": "pokemon-explorer/src/assets/hires/533.png"
       }
     },
     {
@@ -19502,9 +19502,9 @@ export const pokedexData: Pokedex = [
         "gender": "75:25"
       },
       "image": {
-        "sprite": "src/assets/sprites/534.png",
-        "thumbnail": "src/assets/thumbnails/534.png",
-        "hires": "src/assets/hires/534.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/534.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/534.png",
+        "hires": "pokemon-explorer/src/assets/hires/534.png"
       }
     },
     {
@@ -19539,9 +19539,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/535.png",
-        "thumbnail": "src/assets/thumbnails/535.png",
-        "hires": "src/assets/hires/535.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/535.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/535.png",
+        "hires": "pokemon-explorer/src/assets/hires/535.png"
       }
     },
     {
@@ -19576,9 +19576,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/536.png",
-        "thumbnail": "src/assets/thumbnails/536.png",
-        "hires": "src/assets/hires/536.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/536.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/536.png",
+        "hires": "pokemon-explorer/src/assets/hires/536.png"
       }
     },
     {
@@ -19613,9 +19613,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/537.png",
-        "thumbnail": "src/assets/thumbnails/537.png",
-        "hires": "src/assets/hires/537.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/537.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/537.png",
+        "hires": "pokemon-explorer/src/assets/hires/537.png"
       }
     },
     {
@@ -19650,9 +19650,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/538.png",
-        "thumbnail": "src/assets/thumbnails/538.png",
-        "hires": "src/assets/hires/538.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/538.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/538.png",
+        "hires": "pokemon-explorer/src/assets/hires/538.png"
       }
     },
     {
@@ -19687,9 +19687,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/539.png",
-        "thumbnail": "src/assets/thumbnails/539.png",
-        "hires": "src/assets/hires/539.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/539.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/539.png",
+        "hires": "pokemon-explorer/src/assets/hires/539.png"
       }
     },
     {
@@ -19724,9 +19724,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/540.png",
-        "thumbnail": "src/assets/thumbnails/540.png",
-        "hires": "src/assets/hires/540.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/540.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/540.png",
+        "hires": "pokemon-explorer/src/assets/hires/540.png"
       }
     },
     {
@@ -19764,9 +19764,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/541.png",
-        "thumbnail": "src/assets/thumbnails/541.png",
-        "hires": "src/assets/hires/541.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/541.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/541.png",
+        "hires": "pokemon-explorer/src/assets/hires/541.png"
       }
     },
     {
@@ -19801,9 +19801,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/542.png",
-        "thumbnail": "src/assets/thumbnails/542.png",
-        "hires": "src/assets/hires/542.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/542.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/542.png",
+        "hires": "pokemon-explorer/src/assets/hires/542.png"
       }
     },
     {
@@ -19838,9 +19838,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/543.png",
-        "thumbnail": "src/assets/thumbnails/543.png",
-        "hires": "src/assets/hires/543.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/543.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/543.png",
+        "hires": "pokemon-explorer/src/assets/hires/543.png"
       }
     },
     {
@@ -19875,9 +19875,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/544.png",
-        "thumbnail": "src/assets/thumbnails/544.png",
-        "hires": "src/assets/hires/544.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/544.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/544.png",
+        "hires": "pokemon-explorer/src/assets/hires/544.png"
       }
     },
     {
@@ -19912,9 +19912,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/545.png",
-        "thumbnail": "src/assets/thumbnails/545.png",
-        "hires": "src/assets/hires/545.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/545.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/545.png",
+        "hires": "pokemon-explorer/src/assets/hires/545.png"
       }
     },
     {
@@ -19949,9 +19949,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/546.png",
-        "thumbnail": "src/assets/thumbnails/546.png",
-        "hires": "src/assets/hires/546.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/546.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/546.png",
+        "hires": "pokemon-explorer/src/assets/hires/546.png"
       }
     },
     {
@@ -19986,9 +19986,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/547.png",
-        "thumbnail": "src/assets/thumbnails/547.png",
-        "hires": "src/assets/hires/547.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/547.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/547.png",
+        "hires": "pokemon-explorer/src/assets/hires/547.png"
       }
     },
     {
@@ -20023,9 +20023,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/548.png",
-        "thumbnail": "src/assets/thumbnails/548.png",
-        "hires": "src/assets/hires/548.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/548.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/548.png",
+        "hires": "pokemon-explorer/src/assets/hires/548.png"
       }
     },
     {
@@ -20060,9 +20060,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/549.png",
-        "thumbnail": "src/assets/thumbnails/549.png",
-        "hires": "src/assets/hires/549.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/549.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/549.png",
+        "hires": "pokemon-explorer/src/assets/hires/549.png"
       }
     },
     {
@@ -20097,9 +20097,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/550.png",
-        "thumbnail": "src/assets/thumbnails/550.png",
-        "hires": "src/assets/hires/550.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/550.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/550.png",
+        "hires": "pokemon-explorer/src/assets/hires/550.png"
       }
     },
     {
@@ -20134,9 +20134,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/551.png",
-        "thumbnail": "src/assets/thumbnails/551.png",
-        "hires": "src/assets/hires/551.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/551.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/551.png",
+        "hires": "pokemon-explorer/src/assets/hires/551.png"
       }
     },
     {
@@ -20171,9 +20171,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/552.png",
-        "thumbnail": "src/assets/thumbnails/552.png",
-        "hires": "src/assets/hires/552.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/552.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/552.png",
+        "hires": "pokemon-explorer/src/assets/hires/552.png"
       }
     },
     {
@@ -20208,9 +20208,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/553.png",
-        "thumbnail": "src/assets/thumbnails/553.png",
-        "hires": "src/assets/hires/553.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/553.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/553.png",
+        "hires": "pokemon-explorer/src/assets/hires/553.png"
       }
     },
     {
@@ -20244,9 +20244,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/554.png",
-        "thumbnail": "src/assets/thumbnails/554.png",
-        "hires": "src/assets/hires/554.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/554.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/554.png",
+        "hires": "pokemon-explorer/src/assets/hires/554.png"
       }
     },
     {
@@ -20280,9 +20280,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/555.png",
-        "thumbnail": "src/assets/thumbnails/555.png",
-        "hires": "src/assets/hires/555.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/555.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/555.png",
+        "hires": "pokemon-explorer/src/assets/hires/555.png"
       }
     },
     {
@@ -20317,9 +20317,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/556.png",
-        "thumbnail": "src/assets/thumbnails/556.png",
-        "hires": "src/assets/hires/556.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/556.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/556.png",
+        "hires": "pokemon-explorer/src/assets/hires/556.png"
       }
     },
     {
@@ -20354,9 +20354,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/557.png",
-        "thumbnail": "src/assets/thumbnails/557.png",
-        "hires": "src/assets/hires/557.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/557.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/557.png",
+        "hires": "pokemon-explorer/src/assets/hires/557.png"
       }
     },
     {
@@ -20391,9 +20391,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/558.png",
-        "thumbnail": "src/assets/thumbnails/558.png",
-        "hires": "src/assets/hires/558.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/558.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/558.png",
+        "hires": "pokemon-explorer/src/assets/hires/558.png"
       }
     },
     {
@@ -20428,9 +20428,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/559.png",
-        "thumbnail": "src/assets/thumbnails/559.png",
-        "hires": "src/assets/hires/559.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/559.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/559.png",
+        "hires": "pokemon-explorer/src/assets/hires/559.png"
       }
     },
     {
@@ -20465,9 +20465,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/560.png",
-        "thumbnail": "src/assets/thumbnails/560.png",
-        "hires": "src/assets/hires/560.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/560.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/560.png",
+        "hires": "pokemon-explorer/src/assets/hires/560.png"
       }
     },
     {
@@ -20502,9 +20502,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/561.png",
-        "thumbnail": "src/assets/thumbnails/561.png",
-        "hires": "src/assets/hires/561.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/561.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/561.png",
+        "hires": "pokemon-explorer/src/assets/hires/561.png"
       }
     },
     {
@@ -20535,9 +20535,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/562.png",
-        "thumbnail": "src/assets/thumbnails/562.png",
-        "hires": "src/assets/hires/562.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/562.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/562.png",
+        "hires": "pokemon-explorer/src/assets/hires/562.png"
       }
     },
     {
@@ -20568,9 +20568,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/563.png",
-        "thumbnail": "src/assets/thumbnails/563.png",
-        "hires": "src/assets/hires/563.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/563.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/563.png",
+        "hires": "pokemon-explorer/src/assets/hires/563.png"
       }
     },
     {
@@ -20605,9 +20605,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/564.png",
-        "thumbnail": "src/assets/thumbnails/564.png",
-        "hires": "src/assets/hires/564.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/564.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/564.png",
+        "hires": "pokemon-explorer/src/assets/hires/564.png"
       }
     },
     {
@@ -20642,9 +20642,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/565.png",
-        "thumbnail": "src/assets/thumbnails/565.png",
-        "hires": "src/assets/hires/565.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/565.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/565.png",
+        "hires": "pokemon-explorer/src/assets/hires/565.png"
       }
     },
     {
@@ -20675,9 +20675,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/566.png",
-        "thumbnail": "src/assets/thumbnails/566.png",
-        "hires": "src/assets/hires/566.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/566.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/566.png",
+        "hires": "pokemon-explorer/src/assets/hires/566.png"
       }
     },
     {
@@ -20708,9 +20708,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/567.png",
-        "thumbnail": "src/assets/thumbnails/567.png",
-        "hires": "src/assets/hires/567.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/567.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/567.png",
+        "hires": "pokemon-explorer/src/assets/hires/567.png"
       }
     },
     {
@@ -20745,9 +20745,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/568.png",
-        "thumbnail": "src/assets/thumbnails/568.png",
-        "hires": "src/assets/hires/568.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/568.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/568.png",
+        "hires": "pokemon-explorer/src/assets/hires/568.png"
       }
     },
     {
@@ -20782,9 +20782,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/569.png",
-        "thumbnail": "src/assets/thumbnails/569.png",
-        "hires": "src/assets/hires/569.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/569.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/569.png",
+        "hires": "pokemon-explorer/src/assets/hires/569.png"
       }
     },
     {
@@ -20815,9 +20815,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/570.png",
-        "thumbnail": "src/assets/thumbnails/570.png",
-        "hires": "src/assets/hires/570.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/570.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/570.png",
+        "hires": "pokemon-explorer/src/assets/hires/570.png"
       }
     },
     {
@@ -20848,9 +20848,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/571.png",
-        "thumbnail": "src/assets/thumbnails/571.png",
-        "hires": "src/assets/hires/571.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/571.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/571.png",
+        "hires": "pokemon-explorer/src/assets/hires/571.png"
       }
     },
     {
@@ -20885,9 +20885,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/572.png",
-        "thumbnail": "src/assets/thumbnails/572.png",
-        "hires": "src/assets/hires/572.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/572.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/572.png",
+        "hires": "pokemon-explorer/src/assets/hires/572.png"
       }
     },
     {
@@ -20922,9 +20922,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/573.png",
-        "thumbnail": "src/assets/thumbnails/573.png",
-        "hires": "src/assets/hires/573.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/573.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/573.png",
+        "hires": "pokemon-explorer/src/assets/hires/573.png"
       }
     },
     {
@@ -20959,9 +20959,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/574.png",
-        "thumbnail": "src/assets/thumbnails/574.png",
-        "hires": "src/assets/hires/574.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/574.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/574.png",
+        "hires": "pokemon-explorer/src/assets/hires/574.png"
       }
     },
     {
@@ -20996,9 +20996,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/575.png",
-        "thumbnail": "src/assets/thumbnails/575.png",
-        "hires": "src/assets/hires/575.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/575.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/575.png",
+        "hires": "pokemon-explorer/src/assets/hires/575.png"
       }
     },
     {
@@ -21033,9 +21033,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/576.png",
-        "thumbnail": "src/assets/thumbnails/576.png",
-        "hires": "src/assets/hires/576.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/576.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/576.png",
+        "hires": "pokemon-explorer/src/assets/hires/576.png"
       }
     },
     {
@@ -21070,9 +21070,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/577.png",
-        "thumbnail": "src/assets/thumbnails/577.png",
-        "hires": "src/assets/hires/577.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/577.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/577.png",
+        "hires": "pokemon-explorer/src/assets/hires/577.png"
       }
     },
     {
@@ -21107,9 +21107,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/578.png",
-        "thumbnail": "src/assets/thumbnails/578.png",
-        "hires": "src/assets/hires/578.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/578.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/578.png",
+        "hires": "pokemon-explorer/src/assets/hires/578.png"
       }
     },
     {
@@ -21144,9 +21144,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/579.png",
-        "thumbnail": "src/assets/thumbnails/579.png",
-        "hires": "src/assets/hires/579.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/579.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/579.png",
+        "hires": "pokemon-explorer/src/assets/hires/579.png"
       }
     },
     {
@@ -21181,9 +21181,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/580.png",
-        "thumbnail": "src/assets/thumbnails/580.png",
-        "hires": "src/assets/hires/580.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/580.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/580.png",
+        "hires": "pokemon-explorer/src/assets/hires/580.png"
       }
     },
     {
@@ -21218,9 +21218,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/581.png",
-        "thumbnail": "src/assets/thumbnails/581.png",
-        "hires": "src/assets/hires/581.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/581.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/581.png",
+        "hires": "pokemon-explorer/src/assets/hires/581.png"
       }
     },
     {
@@ -21255,9 +21255,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/582.png",
-        "thumbnail": "src/assets/thumbnails/582.png",
-        "hires": "src/assets/hires/582.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/582.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/582.png",
+        "hires": "pokemon-explorer/src/assets/hires/582.png"
       }
     },
     {
@@ -21292,9 +21292,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/583.png",
-        "thumbnail": "src/assets/thumbnails/583.png",
-        "hires": "src/assets/hires/583.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/583.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/583.png",
+        "hires": "pokemon-explorer/src/assets/hires/583.png"
       }
     },
     {
@@ -21329,9 +21329,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/584.png",
-        "thumbnail": "src/assets/thumbnails/584.png",
-        "hires": "src/assets/hires/584.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/584.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/584.png",
+        "hires": "pokemon-explorer/src/assets/hires/584.png"
       }
     },
     {
@@ -21366,9 +21366,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/585.png",
-        "thumbnail": "src/assets/thumbnails/585.png",
-        "hires": "src/assets/hires/585.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/585.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/585.png",
+        "hires": "pokemon-explorer/src/assets/hires/585.png"
       }
     },
     {
@@ -21403,9 +21403,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/586.png",
-        "thumbnail": "src/assets/thumbnails/586.png",
-        "hires": "src/assets/hires/586.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/586.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/586.png",
+        "hires": "pokemon-explorer/src/assets/hires/586.png"
       }
     },
     {
@@ -21439,9 +21439,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/587.png",
-        "thumbnail": "src/assets/thumbnails/587.png",
-        "hires": "src/assets/hires/587.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/587.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/587.png",
+        "hires": "pokemon-explorer/src/assets/hires/587.png"
       }
     },
     {
@@ -21476,9 +21476,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/588.png",
-        "thumbnail": "src/assets/thumbnails/588.png",
-        "hires": "src/assets/hires/588.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/588.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/588.png",
+        "hires": "pokemon-explorer/src/assets/hires/588.png"
       }
     },
     {
@@ -21513,9 +21513,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/589.png",
-        "thumbnail": "src/assets/thumbnails/589.png",
-        "hires": "src/assets/hires/589.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/589.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/589.png",
+        "hires": "pokemon-explorer/src/assets/hires/589.png"
       }
     },
     {
@@ -21549,9 +21549,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/590.png",
-        "thumbnail": "src/assets/thumbnails/590.png",
-        "hires": "src/assets/hires/590.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/590.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/590.png",
+        "hires": "pokemon-explorer/src/assets/hires/590.png"
       }
     },
     {
@@ -21585,9 +21585,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/591.png",
-        "thumbnail": "src/assets/thumbnails/591.png",
-        "hires": "src/assets/hires/591.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/591.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/591.png",
+        "hires": "pokemon-explorer/src/assets/hires/591.png"
       }
     },
     {
@@ -21622,9 +21622,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/592.png",
-        "thumbnail": "src/assets/thumbnails/592.png",
-        "hires": "src/assets/hires/592.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/592.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/592.png",
+        "hires": "pokemon-explorer/src/assets/hires/592.png"
       }
     },
     {
@@ -21659,9 +21659,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/593.png",
-        "thumbnail": "src/assets/thumbnails/593.png",
-        "hires": "src/assets/hires/593.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/593.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/593.png",
+        "hires": "pokemon-explorer/src/assets/hires/593.png"
       }
     },
     {
@@ -21696,9 +21696,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/594.png",
-        "thumbnail": "src/assets/thumbnails/594.png",
-        "hires": "src/assets/hires/594.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/594.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/594.png",
+        "hires": "pokemon-explorer/src/assets/hires/594.png"
       }
     },
     {
@@ -21733,9 +21733,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/595.png",
-        "thumbnail": "src/assets/thumbnails/595.png",
-        "hires": "src/assets/hires/595.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/595.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/595.png",
+        "hires": "pokemon-explorer/src/assets/hires/595.png"
       }
     },
     {
@@ -21770,9 +21770,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/596.png",
-        "thumbnail": "src/assets/thumbnails/596.png",
-        "hires": "src/assets/hires/596.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/596.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/596.png",
+        "hires": "pokemon-explorer/src/assets/hires/596.png"
       }
     },
     {
@@ -21803,9 +21803,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/597.png",
-        "thumbnail": "src/assets/thumbnails/597.png",
-        "hires": "src/assets/hires/597.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/597.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/597.png",
+        "hires": "pokemon-explorer/src/assets/hires/597.png"
       }
     },
     {
@@ -21839,9 +21839,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/598.png",
-        "thumbnail": "src/assets/thumbnails/598.png",
-        "hires": "src/assets/hires/598.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/598.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/598.png",
+        "hires": "pokemon-explorer/src/assets/hires/598.png"
       }
     },
     {
@@ -21876,9 +21876,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/599.png",
-        "thumbnail": "src/assets/thumbnails/599.png",
-        "hires": "src/assets/hires/599.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/599.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/599.png",
+        "hires": "pokemon-explorer/src/assets/hires/599.png"
       }
     },
     {
@@ -21913,9 +21913,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/600.png",
-        "thumbnail": "src/assets/thumbnails/600.png",
-        "hires": "src/assets/hires/600.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/600.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/600.png",
+        "hires": "pokemon-explorer/src/assets/hires/600.png"
       }
     },
     {
@@ -21950,9 +21950,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/601.png",
-        "thumbnail": "src/assets/thumbnails/601.png",
-        "hires": "src/assets/hires/601.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/601.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/601.png",
+        "hires": "pokemon-explorer/src/assets/hires/601.png"
       }
     },
     {
@@ -21983,9 +21983,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/602.png",
-        "thumbnail": "src/assets/thumbnails/602.png",
-        "hires": "src/assets/hires/602.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/602.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/602.png",
+        "hires": "pokemon-explorer/src/assets/hires/602.png"
       }
     },
     {
@@ -22019,9 +22019,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/603.png",
-        "thumbnail": "src/assets/thumbnails/603.png",
-        "hires": "src/assets/hires/603.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/603.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/603.png",
+        "hires": "pokemon-explorer/src/assets/hires/603.png"
       }
     },
     {
@@ -22052,9 +22052,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/604.png",
-        "thumbnail": "src/assets/thumbnails/604.png",
-        "hires": "src/assets/hires/604.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/604.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/604.png",
+        "hires": "pokemon-explorer/src/assets/hires/604.png"
       }
     },
     {
@@ -22089,9 +22089,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/605.png",
-        "thumbnail": "src/assets/thumbnails/605.png",
-        "hires": "src/assets/hires/605.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/605.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/605.png",
+        "hires": "pokemon-explorer/src/assets/hires/605.png"
       }
     },
     {
@@ -22126,9 +22126,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/606.png",
-        "thumbnail": "src/assets/thumbnails/606.png",
-        "hires": "src/assets/hires/606.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/606.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/606.png",
+        "hires": "pokemon-explorer/src/assets/hires/606.png"
       }
     },
     {
@@ -22163,9 +22163,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/607.png",
-        "thumbnail": "src/assets/thumbnails/607.png",
-        "hires": "src/assets/hires/607.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/607.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/607.png",
+        "hires": "pokemon-explorer/src/assets/hires/607.png"
       }
     },
     {
@@ -22203,9 +22203,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/608.png",
-        "thumbnail": "src/assets/thumbnails/608.png",
-        "hires": "src/assets/hires/608.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/608.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/608.png",
+        "hires": "pokemon-explorer/src/assets/hires/608.png"
       }
     },
     {
@@ -22240,9 +22240,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/609.png",
-        "thumbnail": "src/assets/thumbnails/609.png",
-        "hires": "src/assets/hires/609.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/609.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/609.png",
+        "hires": "pokemon-explorer/src/assets/hires/609.png"
       }
     },
     {
@@ -22277,9 +22277,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/610.png",
-        "thumbnail": "src/assets/thumbnails/610.png",
-        "hires": "src/assets/hires/610.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/610.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/610.png",
+        "hires": "pokemon-explorer/src/assets/hires/610.png"
       }
     },
     {
@@ -22314,9 +22314,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/611.png",
-        "thumbnail": "src/assets/thumbnails/611.png",
-        "hires": "src/assets/hires/611.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/611.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/611.png",
+        "hires": "pokemon-explorer/src/assets/hires/611.png"
       }
     },
     {
@@ -22351,9 +22351,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/612.png",
-        "thumbnail": "src/assets/thumbnails/612.png",
-        "hires": "src/assets/hires/612.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/612.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/612.png",
+        "hires": "pokemon-explorer/src/assets/hires/612.png"
       }
     },
     {
@@ -22388,9 +22388,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/613.png",
-        "thumbnail": "src/assets/thumbnails/613.png",
-        "hires": "src/assets/hires/613.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/613.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/613.png",
+        "hires": "pokemon-explorer/src/assets/hires/613.png"
       }
     },
     {
@@ -22425,9 +22425,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/614.png",
-        "thumbnail": "src/assets/thumbnails/614.png",
-        "hires": "src/assets/hires/614.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/614.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/614.png",
+        "hires": "pokemon-explorer/src/assets/hires/614.png"
       }
     },
     {
@@ -22458,9 +22458,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/615.png",
-        "thumbnail": "src/assets/thumbnails/615.png",
-        "hires": "src/assets/hires/615.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/615.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/615.png",
+        "hires": "pokemon-explorer/src/assets/hires/615.png"
       }
     },
     {
@@ -22495,9 +22495,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/616.png",
-        "thumbnail": "src/assets/thumbnails/616.png",
-        "hires": "src/assets/hires/616.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/616.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/616.png",
+        "hires": "pokemon-explorer/src/assets/hires/616.png"
       }
     },
     {
@@ -22532,9 +22532,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/617.png",
-        "thumbnail": "src/assets/thumbnails/617.png",
-        "hires": "src/assets/hires/617.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/617.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/617.png",
+        "hires": "pokemon-explorer/src/assets/hires/617.png"
       }
     },
     {
@@ -22569,9 +22569,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/618.png",
-        "thumbnail": "src/assets/thumbnails/618.png",
-        "hires": "src/assets/hires/618.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/618.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/618.png",
+        "hires": "pokemon-explorer/src/assets/hires/618.png"
       }
     },
     {
@@ -22606,9 +22606,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/619.png",
-        "thumbnail": "src/assets/thumbnails/619.png",
-        "hires": "src/assets/hires/619.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/619.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/619.png",
+        "hires": "pokemon-explorer/src/assets/hires/619.png"
       }
     },
     {
@@ -22643,9 +22643,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/620.png",
-        "thumbnail": "src/assets/thumbnails/620.png",
-        "hires": "src/assets/hires/620.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/620.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/620.png",
+        "hires": "pokemon-explorer/src/assets/hires/620.png"
       }
     },
     {
@@ -22680,9 +22680,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/621.png",
-        "thumbnail": "src/assets/thumbnails/621.png",
-        "hires": "src/assets/hires/621.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/621.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/621.png",
+        "hires": "pokemon-explorer/src/assets/hires/621.png"
       }
     },
     {
@@ -22717,9 +22717,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/622.png",
-        "thumbnail": "src/assets/thumbnails/622.png",
-        "hires": "src/assets/hires/622.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/622.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/622.png",
+        "hires": "pokemon-explorer/src/assets/hires/622.png"
       }
     },
     {
@@ -22754,9 +22754,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/623.png",
-        "thumbnail": "src/assets/thumbnails/623.png",
-        "hires": "src/assets/hires/623.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/623.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/623.png",
+        "hires": "pokemon-explorer/src/assets/hires/623.png"
       }
     },
     {
@@ -22791,9 +22791,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/624.png",
-        "thumbnail": "src/assets/thumbnails/624.png",
-        "hires": "src/assets/hires/624.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/624.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/624.png",
+        "hires": "pokemon-explorer/src/assets/hires/624.png"
       }
     },
     {
@@ -22828,9 +22828,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/625.png",
-        "thumbnail": "src/assets/thumbnails/625.png",
-        "hires": "src/assets/hires/625.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/625.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/625.png",
+        "hires": "pokemon-explorer/src/assets/hires/625.png"
       }
     },
     {
@@ -22865,9 +22865,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/626.png",
-        "thumbnail": "src/assets/thumbnails/626.png",
-        "hires": "src/assets/hires/626.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/626.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/626.png",
+        "hires": "pokemon-explorer/src/assets/hires/626.png"
       }
     },
     {
@@ -22902,9 +22902,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/627.png",
-        "thumbnail": "src/assets/thumbnails/627.png",
-        "hires": "src/assets/hires/627.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/627.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/627.png",
+        "hires": "pokemon-explorer/src/assets/hires/627.png"
       }
     },
     {
@@ -22939,9 +22939,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/628.png",
-        "thumbnail": "src/assets/thumbnails/628.png",
-        "hires": "src/assets/hires/628.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/628.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/628.png",
+        "hires": "pokemon-explorer/src/assets/hires/628.png"
       }
     },
     {
@@ -22976,9 +22976,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/629.png",
-        "thumbnail": "src/assets/thumbnails/629.png",
-        "hires": "src/assets/hires/629.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/629.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/629.png",
+        "hires": "pokemon-explorer/src/assets/hires/629.png"
       }
     },
     {
@@ -23013,9 +23013,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/630.png",
-        "thumbnail": "src/assets/thumbnails/630.png",
-        "hires": "src/assets/hires/630.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/630.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/630.png",
+        "hires": "pokemon-explorer/src/assets/hires/630.png"
       }
     },
     {
@@ -23050,9 +23050,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/631.png",
-        "thumbnail": "src/assets/thumbnails/631.png",
-        "hires": "src/assets/hires/631.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/631.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/631.png",
+        "hires": "pokemon-explorer/src/assets/hires/631.png"
       }
     },
     {
@@ -23087,9 +23087,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/632.png",
-        "thumbnail": "src/assets/thumbnails/632.png",
-        "hires": "src/assets/hires/632.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/632.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/632.png",
+        "hires": "pokemon-explorer/src/assets/hires/632.png"
       }
     },
     {
@@ -23120,9 +23120,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/633.png",
-        "thumbnail": "src/assets/thumbnails/633.png",
-        "hires": "src/assets/hires/633.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/633.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/633.png",
+        "hires": "pokemon-explorer/src/assets/hires/633.png"
       }
     },
     {
@@ -23153,9 +23153,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/634.png",
-        "thumbnail": "src/assets/thumbnails/634.png",
-        "hires": "src/assets/hires/634.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/634.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/634.png",
+        "hires": "pokemon-explorer/src/assets/hires/634.png"
       }
     },
     {
@@ -23186,9 +23186,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/635.png",
-        "thumbnail": "src/assets/thumbnails/635.png",
-        "hires": "src/assets/hires/635.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/635.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/635.png",
+        "hires": "pokemon-explorer/src/assets/hires/635.png"
       }
     },
     {
@@ -23222,9 +23222,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/636.png",
-        "thumbnail": "src/assets/thumbnails/636.png",
-        "hires": "src/assets/hires/636.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/636.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/636.png",
+        "hires": "pokemon-explorer/src/assets/hires/636.png"
       }
     },
     {
@@ -23258,9 +23258,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/637.png",
-        "thumbnail": "src/assets/thumbnails/637.png",
-        "hires": "src/assets/hires/637.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/637.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/637.png",
+        "hires": "pokemon-explorer/src/assets/hires/637.png"
       }
     },
     {
@@ -23291,9 +23291,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/638.png",
-        "thumbnail": "src/assets/thumbnails/638.png",
-        "hires": "src/assets/hires/638.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/638.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/638.png",
+        "hires": "pokemon-explorer/src/assets/hires/638.png"
       }
     },
     {
@@ -23324,9 +23324,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/639.png",
-        "thumbnail": "src/assets/thumbnails/639.png",
-        "hires": "src/assets/hires/639.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/639.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/639.png",
+        "hires": "pokemon-explorer/src/assets/hires/639.png"
       }
     },
     {
@@ -23357,9 +23357,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/640.png",
-        "thumbnail": "src/assets/thumbnails/640.png",
-        "hires": "src/assets/hires/640.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/640.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/640.png",
+        "hires": "pokemon-explorer/src/assets/hires/640.png"
       }
     },
     {
@@ -23393,9 +23393,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/641.png",
-        "thumbnail": "src/assets/thumbnails/641.png",
-        "hires": "src/assets/hires/641.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/641.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/641.png",
+        "hires": "pokemon-explorer/src/assets/hires/641.png"
       }
     },
     {
@@ -23429,9 +23429,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/642.png",
-        "thumbnail": "src/assets/thumbnails/642.png",
-        "hires": "src/assets/hires/642.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/642.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/642.png",
+        "hires": "pokemon-explorer/src/assets/hires/642.png"
       }
     },
     {
@@ -23462,9 +23462,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/643.png",
-        "thumbnail": "src/assets/thumbnails/643.png",
-        "hires": "src/assets/hires/643.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/643.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/643.png",
+        "hires": "pokemon-explorer/src/assets/hires/643.png"
       }
     },
     {
@@ -23495,9 +23495,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/644.png",
-        "thumbnail": "src/assets/thumbnails/644.png",
-        "hires": "src/assets/hires/644.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/644.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/644.png",
+        "hires": "pokemon-explorer/src/assets/hires/644.png"
       }
     },
     {
@@ -23531,9 +23531,9 @@ export const pokedexData: Pokedex = [
         "gender": "100:0"
       },
       "image": {
-        "sprite": "src/assets/sprites/645.png",
-        "thumbnail": "src/assets/thumbnails/645.png",
-        "hires": "src/assets/hires/645.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/645.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/645.png",
+        "hires": "pokemon-explorer/src/assets/hires/645.png"
       }
     },
     {
@@ -23564,9 +23564,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/646.png",
-        "thumbnail": "src/assets/thumbnails/646.png",
-        "hires": "src/assets/hires/646.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/646.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/646.png",
+        "hires": "pokemon-explorer/src/assets/hires/646.png"
       }
     },
     {
@@ -23597,9 +23597,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/647.png",
-        "thumbnail": "src/assets/thumbnails/647.png",
-        "hires": "src/assets/hires/647.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/647.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/647.png",
+        "hires": "pokemon-explorer/src/assets/hires/647.png"
       }
     },
     {
@@ -23630,9 +23630,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/648.png",
-        "thumbnail": "src/assets/thumbnails/648.png",
-        "hires": "src/assets/hires/648.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/648.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/648.png",
+        "hires": "pokemon-explorer/src/assets/hires/648.png"
       }
     },
     {
@@ -23663,9 +23663,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/649.png",
-        "thumbnail": "src/assets/thumbnails/649.png",
-        "hires": "src/assets/hires/649.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/649.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/649.png",
+        "hires": "pokemon-explorer/src/assets/hires/649.png"
       }
     },
     {
@@ -23699,9 +23699,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/650.png",
-        "thumbnail": "src/assets/thumbnails/650.png",
-        "hires": "src/assets/hires/650.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/650.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/650.png",
+        "hires": "pokemon-explorer/src/assets/hires/650.png"
       }
     },
     {
@@ -23735,9 +23735,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/651.png",
-        "thumbnail": "src/assets/thumbnails/651.png",
-        "hires": "src/assets/hires/651.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/651.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/651.png",
+        "hires": "pokemon-explorer/src/assets/hires/651.png"
       }
     },
     {
@@ -23771,9 +23771,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/652.png",
-        "thumbnail": "src/assets/thumbnails/652.png",
-        "hires": "src/assets/hires/652.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/652.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/652.png",
+        "hires": "pokemon-explorer/src/assets/hires/652.png"
       }
     },
     {
@@ -23807,9 +23807,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/653.png",
-        "thumbnail": "src/assets/thumbnails/653.png",
-        "hires": "src/assets/hires/653.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/653.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/653.png",
+        "hires": "pokemon-explorer/src/assets/hires/653.png"
       }
     },
     {
@@ -23843,9 +23843,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/654.png",
-        "thumbnail": "src/assets/thumbnails/654.png",
-        "hires": "src/assets/hires/654.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/654.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/654.png",
+        "hires": "pokemon-explorer/src/assets/hires/654.png"
       }
     },
     {
@@ -23879,9 +23879,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/655.png",
-        "thumbnail": "src/assets/thumbnails/655.png",
-        "hires": "src/assets/hires/655.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/655.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/655.png",
+        "hires": "pokemon-explorer/src/assets/hires/655.png"
       }
     },
     {
@@ -23915,9 +23915,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/656.png",
-        "thumbnail": "src/assets/thumbnails/656.png",
-        "hires": "src/assets/hires/656.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/656.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/656.png",
+        "hires": "pokemon-explorer/src/assets/hires/656.png"
       }
     },
     {
@@ -23951,9 +23951,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/657.png",
-        "thumbnail": "src/assets/thumbnails/657.png",
-        "hires": "src/assets/hires/657.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/657.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/657.png",
+        "hires": "pokemon-explorer/src/assets/hires/657.png"
       }
     },
     {
@@ -23987,9 +23987,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/658.png",
-        "thumbnail": "src/assets/thumbnails/658.png",
-        "hires": "src/assets/hires/658.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/658.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/658.png",
+        "hires": "pokemon-explorer/src/assets/hires/658.png"
       }
     },
     {
@@ -24024,9 +24024,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/659.png",
-        "thumbnail": "src/assets/thumbnails/659.png",
-        "hires": "src/assets/hires/659.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/659.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/659.png",
+        "hires": "pokemon-explorer/src/assets/hires/659.png"
       }
     },
     {
@@ -24061,9 +24061,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/660.png",
-        "thumbnail": "src/assets/thumbnails/660.png",
-        "hires": "src/assets/hires/660.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/660.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/660.png",
+        "hires": "pokemon-explorer/src/assets/hires/660.png"
       }
     },
     {
@@ -24097,9 +24097,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/661.png",
-        "thumbnail": "src/assets/thumbnails/661.png",
-        "hires": "src/assets/hires/661.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/661.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/661.png",
+        "hires": "pokemon-explorer/src/assets/hires/661.png"
       }
     },
     {
@@ -24133,9 +24133,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/662.png",
-        "thumbnail": "src/assets/thumbnails/662.png",
-        "hires": "src/assets/hires/662.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/662.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/662.png",
+        "hires": "pokemon-explorer/src/assets/hires/662.png"
       }
     },
     {
@@ -24169,9 +24169,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/663.png",
-        "thumbnail": "src/assets/thumbnails/663.png",
-        "hires": "src/assets/hires/663.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/663.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/663.png",
+        "hires": "pokemon-explorer/src/assets/hires/663.png"
       }
     },
     {
@@ -24206,9 +24206,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/664.png",
-        "thumbnail": "src/assets/thumbnails/664.png",
-        "hires": "src/assets/hires/664.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/664.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/664.png",
+        "hires": "pokemon-explorer/src/assets/hires/664.png"
       }
     },
     {
@@ -24242,9 +24242,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/665.png",
-        "thumbnail": "src/assets/thumbnails/665.png",
-        "hires": "src/assets/hires/665.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/665.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/665.png",
+        "hires": "pokemon-explorer/src/assets/hires/665.png"
       }
     },
     {
@@ -24279,9 +24279,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/666.png",
-        "thumbnail": "src/assets/thumbnails/666.png",
-        "hires": "src/assets/hires/666.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/666.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/666.png",
+        "hires": "pokemon-explorer/src/assets/hires/666.png"
       }
     },
     {
@@ -24316,9 +24316,9 @@ export const pokedexData: Pokedex = [
         "gender": "12.5:87.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/667.png",
-        "thumbnail": "src/assets/thumbnails/667.png",
-        "hires": "src/assets/hires/667.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/667.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/667.png",
+        "hires": "pokemon-explorer/src/assets/hires/667.png"
       }
     },
     {
@@ -24353,9 +24353,9 @@ export const pokedexData: Pokedex = [
         "gender": "12.5:87.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/668.png",
-        "thumbnail": "src/assets/thumbnails/668.png",
-        "hires": "src/assets/hires/668.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/668.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/668.png",
+        "hires": "pokemon-explorer/src/assets/hires/668.png"
       }
     },
     {
@@ -24389,9 +24389,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/669.png",
-        "thumbnail": "src/assets/thumbnails/669.png",
-        "hires": "src/assets/hires/669.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/669.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/669.png",
+        "hires": "pokemon-explorer/src/assets/hires/669.png"
       }
     },
     {
@@ -24428,9 +24428,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/670.png",
-        "thumbnail": "src/assets/thumbnails/670.png",
-        "hires": "src/assets/hires/670.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/670.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/670.png",
+        "hires": "pokemon-explorer/src/assets/hires/670.png"
       }
     },
     {
@@ -24464,9 +24464,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/671.png",
-        "thumbnail": "src/assets/thumbnails/671.png",
-        "hires": "src/assets/hires/671.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/671.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/671.png",
+        "hires": "pokemon-explorer/src/assets/hires/671.png"
       }
     },
     {
@@ -24500,9 +24500,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/672.png",
-        "thumbnail": "src/assets/thumbnails/672.png",
-        "hires": "src/assets/hires/672.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/672.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/672.png",
+        "hires": "pokemon-explorer/src/assets/hires/672.png"
       }
     },
     {
@@ -24536,9 +24536,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/673.png",
-        "thumbnail": "src/assets/thumbnails/673.png",
-        "hires": "src/assets/hires/673.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/673.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/673.png",
+        "hires": "pokemon-explorer/src/assets/hires/673.png"
       }
     },
     {
@@ -24573,9 +24573,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/674.png",
-        "thumbnail": "src/assets/thumbnails/674.png",
-        "hires": "src/assets/hires/674.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/674.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/674.png",
+        "hires": "pokemon-explorer/src/assets/hires/674.png"
       }
     },
     {
@@ -24610,9 +24610,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/675.png",
-        "thumbnail": "src/assets/thumbnails/675.png",
-        "hires": "src/assets/hires/675.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/675.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/675.png",
+        "hires": "pokemon-explorer/src/assets/hires/675.png"
       }
     },
     {
@@ -24643,9 +24643,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/676.png",
-        "thumbnail": "src/assets/thumbnails/676.png",
-        "hires": "src/assets/hires/676.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/676.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/676.png",
+        "hires": "pokemon-explorer/src/assets/hires/676.png"
       }
     },
     {
@@ -24680,9 +24680,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/677.png",
-        "thumbnail": "src/assets/thumbnails/677.png",
-        "hires": "src/assets/hires/677.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/677.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/677.png",
+        "hires": "pokemon-explorer/src/assets/hires/677.png"
       }
     },
     {
@@ -24717,9 +24717,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/678.png",
-        "thumbnail": "src/assets/thumbnails/678.png",
-        "hires": "src/assets/hires/678.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/678.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/678.png",
+        "hires": "pokemon-explorer/src/assets/hires/678.png"
       }
     },
     {
@@ -24750,9 +24750,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/679.png",
-        "thumbnail": "src/assets/thumbnails/679.png",
-        "hires": "src/assets/hires/679.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/679.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/679.png",
+        "hires": "pokemon-explorer/src/assets/hires/679.png"
       }
     },
     {
@@ -24786,9 +24786,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/680.png",
-        "thumbnail": "src/assets/thumbnails/680.png",
-        "hires": "src/assets/hires/680.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/680.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/680.png",
+        "hires": "pokemon-explorer/src/assets/hires/680.png"
       }
     },
     {
@@ -24819,9 +24819,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/681.png",
-        "thumbnail": "src/assets/thumbnails/681.png",
-        "hires": "src/assets/hires/681.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/681.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/681.png",
+        "hires": "pokemon-explorer/src/assets/hires/681.png"
       }
     },
     {
@@ -24855,9 +24855,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/682.png",
-        "thumbnail": "src/assets/thumbnails/682.png",
-        "hires": "src/assets/hires/682.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/682.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/682.png",
+        "hires": "pokemon-explorer/src/assets/hires/682.png"
       }
     },
     {
@@ -24891,9 +24891,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/683.png",
-        "thumbnail": "src/assets/thumbnails/683.png",
-        "hires": "src/assets/hires/683.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/683.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/683.png",
+        "hires": "pokemon-explorer/src/assets/hires/683.png"
       }
     },
     {
@@ -24927,9 +24927,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/684.png",
-        "thumbnail": "src/assets/thumbnails/684.png",
-        "hires": "src/assets/hires/684.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/684.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/684.png",
+        "hires": "pokemon-explorer/src/assets/hires/684.png"
       }
     },
     {
@@ -24963,9 +24963,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/685.png",
-        "thumbnail": "src/assets/thumbnails/685.png",
-        "hires": "src/assets/hires/685.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/685.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/685.png",
+        "hires": "pokemon-explorer/src/assets/hires/685.png"
       }
     },
     {
@@ -25000,9 +25000,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/686.png",
-        "thumbnail": "src/assets/thumbnails/686.png",
-        "hires": "src/assets/hires/686.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/686.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/686.png",
+        "hires": "pokemon-explorer/src/assets/hires/686.png"
       }
     },
     {
@@ -25037,9 +25037,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/687.png",
-        "thumbnail": "src/assets/thumbnails/687.png",
-        "hires": "src/assets/hires/687.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/687.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/687.png",
+        "hires": "pokemon-explorer/src/assets/hires/687.png"
       }
     },
     {
@@ -25074,9 +25074,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/688.png",
-        "thumbnail": "src/assets/thumbnails/688.png",
-        "hires": "src/assets/hires/688.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/688.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/688.png",
+        "hires": "pokemon-explorer/src/assets/hires/688.png"
       }
     },
     {
@@ -25111,9 +25111,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/689.png",
-        "thumbnail": "src/assets/thumbnails/689.png",
-        "hires": "src/assets/hires/689.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/689.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/689.png",
+        "hires": "pokemon-explorer/src/assets/hires/689.png"
       }
     },
     {
@@ -25148,9 +25148,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/690.png",
-        "thumbnail": "src/assets/thumbnails/690.png",
-        "hires": "src/assets/hires/690.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/690.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/690.png",
+        "hires": "pokemon-explorer/src/assets/hires/690.png"
       }
     },
     {
@@ -25185,9 +25185,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/691.png",
-        "thumbnail": "src/assets/thumbnails/691.png",
-        "hires": "src/assets/hires/691.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/691.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/691.png",
+        "hires": "pokemon-explorer/src/assets/hires/691.png"
       }
     },
     {
@@ -25218,9 +25218,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/692.png",
-        "thumbnail": "src/assets/thumbnails/692.png",
-        "hires": "src/assets/hires/692.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/692.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/692.png",
+        "hires": "pokemon-explorer/src/assets/hires/692.png"
       }
     },
     {
@@ -25251,9 +25251,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/693.png",
-        "thumbnail": "src/assets/thumbnails/693.png",
-        "hires": "src/assets/hires/693.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/693.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/693.png",
+        "hires": "pokemon-explorer/src/assets/hires/693.png"
       }
     },
     {
@@ -25288,9 +25288,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/694.png",
-        "thumbnail": "src/assets/thumbnails/694.png",
-        "hires": "src/assets/hires/694.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/694.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/694.png",
+        "hires": "pokemon-explorer/src/assets/hires/694.png"
       }
     },
     {
@@ -25325,9 +25325,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/695.png",
-        "thumbnail": "src/assets/thumbnails/695.png",
-        "hires": "src/assets/hires/695.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/695.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/695.png",
+        "hires": "pokemon-explorer/src/assets/hires/695.png"
       }
     },
     {
@@ -25361,9 +25361,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/696.png",
-        "thumbnail": "src/assets/thumbnails/696.png",
-        "hires": "src/assets/hires/696.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/696.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/696.png",
+        "hires": "pokemon-explorer/src/assets/hires/696.png"
       }
     },
     {
@@ -25397,9 +25397,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/697.png",
-        "thumbnail": "src/assets/thumbnails/697.png",
-        "hires": "src/assets/hires/697.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/697.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/697.png",
+        "hires": "pokemon-explorer/src/assets/hires/697.png"
       }
     },
     {
@@ -25433,9 +25433,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/698.png",
-        "thumbnail": "src/assets/thumbnails/698.png",
-        "hires": "src/assets/hires/698.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/698.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/698.png",
+        "hires": "pokemon-explorer/src/assets/hires/698.png"
       }
     },
     {
@@ -25469,9 +25469,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/699.png",
-        "thumbnail": "src/assets/thumbnails/699.png",
-        "hires": "src/assets/hires/699.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/699.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/699.png",
+        "hires": "pokemon-explorer/src/assets/hires/699.png"
       }
     },
     {
@@ -25505,9 +25505,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/700.png",
-        "thumbnail": "src/assets/thumbnails/700.png",
-        "hires": "src/assets/hires/700.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/700.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/700.png",
+        "hires": "pokemon-explorer/src/assets/hires/700.png"
       }
     },
     {
@@ -25542,9 +25542,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/701.png",
-        "thumbnail": "src/assets/thumbnails/701.png",
-        "hires": "src/assets/hires/701.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/701.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/701.png",
+        "hires": "pokemon-explorer/src/assets/hires/701.png"
       }
     },
     {
@@ -25579,9 +25579,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/702.png",
-        "thumbnail": "src/assets/thumbnails/702.png",
-        "hires": "src/assets/hires/702.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/702.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/702.png",
+        "hires": "pokemon-explorer/src/assets/hires/702.png"
       }
     },
     {
@@ -25615,9 +25615,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/703.png",
-        "thumbnail": "src/assets/thumbnails/703.png",
-        "hires": "src/assets/hires/703.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/703.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/703.png",
+        "hires": "pokemon-explorer/src/assets/hires/703.png"
       }
     },
     {
@@ -25652,9 +25652,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/704.png",
-        "thumbnail": "src/assets/thumbnails/704.png",
-        "hires": "src/assets/hires/704.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/704.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/704.png",
+        "hires": "pokemon-explorer/src/assets/hires/704.png"
       }
     },
     {
@@ -25692,9 +25692,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/705.png",
-        "thumbnail": "src/assets/thumbnails/705.png",
-        "hires": "src/assets/hires/705.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/705.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/705.png",
+        "hires": "pokemon-explorer/src/assets/hires/705.png"
       }
     },
     {
@@ -25729,9 +25729,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/706.png",
-        "thumbnail": "src/assets/thumbnails/706.png",
-        "hires": "src/assets/hires/706.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/706.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/706.png",
+        "hires": "pokemon-explorer/src/assets/hires/706.png"
       }
     },
     {
@@ -25765,9 +25765,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/707.png",
-        "thumbnail": "src/assets/thumbnails/707.png",
-        "hires": "src/assets/hires/707.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/707.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/707.png",
+        "hires": "pokemon-explorer/src/assets/hires/707.png"
       }
     },
     {
@@ -25802,9 +25802,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/708.png",
-        "thumbnail": "src/assets/thumbnails/708.png",
-        "hires": "src/assets/hires/708.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/708.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/708.png",
+        "hires": "pokemon-explorer/src/assets/hires/708.png"
       }
     },
     {
@@ -25839,9 +25839,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/709.png",
-        "thumbnail": "src/assets/thumbnails/709.png",
-        "hires": "src/assets/hires/709.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/709.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/709.png",
+        "hires": "pokemon-explorer/src/assets/hires/709.png"
       }
     },
     {
@@ -25876,9 +25876,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/710.png",
-        "thumbnail": "src/assets/thumbnails/710.png",
-        "hires": "src/assets/hires/710.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/710.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/710.png",
+        "hires": "pokemon-explorer/src/assets/hires/710.png"
       }
     },
     {
@@ -25913,9 +25913,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/711.png",
-        "thumbnail": "src/assets/thumbnails/711.png",
-        "hires": "src/assets/hires/711.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/711.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/711.png",
+        "hires": "pokemon-explorer/src/assets/hires/711.png"
       }
     },
     {
@@ -25950,9 +25950,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/712.png",
-        "thumbnail": "src/assets/thumbnails/712.png",
-        "hires": "src/assets/hires/712.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/712.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/712.png",
+        "hires": "pokemon-explorer/src/assets/hires/712.png"
       }
     },
     {
@@ -25987,9 +25987,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/713.png",
-        "thumbnail": "src/assets/thumbnails/713.png",
-        "hires": "src/assets/hires/713.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/713.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/713.png",
+        "hires": "pokemon-explorer/src/assets/hires/713.png"
       }
     },
     {
@@ -26024,9 +26024,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/714.png",
-        "thumbnail": "src/assets/thumbnails/714.png",
-        "hires": "src/assets/hires/714.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/714.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/714.png",
+        "hires": "pokemon-explorer/src/assets/hires/714.png"
       }
     },
     {
@@ -26061,9 +26061,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/715.png",
-        "thumbnail": "src/assets/thumbnails/715.png",
-        "hires": "src/assets/hires/715.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/715.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/715.png",
+        "hires": "pokemon-explorer/src/assets/hires/715.png"
       }
     },
     {
@@ -26094,9 +26094,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/716.png",
-        "thumbnail": "src/assets/thumbnails/716.png",
-        "hires": "src/assets/hires/716.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/716.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/716.png",
+        "hires": "pokemon-explorer/src/assets/hires/716.png"
       }
     },
     {
@@ -26127,9 +26127,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/717.png",
-        "thumbnail": "src/assets/thumbnails/717.png",
-        "hires": "src/assets/hires/717.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/717.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/717.png",
+        "hires": "pokemon-explorer/src/assets/hires/717.png"
       }
     },
     {
@@ -26160,9 +26160,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/718.png",
-        "thumbnail": "src/assets/thumbnails/718.png",
-        "hires": "src/assets/hires/718.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/718.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/718.png",
+        "hires": "pokemon-explorer/src/assets/hires/718.png"
       }
     },
     {
@@ -26193,9 +26193,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/719.png",
-        "thumbnail": "src/assets/thumbnails/719.png",
-        "hires": "src/assets/hires/719.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/719.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/719.png",
+        "hires": "pokemon-explorer/src/assets/hires/719.png"
       }
     },
     {
@@ -26226,9 +26226,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/720.png",
-        "thumbnail": "src/assets/thumbnails/720.png",
-        "hires": "src/assets/hires/720.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/720.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/720.png",
+        "hires": "pokemon-explorer/src/assets/hires/720.png"
       }
     },
     {
@@ -26259,9 +26259,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/721.png",
-        "thumbnail": "src/assets/thumbnails/721.png",
-        "hires": "src/assets/hires/721.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/721.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/721.png",
+        "hires": "pokemon-explorer/src/assets/hires/721.png"
       }
     },
     {
@@ -26295,9 +26295,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/722.png",
-        "thumbnail": "src/assets/thumbnails/722.png",
-        "hires": "src/assets/hires/722.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/722.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/722.png",
+        "hires": "pokemon-explorer/src/assets/hires/722.png"
       }
     },
     {
@@ -26331,9 +26331,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/723.png",
-        "thumbnail": "src/assets/thumbnails/723.png",
-        "hires": "src/assets/hires/723.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/723.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/723.png",
+        "hires": "pokemon-explorer/src/assets/hires/723.png"
       }
     },
     {
@@ -26367,9 +26367,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/724.png",
-        "thumbnail": "src/assets/thumbnails/724.png",
-        "hires": "src/assets/hires/724.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/724.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/724.png",
+        "hires": "pokemon-explorer/src/assets/hires/724.png"
       }
     },
     {
@@ -26403,9 +26403,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/725.png",
-        "thumbnail": "src/assets/thumbnails/725.png",
-        "hires": "src/assets/hires/725.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/725.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/725.png",
+        "hires": "pokemon-explorer/src/assets/hires/725.png"
       }
     },
     {
@@ -26439,9 +26439,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/726.png",
-        "thumbnail": "src/assets/thumbnails/726.png",
-        "hires": "src/assets/hires/726.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/726.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/726.png",
+        "hires": "pokemon-explorer/src/assets/hires/726.png"
       }
     },
     {
@@ -26475,9 +26475,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/727.png",
-        "thumbnail": "src/assets/thumbnails/727.png",
-        "hires": "src/assets/hires/727.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/727.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/727.png",
+        "hires": "pokemon-explorer/src/assets/hires/727.png"
       }
     },
     {
@@ -26511,9 +26511,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/728.png",
-        "thumbnail": "src/assets/thumbnails/728.png",
-        "hires": "src/assets/hires/728.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/728.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/728.png",
+        "hires": "pokemon-explorer/src/assets/hires/728.png"
       }
     },
     {
@@ -26547,9 +26547,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/729.png",
-        "thumbnail": "src/assets/thumbnails/729.png",
-        "hires": "src/assets/hires/729.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/729.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/729.png",
+        "hires": "pokemon-explorer/src/assets/hires/729.png"
       }
     },
     {
@@ -26583,9 +26583,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/730.png",
-        "thumbnail": "src/assets/thumbnails/730.png",
-        "hires": "src/assets/hires/730.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/730.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/730.png",
+        "hires": "pokemon-explorer/src/assets/hires/730.png"
       }
     },
     {
@@ -26620,9 +26620,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/731.png",
-        "thumbnail": "src/assets/thumbnails/731.png",
-        "hires": "src/assets/hires/731.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/731.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/731.png",
+        "hires": "pokemon-explorer/src/assets/hires/731.png"
       }
     },
     {
@@ -26657,9 +26657,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/732.png",
-        "thumbnail": "src/assets/thumbnails/732.png",
-        "hires": "src/assets/hires/732.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/732.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/732.png",
+        "hires": "pokemon-explorer/src/assets/hires/732.png"
       }
     },
     {
@@ -26694,9 +26694,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/733.png",
-        "thumbnail": "src/assets/thumbnails/733.png",
-        "hires": "src/assets/hires/733.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/733.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/733.png",
+        "hires": "pokemon-explorer/src/assets/hires/733.png"
       }
     },
     {
@@ -26731,9 +26731,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/734.png",
-        "thumbnail": "src/assets/thumbnails/734.png",
-        "hires": "src/assets/hires/734.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/734.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/734.png",
+        "hires": "pokemon-explorer/src/assets/hires/734.png"
       }
     },
     {
@@ -26768,9 +26768,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/735.png",
-        "thumbnail": "src/assets/thumbnails/735.png",
-        "hires": "src/assets/hires/735.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/735.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/735.png",
+        "hires": "pokemon-explorer/src/assets/hires/735.png"
       }
     },
     {
@@ -26801,9 +26801,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/736.png",
-        "thumbnail": "src/assets/thumbnails/736.png",
-        "hires": "src/assets/hires/736.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/736.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/736.png",
+        "hires": "pokemon-explorer/src/assets/hires/736.png"
       }
     },
     {
@@ -26837,9 +26837,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/737.png",
-        "thumbnail": "src/assets/thumbnails/737.png",
-        "hires": "src/assets/hires/737.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/737.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/737.png",
+        "hires": "pokemon-explorer/src/assets/hires/737.png"
       }
     },
     {
@@ -26875,9 +26875,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/738.png",
-        "thumbnail": "src/assets/thumbnails/738.png",
-        "hires": "src/assets/hires/738.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/738.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/738.png",
+        "hires": "pokemon-explorer/src/assets/hires/738.png"
       }
     },
     {
@@ -26912,9 +26912,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/739.png",
-        "thumbnail": "src/assets/thumbnails/739.png",
-        "hires": "src/assets/hires/739.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/739.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/739.png",
+        "hires": "pokemon-explorer/src/assets/hires/739.png"
       }
     },
     {
@@ -26949,9 +26949,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/740.png",
-        "thumbnail": "src/assets/thumbnails/740.png",
-        "hires": "src/assets/hires/740.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/740.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/740.png",
+        "hires": "pokemon-explorer/src/assets/hires/740.png"
       }
     },
     {
@@ -26982,9 +26982,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/741.png",
-        "thumbnail": "src/assets/thumbnails/741.png",
-        "hires": "src/assets/hires/741.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/741.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/741.png",
+        "hires": "pokemon-explorer/src/assets/hires/741.png"
       }
     },
     {
@@ -27019,9 +27019,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/742.png",
-        "thumbnail": "src/assets/thumbnails/742.png",
-        "hires": "src/assets/hires/742.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/742.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/742.png",
+        "hires": "pokemon-explorer/src/assets/hires/742.png"
       }
     },
     {
@@ -27056,9 +27056,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/743.png",
-        "thumbnail": "src/assets/thumbnails/743.png",
-        "hires": "src/assets/hires/743.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/743.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/743.png",
+        "hires": "pokemon-explorer/src/assets/hires/743.png"
       }
     },
     {
@@ -27093,9 +27093,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/744.png",
-        "thumbnail": "src/assets/thumbnails/744.png",
-        "hires": "src/assets/hires/744.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/744.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/744.png",
+        "hires": "pokemon-explorer/src/assets/hires/744.png"
       }
     },
     {
@@ -27130,9 +27130,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/745.png",
-        "thumbnail": "src/assets/thumbnails/745.png",
-        "hires": "src/assets/hires/745.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/745.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/745.png",
+        "hires": "pokemon-explorer/src/assets/hires/745.png"
       }
     },
     {
@@ -27163,9 +27163,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/746.png",
-        "thumbnail": "src/assets/thumbnails/746.png",
-        "hires": "src/assets/hires/746.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/746.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/746.png",
+        "hires": "pokemon-explorer/src/assets/hires/746.png"
       }
     },
     {
@@ -27200,9 +27200,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/747.png",
-        "thumbnail": "src/assets/thumbnails/747.png",
-        "hires": "src/assets/hires/747.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/747.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/747.png",
+        "hires": "pokemon-explorer/src/assets/hires/747.png"
       }
     },
     {
@@ -27237,9 +27237,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/748.png",
-        "thumbnail": "src/assets/thumbnails/748.png",
-        "hires": "src/assets/hires/748.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/748.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/748.png",
+        "hires": "pokemon-explorer/src/assets/hires/748.png"
       }
     },
     {
@@ -27274,9 +27274,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/749.png",
-        "thumbnail": "src/assets/thumbnails/749.png",
-        "hires": "src/assets/hires/749.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/749.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/749.png",
+        "hires": "pokemon-explorer/src/assets/hires/749.png"
       }
     },
     {
@@ -27311,9 +27311,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/750.png",
-        "thumbnail": "src/assets/thumbnails/750.png",
-        "hires": "src/assets/hires/750.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/750.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/750.png",
+        "hires": "pokemon-explorer/src/assets/hires/750.png"
       }
     },
     {
@@ -27347,9 +27347,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/751.png",
-        "thumbnail": "src/assets/thumbnails/751.png",
-        "hires": "src/assets/hires/751.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/751.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/751.png",
+        "hires": "pokemon-explorer/src/assets/hires/751.png"
       }
     },
     {
@@ -27383,9 +27383,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/752.png",
-        "thumbnail": "src/assets/thumbnails/752.png",
-        "hires": "src/assets/hires/752.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/752.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/752.png",
+        "hires": "pokemon-explorer/src/assets/hires/752.png"
       }
     },
     {
@@ -27419,9 +27419,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/753.png",
-        "thumbnail": "src/assets/thumbnails/753.png",
-        "hires": "src/assets/hires/753.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/753.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/753.png",
+        "hires": "pokemon-explorer/src/assets/hires/753.png"
       }
     },
     {
@@ -27455,9 +27455,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/754.png",
-        "thumbnail": "src/assets/thumbnails/754.png",
-        "hires": "src/assets/hires/754.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/754.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/754.png",
+        "hires": "pokemon-explorer/src/assets/hires/754.png"
       }
     },
     {
@@ -27492,9 +27492,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/755.png",
-        "thumbnail": "src/assets/thumbnails/755.png",
-        "hires": "src/assets/hires/755.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/755.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/755.png",
+        "hires": "pokemon-explorer/src/assets/hires/755.png"
       }
     },
     {
@@ -27529,9 +27529,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/756.png",
-        "thumbnail": "src/assets/thumbnails/756.png",
-        "hires": "src/assets/hires/756.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/756.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/756.png",
+        "hires": "pokemon-explorer/src/assets/hires/756.png"
       }
     },
     {
@@ -27565,9 +27565,9 @@ export const pokedexData: Pokedex = [
         "gender": "87.5:12.5"
       },
       "image": {
-        "sprite": "src/assets/sprites/757.png",
-        "thumbnail": "src/assets/thumbnails/757.png",
-        "hires": "src/assets/hires/757.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/757.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/757.png",
+        "hires": "pokemon-explorer/src/assets/hires/757.png"
       }
     },
     {
@@ -27601,9 +27601,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/758.png",
-        "thumbnail": "src/assets/thumbnails/758.png",
-        "hires": "src/assets/hires/758.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/758.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/758.png",
+        "hires": "pokemon-explorer/src/assets/hires/758.png"
       }
     },
     {
@@ -27638,9 +27638,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/759.png",
-        "thumbnail": "src/assets/thumbnails/759.png",
-        "hires": "src/assets/hires/759.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/759.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/759.png",
+        "hires": "pokemon-explorer/src/assets/hires/759.png"
       }
     },
     {
@@ -27675,9 +27675,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/760.png",
-        "thumbnail": "src/assets/thumbnails/760.png",
-        "hires": "src/assets/hires/760.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/760.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/760.png",
+        "hires": "pokemon-explorer/src/assets/hires/760.png"
       }
     },
     {
@@ -27712,9 +27712,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/761.png",
-        "thumbnail": "src/assets/thumbnails/761.png",
-        "hires": "src/assets/hires/761.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/761.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/761.png",
+        "hires": "pokemon-explorer/src/assets/hires/761.png"
       }
     },
     {
@@ -27752,9 +27752,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/762.png",
-        "thumbnail": "src/assets/thumbnails/762.png",
-        "hires": "src/assets/hires/762.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/762.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/762.png",
+        "hires": "pokemon-explorer/src/assets/hires/762.png"
       }
     },
     {
@@ -27789,9 +27789,9 @@ export const pokedexData: Pokedex = [
         "gender": "0:100"
       },
       "image": {
-        "sprite": "src/assets/sprites/763.png",
-        "thumbnail": "src/assets/thumbnails/763.png",
-        "hires": "src/assets/hires/763.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/763.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/763.png",
+        "hires": "pokemon-explorer/src/assets/hires/763.png"
       }
     },
     {
@@ -27826,9 +27826,9 @@ export const pokedexData: Pokedex = [
         "gender": "25:75"
       },
       "image": {
-        "sprite": "src/assets/sprites/764.png",
-        "thumbnail": "src/assets/thumbnails/764.png",
-        "hires": "src/assets/hires/764.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/764.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/764.png",
+        "hires": "pokemon-explorer/src/assets/hires/764.png"
       }
     },
     {
@@ -27863,9 +27863,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/765.png",
-        "thumbnail": "src/assets/thumbnails/765.png",
-        "hires": "src/assets/hires/765.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/765.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/765.png",
+        "hires": "pokemon-explorer/src/assets/hires/765.png"
       }
     },
     {
@@ -27899,9 +27899,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/766.png",
-        "thumbnail": "src/assets/thumbnails/766.png",
-        "hires": "src/assets/hires/766.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/766.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/766.png",
+        "hires": "pokemon-explorer/src/assets/hires/766.png"
       }
     },
     {
@@ -27932,9 +27932,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/767.png",
-        "thumbnail": "src/assets/thumbnails/767.png",
-        "hires": "src/assets/hires/767.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/767.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/767.png",
+        "hires": "pokemon-explorer/src/assets/hires/767.png"
       }
     },
     {
@@ -27965,9 +27965,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/768.png",
-        "thumbnail": "src/assets/thumbnails/768.png",
-        "hires": "src/assets/hires/768.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/768.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/768.png",
+        "hires": "pokemon-explorer/src/assets/hires/768.png"
       }
     },
     {
@@ -28001,9 +28001,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/769.png",
-        "thumbnail": "src/assets/thumbnails/769.png",
-        "hires": "src/assets/hires/769.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/769.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/769.png",
+        "hires": "pokemon-explorer/src/assets/hires/769.png"
       }
     },
     {
@@ -28037,9 +28037,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/770.png",
-        "thumbnail": "src/assets/thumbnails/770.png",
-        "hires": "src/assets/hires/770.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/770.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/770.png",
+        "hires": "pokemon-explorer/src/assets/hires/770.png"
       }
     },
     {
@@ -28073,9 +28073,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/771.png",
-        "thumbnail": "src/assets/thumbnails/771.png",
-        "hires": "src/assets/hires/771.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/771.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/771.png",
+        "hires": "pokemon-explorer/src/assets/hires/771.png"
       }
     },
     {
@@ -28106,9 +28106,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/772.png",
-        "thumbnail": "src/assets/thumbnails/772.png",
-        "hires": "src/assets/hires/772.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/772.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/772.png",
+        "hires": "pokemon-explorer/src/assets/hires/772.png"
       }
     },
     {
@@ -28139,9 +28139,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/773.png",
-        "thumbnail": "src/assets/thumbnails/773.png",
-        "hires": "src/assets/hires/773.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/773.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/773.png",
+        "hires": "pokemon-explorer/src/assets/hires/773.png"
       }
     },
     {
@@ -28172,9 +28172,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/774.png",
-        "thumbnail": "src/assets/thumbnails/774.png",
-        "hires": "src/assets/hires/774.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/774.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/774.png",
+        "hires": "pokemon-explorer/src/assets/hires/774.png"
       }
     },
     {
@@ -28205,9 +28205,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/775.png",
-        "thumbnail": "src/assets/thumbnails/775.png",
-        "hires": "src/assets/hires/775.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/775.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/775.png",
+        "hires": "pokemon-explorer/src/assets/hires/775.png"
       }
     },
     {
@@ -28238,9 +28238,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/776.png",
-        "thumbnail": "src/assets/thumbnails/776.png",
-        "hires": "src/assets/hires/776.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/776.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/776.png",
+        "hires": "pokemon-explorer/src/assets/hires/776.png"
       }
     },
     {
@@ -28275,9 +28275,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/777.png",
-        "thumbnail": "src/assets/thumbnails/777.png",
-        "hires": "src/assets/hires/777.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/777.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/777.png",
+        "hires": "pokemon-explorer/src/assets/hires/777.png"
       }
     },
     {
@@ -28308,9 +28308,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/778.png",
-        "thumbnail": "src/assets/thumbnails/778.png",
-        "hires": "src/assets/hires/778.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/778.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/778.png",
+        "hires": "pokemon-explorer/src/assets/hires/778.png"
       }
     },
     {
@@ -28345,9 +28345,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/779.png",
-        "thumbnail": "src/assets/thumbnails/779.png",
-        "hires": "src/assets/hires/779.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/779.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/779.png",
+        "hires": "pokemon-explorer/src/assets/hires/779.png"
       }
     },
     {
@@ -28382,9 +28382,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/780.png",
-        "thumbnail": "src/assets/thumbnails/780.png",
-        "hires": "src/assets/hires/780.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/780.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/780.png",
+        "hires": "pokemon-explorer/src/assets/hires/780.png"
       }
     },
     {
@@ -28415,9 +28415,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/781.png",
-        "thumbnail": "src/assets/thumbnails/781.png",
-        "hires": "src/assets/hires/781.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/781.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/781.png",
+        "hires": "pokemon-explorer/src/assets/hires/781.png"
       }
     },
     {
@@ -28452,9 +28452,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/782.png",
-        "thumbnail": "src/assets/thumbnails/782.png",
-        "hires": "src/assets/hires/782.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/782.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/782.png",
+        "hires": "pokemon-explorer/src/assets/hires/782.png"
       }
     },
     {
@@ -28489,9 +28489,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/783.png",
-        "thumbnail": "src/assets/thumbnails/783.png",
-        "hires": "src/assets/hires/783.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/783.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/783.png",
+        "hires": "pokemon-explorer/src/assets/hires/783.png"
       }
     },
     {
@@ -28526,9 +28526,9 @@ export const pokedexData: Pokedex = [
         "gender": "50:50"
       },
       "image": {
-        "sprite": "src/assets/sprites/784.png",
-        "thumbnail": "src/assets/thumbnails/784.png",
-        "hires": "src/assets/hires/784.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/784.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/784.png",
+        "hires": "pokemon-explorer/src/assets/hires/784.png"
       }
     },
     {
@@ -28562,9 +28562,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/785.png",
-        "thumbnail": "src/assets/thumbnails/785.png",
-        "hires": "src/assets/hires/785.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/785.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/785.png",
+        "hires": "pokemon-explorer/src/assets/hires/785.png"
       }
     },
     {
@@ -28598,9 +28598,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/786.png",
-        "thumbnail": "src/assets/thumbnails/786.png",
-        "hires": "src/assets/hires/786.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/786.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/786.png",
+        "hires": "pokemon-explorer/src/assets/hires/786.png"
       }
     },
     {
@@ -28634,9 +28634,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/787.png",
-        "thumbnail": "src/assets/thumbnails/787.png",
-        "hires": "src/assets/hires/787.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/787.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/787.png",
+        "hires": "pokemon-explorer/src/assets/hires/787.png"
       }
     },
     {
@@ -28670,9 +28670,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/788.png",
-        "thumbnail": "src/assets/thumbnails/788.png",
-        "hires": "src/assets/hires/788.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/788.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/788.png",
+        "hires": "pokemon-explorer/src/assets/hires/788.png"
       }
     },
     {
@@ -28703,9 +28703,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/789.png",
-        "thumbnail": "src/assets/thumbnails/789.png",
-        "hires": "src/assets/hires/789.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/789.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/789.png",
+        "hires": "pokemon-explorer/src/assets/hires/789.png"
       }
     },
     {
@@ -28742,9 +28742,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/790.png",
-        "thumbnail": "src/assets/thumbnails/790.png",
-        "hires": "src/assets/hires/790.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/790.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/790.png",
+        "hires": "pokemon-explorer/src/assets/hires/790.png"
       }
     },
     {
@@ -28775,9 +28775,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/791.png",
-        "thumbnail": "src/assets/thumbnails/791.png",
-        "hires": "src/assets/hires/791.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/791.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/791.png",
+        "hires": "pokemon-explorer/src/assets/hires/791.png"
       }
     },
     {
@@ -28808,9 +28808,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/792.png",
-        "thumbnail": "src/assets/thumbnails/792.png",
-        "hires": "src/assets/hires/792.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/792.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/792.png",
+        "hires": "pokemon-explorer/src/assets/hires/792.png"
       }
     },
     {
@@ -28841,9 +28841,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/793.png",
-        "thumbnail": "src/assets/thumbnails/793.png",
-        "hires": "src/assets/hires/793.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/793.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/793.png",
+        "hires": "pokemon-explorer/src/assets/hires/793.png"
       }
     },
     {
@@ -28874,9 +28874,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/794.png",
-        "thumbnail": "src/assets/thumbnails/794.png",
-        "hires": "src/assets/hires/794.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/794.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/794.png",
+        "hires": "pokemon-explorer/src/assets/hires/794.png"
       }
     },
     {
@@ -28907,9 +28907,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/795.png",
-        "thumbnail": "src/assets/thumbnails/795.png",
-        "hires": "src/assets/hires/795.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/795.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/795.png",
+        "hires": "pokemon-explorer/src/assets/hires/795.png"
       }
     },
     {
@@ -28940,9 +28940,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/796.png",
-        "thumbnail": "src/assets/thumbnails/796.png",
-        "hires": "src/assets/hires/796.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/796.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/796.png",
+        "hires": "pokemon-explorer/src/assets/hires/796.png"
       }
     },
     {
@@ -28973,9 +28973,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/797.png",
-        "thumbnail": "src/assets/thumbnails/797.png",
-        "hires": "src/assets/hires/797.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/797.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/797.png",
+        "hires": "pokemon-explorer/src/assets/hires/797.png"
       }
     },
     {
@@ -29006,9 +29006,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/798.png",
-        "thumbnail": "src/assets/thumbnails/798.png",
-        "hires": "src/assets/hires/798.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/798.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/798.png",
+        "hires": "pokemon-explorer/src/assets/hires/798.png"
       }
     },
     {
@@ -29039,9 +29039,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/799.png",
-        "thumbnail": "src/assets/thumbnails/799.png",
-        "hires": "src/assets/hires/799.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/799.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/799.png",
+        "hires": "pokemon-explorer/src/assets/hires/799.png"
       }
     },
     {
@@ -29072,9 +29072,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/800.png",
-        "thumbnail": "src/assets/thumbnails/800.png",
-        "hires": "src/assets/hires/800.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/800.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/800.png",
+        "hires": "pokemon-explorer/src/assets/hires/800.png"
       }
     },
     {
@@ -29105,9 +29105,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/801.png",
-        "thumbnail": "src/assets/thumbnails/801.png",
-        "hires": "src/assets/hires/801.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/801.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/801.png",
+        "hires": "pokemon-explorer/src/assets/hires/801.png"
       }
     },
     {
@@ -29138,9 +29138,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/802.png",
-        "thumbnail": "src/assets/thumbnails/802.png",
-        "hires": "src/assets/hires/802.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/802.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/802.png",
+        "hires": "pokemon-explorer/src/assets/hires/802.png"
       }
     },
     {
@@ -29171,9 +29171,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/803.png",
-        "thumbnail": "src/assets/thumbnails/803.png",
-        "hires": "src/assets/hires/803.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/803.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/803.png",
+        "hires": "pokemon-explorer/src/assets/hires/803.png"
       }
     },
     {
@@ -29204,9 +29204,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/804.png",
-        "thumbnail": "src/assets/thumbnails/804.png",
-        "hires": "src/assets/hires/804.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/804.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/804.png",
+        "hires": "pokemon-explorer/src/assets/hires/804.png"
       }
     },
     {
@@ -29237,9 +29237,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/805.png",
-        "thumbnail": "src/assets/thumbnails/805.png",
-        "hires": "src/assets/hires/805.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/805.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/805.png",
+        "hires": "pokemon-explorer/src/assets/hires/805.png"
       }
     },
     {
@@ -29270,9 +29270,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/806.png",
-        "thumbnail": "src/assets/thumbnails/806.png",
-        "hires": "src/assets/hires/806.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/806.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/806.png",
+        "hires": "pokemon-explorer/src/assets/hires/806.png"
       }
     },
     {
@@ -29303,9 +29303,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/807.png",
-        "thumbnail": "src/assets/thumbnails/807.png",
-        "hires": "src/assets/hires/807.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/807.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/807.png",
+        "hires": "pokemon-explorer/src/assets/hires/807.png"
       }
     },
     {
@@ -29336,9 +29336,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/808.png",
-        "thumbnail": "src/assets/thumbnails/808.png",
-        "hires": "src/assets/hires/808.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/808.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/808.png",
+        "hires": "pokemon-explorer/src/assets/hires/808.png"
       }
     },
     {
@@ -29369,9 +29369,9 @@ export const pokedexData: Pokedex = [
         "gender": "Genderless"
       },
       "image": {
-        "sprite": "src/assets/sprites/809.png",
-        "thumbnail": "src/assets/thumbnails/809.png",
-        "hires": "src/assets/hires/809.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/809.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/809.png",
+        "hires": "pokemon-explorer/src/assets/hires/809.png"
       }
     },
     {
@@ -29396,9 +29396,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/810.png",
-        "thumbnail": "src/assets/thumbnails/810.png",
-        "hires": "src/assets/hires/810.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/810.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/810.png",
+        "hires": "pokemon-explorer/src/assets/hires/810.png"
       }
     },
     {
@@ -29423,9 +29423,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/811.png",
-        "thumbnail": "src/assets/thumbnails/811.png",
-        "hires": "src/assets/hires/811.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/811.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/811.png",
+        "hires": "pokemon-explorer/src/assets/hires/811.png"
       }
     },
     {
@@ -29450,9 +29450,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/812.png",
-        "thumbnail": "src/assets/thumbnails/812.png",
-        "hires": "src/assets/hires/812.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/812.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/812.png",
+        "hires": "pokemon-explorer/src/assets/hires/812.png"
       }
     },
     {
@@ -29477,9 +29477,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/813.png",
-        "thumbnail": "src/assets/thumbnails/813.png",
-        "hires": "src/assets/hires/813.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/813.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/813.png",
+        "hires": "pokemon-explorer/src/assets/hires/813.png"
       }
     },
     {
@@ -29504,9 +29504,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/814.png",
-        "thumbnail": "src/assets/thumbnails/814.png",
-        "hires": "src/assets/hires/814.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/814.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/814.png",
+        "hires": "pokemon-explorer/src/assets/hires/814.png"
       }
     },
     {
@@ -29531,9 +29531,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/815.png",
-        "thumbnail": "src/assets/thumbnails/815.png",
-        "hires": "src/assets/hires/815.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/815.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/815.png",
+        "hires": "pokemon-explorer/src/assets/hires/815.png"
       }
     },
     {
@@ -29558,9 +29558,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/816.png",
-        "thumbnail": "src/assets/thumbnails/816.png",
-        "hires": "src/assets/hires/816.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/816.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/816.png",
+        "hires": "pokemon-explorer/src/assets/hires/816.png"
       }
     },
     {
@@ -29585,9 +29585,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/817.png",
-        "thumbnail": "src/assets/thumbnails/817.png",
-        "hires": "src/assets/hires/817.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/817.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/817.png",
+        "hires": "pokemon-explorer/src/assets/hires/817.png"
       }
     },
     {
@@ -29612,9 +29612,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/818.png",
-        "thumbnail": "src/assets/thumbnails/818.png",
-        "hires": "src/assets/hires/818.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/818.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/818.png",
+        "hires": "pokemon-explorer/src/assets/hires/818.png"
       }
     },
     {
@@ -29639,9 +29639,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/819.png",
-        "thumbnail": "src/assets/thumbnails/819.png",
-        "hires": "src/assets/hires/819.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/819.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/819.png",
+        "hires": "pokemon-explorer/src/assets/hires/819.png"
       }
     },
     {
@@ -29666,9 +29666,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/820.png",
-        "thumbnail": "src/assets/thumbnails/820.png",
-        "hires": "src/assets/hires/820.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/820.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/820.png",
+        "hires": "pokemon-explorer/src/assets/hires/820.png"
       }
     },
     {
@@ -29694,9 +29694,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/821.png",
-        "thumbnail": "src/assets/thumbnails/821.png",
-        "hires": "src/assets/hires/821.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/821.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/821.png",
+        "hires": "pokemon-explorer/src/assets/hires/821.png"
       }
     },
     {
@@ -29722,9 +29722,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/822.png",
-        "thumbnail": "src/assets/thumbnails/822.png",
-        "hires": "src/assets/hires/822.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/822.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/822.png",
+        "hires": "pokemon-explorer/src/assets/hires/822.png"
       }
     },
     {
@@ -29750,9 +29750,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/823.png",
-        "thumbnail": "src/assets/thumbnails/823.png",
-        "hires": "src/assets/hires/823.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/823.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/823.png",
+        "hires": "pokemon-explorer/src/assets/hires/823.png"
       }
     },
     {
@@ -29778,9 +29778,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/824.png",
-        "thumbnail": "src/assets/thumbnails/824.png",
-        "hires": "src/assets/hires/824.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/824.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/824.png",
+        "hires": "pokemon-explorer/src/assets/hires/824.png"
       }
     },
     {
@@ -29806,9 +29806,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/825.png",
-        "thumbnail": "src/assets/thumbnails/825.png",
-        "hires": "src/assets/hires/825.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/825.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/825.png",
+        "hires": "pokemon-explorer/src/assets/hires/825.png"
       }
     },
     {
@@ -29834,9 +29834,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/826.png",
-        "thumbnail": "src/assets/thumbnails/826.png",
-        "hires": "src/assets/hires/826.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/826.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/826.png",
+        "hires": "pokemon-explorer/src/assets/hires/826.png"
       }
     },
     {
@@ -29862,9 +29862,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/827.png",
-        "thumbnail": "src/assets/thumbnails/827.png",
-        "hires": "src/assets/hires/827.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/827.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/827.png",
+        "hires": "pokemon-explorer/src/assets/hires/827.png"
       }
     },
     {
@@ -29890,9 +29890,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/828.png",
-        "thumbnail": "src/assets/thumbnails/828.png",
-        "hires": "src/assets/hires/828.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/828.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/828.png",
+        "hires": "pokemon-explorer/src/assets/hires/828.png"
       }
     },
     {
@@ -29918,9 +29918,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/829.png",
-        "thumbnail": "src/assets/thumbnails/829.png",
-        "hires": "src/assets/hires/829.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/829.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/829.png",
+        "hires": "pokemon-explorer/src/assets/hires/829.png"
       }
     },
     {
@@ -29946,9 +29946,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/830.png",
-        "thumbnail": "src/assets/thumbnails/830.png",
-        "hires": "src/assets/hires/830.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/830.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/830.png",
+        "hires": "pokemon-explorer/src/assets/hires/830.png"
       }
     },
     {
@@ -29974,9 +29974,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/831.png",
-        "thumbnail": "src/assets/thumbnails/831.png",
-        "hires": "src/assets/hires/831.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/831.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/831.png",
+        "hires": "pokemon-explorer/src/assets/hires/831.png"
       }
     },
     {
@@ -30002,9 +30002,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/832.png",
-        "thumbnail": "src/assets/thumbnails/832.png",
-        "hires": "src/assets/hires/832.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/832.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/832.png",
+        "hires": "pokemon-explorer/src/assets/hires/832.png"
       }
     },
     {
@@ -30030,9 +30030,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/833.png",
-        "thumbnail": "src/assets/thumbnails/833.png",
-        "hires": "src/assets/hires/833.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/833.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/833.png",
+        "hires": "pokemon-explorer/src/assets/hires/833.png"
       }
     },
     {
@@ -30058,9 +30058,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/834.png",
-        "thumbnail": "src/assets/thumbnails/834.png",
-        "hires": "src/assets/hires/834.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/834.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/834.png",
+        "hires": "pokemon-explorer/src/assets/hires/834.png"
       }
     },
     {
@@ -30085,9 +30085,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/835.png",
-        "thumbnail": "src/assets/thumbnails/835.png",
-        "hires": "src/assets/hires/835.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/835.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/835.png",
+        "hires": "pokemon-explorer/src/assets/hires/835.png"
       }
     },
     {
@@ -30112,9 +30112,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/836.png",
-        "thumbnail": "src/assets/thumbnails/836.png",
-        "hires": "src/assets/hires/836.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/836.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/836.png",
+        "hires": "pokemon-explorer/src/assets/hires/836.png"
       }
     },
     {
@@ -30140,9 +30140,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/837.png",
-        "thumbnail": "src/assets/thumbnails/837.png",
-        "hires": "src/assets/hires/837.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/837.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/837.png",
+        "hires": "pokemon-explorer/src/assets/hires/837.png"
       }
     },
     {
@@ -30168,9 +30168,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/838.png",
-        "thumbnail": "src/assets/thumbnails/838.png",
-        "hires": "src/assets/hires/838.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/838.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/838.png",
+        "hires": "pokemon-explorer/src/assets/hires/838.png"
       }
     },
     {
@@ -30196,9 +30196,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/839.png",
-        "thumbnail": "src/assets/thumbnails/839.png",
-        "hires": "src/assets/hires/839.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/839.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/839.png",
+        "hires": "pokemon-explorer/src/assets/hires/839.png"
       }
     },
     {
@@ -30229,9 +30229,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/840.png",
-        "thumbnail": "src/assets/thumbnails/840.png",
-        "hires": "src/assets/hires/840.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/840.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/840.png",
+        "hires": "pokemon-explorer/src/assets/hires/840.png"
       }
     },
     {
@@ -30257,9 +30257,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/841.png",
-        "thumbnail": "src/assets/thumbnails/841.png",
-        "hires": "src/assets/hires/841.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/841.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/841.png",
+        "hires": "pokemon-explorer/src/assets/hires/841.png"
       }
     },
     {
@@ -30285,9 +30285,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/842.png",
-        "thumbnail": "src/assets/thumbnails/842.png",
-        "hires": "src/assets/hires/842.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/842.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/842.png",
+        "hires": "pokemon-explorer/src/assets/hires/842.png"
       }
     },
     {
@@ -30313,9 +30313,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/843.png",
-        "thumbnail": "src/assets/thumbnails/843.png",
-        "hires": "src/assets/hires/843.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/843.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/843.png",
+        "hires": "pokemon-explorer/src/assets/hires/843.png"
       }
     },
     {
@@ -30341,9 +30341,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/844.png",
-        "thumbnail": "src/assets/thumbnails/844.png",
-        "hires": "src/assets/hires/844.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/844.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/844.png",
+        "hires": "pokemon-explorer/src/assets/hires/844.png"
       }
     },
     {
@@ -30365,9 +30365,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Gulp-missile", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/845.png",
-        "thumbnail": "src/assets/thumbnails/845.png",
-        "hires": "src/assets/hires/845.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/845.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/845.png",
+        "hires": "pokemon-explorer/src/assets/hires/845.png"
       }
     },
     {
@@ -30392,9 +30392,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/846.png",
-        "thumbnail": "src/assets/thumbnails/846.png",
-        "hires": "src/assets/hires/846.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/846.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/846.png",
+        "hires": "pokemon-explorer/src/assets/hires/846.png"
       }
     },
     {
@@ -30419,9 +30419,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/847.png",
-        "thumbnail": "src/assets/thumbnails/847.png",
-        "hires": "src/assets/hires/847.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/847.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/847.png",
+        "hires": "pokemon-explorer/src/assets/hires/847.png"
       }
     },
     {
@@ -30447,9 +30447,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/848.png",
-        "thumbnail": "src/assets/thumbnails/848.png",
-        "hires": "src/assets/hires/848.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/848.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/848.png",
+        "hires": "pokemon-explorer/src/assets/hires/848.png"
       }
     },
     {
@@ -30475,9 +30475,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/849.png",
-        "thumbnail": "src/assets/thumbnails/849.png",
-        "hires": "src/assets/hires/849.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/849.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/849.png",
+        "hires": "pokemon-explorer/src/assets/hires/849.png"
       }
     },
     {
@@ -30503,9 +30503,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/850.png",
-        "thumbnail": "src/assets/thumbnails/850.png",
-        "hires": "src/assets/hires/850.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/850.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/850.png",
+        "hires": "pokemon-explorer/src/assets/hires/850.png"
       }
     },
     {
@@ -30531,9 +30531,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/851.png",
-        "thumbnail": "src/assets/thumbnails/851.png",
-        "hires": "src/assets/hires/851.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/851.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/851.png",
+        "hires": "pokemon-explorer/src/assets/hires/851.png"
       }
     },
     {
@@ -30558,9 +30558,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/852.png",
-        "thumbnail": "src/assets/thumbnails/852.png",
-        "hires": "src/assets/hires/852.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/852.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/852.png",
+        "hires": "pokemon-explorer/src/assets/hires/852.png"
       }
     },
     {
@@ -30585,9 +30585,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/853.png",
-        "thumbnail": "src/assets/thumbnails/853.png",
-        "hires": "src/assets/hires/853.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/853.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/853.png",
+        "hires": "pokemon-explorer/src/assets/hires/853.png"
       }
     },
     {
@@ -30612,9 +30612,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/854.png",
-        "thumbnail": "src/assets/thumbnails/854.png",
-        "hires": "src/assets/hires/854.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/854.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/854.png",
+        "hires": "pokemon-explorer/src/assets/hires/854.png"
       }
     },
     {
@@ -30639,9 +30639,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/855.png",
-        "thumbnail": "src/assets/thumbnails/855.png",
-        "hires": "src/assets/hires/855.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/855.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/855.png",
+        "hires": "pokemon-explorer/src/assets/hires/855.png"
       }
     },
     {
@@ -30667,9 +30667,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/856.png",
-        "thumbnail": "src/assets/thumbnails/856.png",
-        "hires": "src/assets/hires/856.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/856.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/856.png",
+        "hires": "pokemon-explorer/src/assets/hires/856.png"
       }
     },
     {
@@ -30695,9 +30695,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/857.png",
-        "thumbnail": "src/assets/thumbnails/857.png",
-        "hires": "src/assets/hires/857.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/857.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/857.png",
+        "hires": "pokemon-explorer/src/assets/hires/857.png"
       }
     },
     {
@@ -30723,9 +30723,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/858.png",
-        "thumbnail": "src/assets/thumbnails/858.png",
-        "hires": "src/assets/hires/858.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/858.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/858.png",
+        "hires": "pokemon-explorer/src/assets/hires/858.png"
       }
     },
     {
@@ -30751,9 +30751,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/859.png",
-        "thumbnail": "src/assets/thumbnails/859.png",
-        "hires": "src/assets/hires/859.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/859.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/859.png",
+        "hires": "pokemon-explorer/src/assets/hires/859.png"
       }
     },
     {
@@ -30779,9 +30779,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/860.png",
-        "thumbnail": "src/assets/thumbnails/860.png",
-        "hires": "src/assets/hires/860.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/860.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/860.png",
+        "hires": "pokemon-explorer/src/assets/hires/860.png"
       }
     },
     {
@@ -30807,9 +30807,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/861.png",
-        "thumbnail": "src/assets/thumbnails/861.png",
-        "hires": "src/assets/hires/861.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/861.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/861.png",
+        "hires": "pokemon-explorer/src/assets/hires/861.png"
       }
     },
     {
@@ -30835,9 +30835,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/862.png",
-        "thumbnail": "src/assets/thumbnails/862.png",
-        "hires": "src/assets/hires/862.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/862.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/862.png",
+        "hires": "pokemon-explorer/src/assets/hires/862.png"
       }
     },
     {
@@ -30863,9 +30863,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/863.png",
-        "thumbnail": "src/assets/thumbnails/863.png",
-        "hires": "src/assets/hires/863.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/863.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/863.png",
+        "hires": "pokemon-explorer/src/assets/hires/863.png"
       }
     },
     {
@@ -30890,9 +30890,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/864.png",
-        "thumbnail": "src/assets/thumbnails/864.png",
-        "hires": "src/assets/hires/864.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/864.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/864.png",
+        "hires": "pokemon-explorer/src/assets/hires/864.png"
       }
     },
     {
@@ -30917,9 +30917,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/865.png",
-        "thumbnail": "src/assets/thumbnails/865.png",
-        "hires": "src/assets/hires/865.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/865.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/865.png",
+        "hires": "pokemon-explorer/src/assets/hires/865.png"
       }
     },
     {
@@ -30945,9 +30945,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/866.png",
-        "thumbnail": "src/assets/thumbnails/866.png",
-        "hires": "src/assets/hires/866.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/866.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/866.png",
+        "hires": "pokemon-explorer/src/assets/hires/866.png"
       }
     },
     {
@@ -30969,9 +30969,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Wandering-spirit", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/867.png",
-        "thumbnail": "src/assets/thumbnails/867.png",
-        "hires": "src/assets/hires/867.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/867.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/867.png",
+        "hires": "pokemon-explorer/src/assets/hires/867.png"
       }
     },
     {
@@ -30996,9 +30996,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/868.png",
-        "thumbnail": "src/assets/thumbnails/868.png",
-        "hires": "src/assets/hires/868.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/868.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/868.png",
+        "hires": "pokemon-explorer/src/assets/hires/868.png"
       }
     },
     {
@@ -31023,9 +31023,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/869.png",
-        "thumbnail": "src/assets/thumbnails/869.png",
-        "hires": "src/assets/hires/869.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/869.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/869.png",
+        "hires": "pokemon-explorer/src/assets/hires/869.png"
       }
     },
     {
@@ -31050,9 +31050,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/870.png",
-        "thumbnail": "src/assets/thumbnails/870.png",
-        "hires": "src/assets/hires/870.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/870.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/870.png",
+        "hires": "pokemon-explorer/src/assets/hires/870.png"
       }
     },
     {
@@ -31077,9 +31077,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/871.png",
-        "thumbnail": "src/assets/thumbnails/871.png",
-        "hires": "src/assets/hires/871.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/871.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/871.png",
+        "hires": "pokemon-explorer/src/assets/hires/871.png"
       }
     },
     {
@@ -31104,9 +31104,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/872.png",
-        "thumbnail": "src/assets/thumbnails/872.png",
-        "hires": "src/assets/hires/872.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/872.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/872.png",
+        "hires": "pokemon-explorer/src/assets/hires/872.png"
       }
     },
     {
@@ -31131,9 +31131,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/873.png",
-        "thumbnail": "src/assets/thumbnails/873.png",
-        "hires": "src/assets/hires/873.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/873.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/873.png",
+        "hires": "pokemon-explorer/src/assets/hires/873.png"
       }
     },
     {
@@ -31155,9 +31155,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Power-spot", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/874.png",
-        "thumbnail": "src/assets/thumbnails/874.png",
-        "hires": "src/assets/hires/874.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/874.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/874.png",
+        "hires": "pokemon-explorer/src/assets/hires/874.png"
       }
     },
     {
@@ -31179,9 +31179,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Ice-face", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/875.png",
-        "thumbnail": "src/assets/thumbnails/875.png",
-        "hires": "src/assets/hires/875.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/875.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/875.png",
+        "hires": "pokemon-explorer/src/assets/hires/875.png"
       }
     },
     {
@@ -31207,9 +31207,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/876.png",
-        "thumbnail": "src/assets/thumbnails/876.png",
-        "hires": "src/assets/hires/876.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/876.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/876.png",
+        "hires": "pokemon-explorer/src/assets/hires/876.png"
       }
     },
     {
@@ -31231,8 +31231,8 @@ export const pokedexData: Pokedex = [
         "ability": [["Hunger-switch", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/877.png",
-        "thumbnail": "src/assets/thumbnails/877.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/877.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/877.png"
       }
     },
     {
@@ -31257,9 +31257,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/878.png",
-        "thumbnail": "src/assets/thumbnails/878.png",
-        "hires": "src/assets/hires/878.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/878.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/878.png",
+        "hires": "pokemon-explorer/src/assets/hires/878.png"
       }
     },
     {
@@ -31284,9 +31284,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/879.png",
-        "thumbnail": "src/assets/thumbnails/879.png",
-        "hires": "src/assets/hires/879.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/879.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/879.png",
+        "hires": "pokemon-explorer/src/assets/hires/879.png"
       }
     },
     {
@@ -31312,9 +31312,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/880.png",
-        "thumbnail": "src/assets/thumbnails/880.png",
-        "hires": "src/assets/hires/880.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/880.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/880.png",
+        "hires": "pokemon-explorer/src/assets/hires/880.png"
       }
     },
     {
@@ -31340,9 +31340,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/881.png",
-        "thumbnail": "src/assets/thumbnails/881.png",
-        "hires": "src/assets/hires/881.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/881.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/881.png",
+        "hires": "pokemon-explorer/src/assets/hires/881.png"
       }
     },
     {
@@ -31368,9 +31368,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/882.png",
-        "thumbnail": "src/assets/thumbnails/882.png",
-        "hires": "src/assets/hires/882.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/882.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/882.png",
+        "hires": "pokemon-explorer/src/assets/hires/882.png"
       }
     },
     {
@@ -31396,9 +31396,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/883.png",
-        "thumbnail": "src/assets/thumbnails/883.png",
-        "hires": "src/assets/hires/883.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/883.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/883.png",
+        "hires": "pokemon-explorer/src/assets/hires/883.png"
       }
     },
     {
@@ -31424,9 +31424,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/884.png",
-        "thumbnail": "src/assets/thumbnails/884.png",
-        "hires": "src/assets/hires/884.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/884.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/884.png",
+        "hires": "pokemon-explorer/src/assets/hires/884.png"
       }
     },
     {
@@ -31452,9 +31452,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/885.png",
-        "thumbnail": "src/assets/thumbnails/885.png",
-        "hires": "src/assets/hires/885.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/885.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/885.png",
+        "hires": "pokemon-explorer/src/assets/hires/885.png"
       }
     },
     {
@@ -31480,9 +31480,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/886.png",
-        "thumbnail": "src/assets/thumbnails/886.png",
-        "hires": "src/assets/hires/886.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/886.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/886.png",
+        "hires": "pokemon-explorer/src/assets/hires/886.png"
       }
     },
     {
@@ -31508,9 +31508,9 @@ export const pokedexData: Pokedex = [
         ]
       },
       "image": {
-        "sprite": "src/assets/sprites/887.png",
-        "thumbnail": "src/assets/thumbnails/887.png",
-        "hires": "src/assets/hires/887.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/887.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/887.png",
+        "hires": "pokemon-explorer/src/assets/hires/887.png"
       }
     },
     {
@@ -31532,9 +31532,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Intrepid-sword", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/888.png",
-        "thumbnail": "src/assets/thumbnails/888.png",
-        "hires": "src/assets/hires/888.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/888.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/888.png",
+        "hires": "pokemon-explorer/src/assets/hires/888.png"
       }
     },
     {
@@ -31556,9 +31556,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Dauntless-shield", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/889.png",
-        "thumbnail": "src/assets/thumbnails/889.png",
-        "hires": "src/assets/hires/889.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/889.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/889.png",
+        "hires": "pokemon-explorer/src/assets/hires/889.png"
       }
     },
     {
@@ -31580,9 +31580,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Pressure", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/890.png",
-        "thumbnail": "src/assets/thumbnails/890.png",
-        "hires": "src/assets/hires/890.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/890.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/890.png",
+        "hires": "pokemon-explorer/src/assets/hires/890.png"
       }
     },
     {
@@ -31609,9 +31609,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Inner-focus", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/891.png",
-        "thumbnail": "src/assets/thumbnails/891.png",
-        "hires": "src/assets/hires/891.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/891.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/891.png",
+        "hires": "pokemon-explorer/src/assets/hires/891.png"
       }
     },
     {
@@ -31633,9 +31633,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Unseen-fist", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/892.png",
-        "thumbnail": "src/assets/thumbnails/892.png",
-        "hires": "src/assets/hires/892.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/892.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/892.png",
+        "hires": "pokemon-explorer/src/assets/hires/892.png"
       }
     },
     {
@@ -31657,9 +31657,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Leaf-guard", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/893.png",
-        "thumbnail": "src/assets/thumbnails/893.png",
-        "hires": "src/assets/hires/893.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/893.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/893.png",
+        "hires": "pokemon-explorer/src/assets/hires/893.png"
       }
     },
     {
@@ -31681,9 +31681,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Transistor", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/894.png",
-        "thumbnail": "src/assets/thumbnails/894.png",
-        "hires": "src/assets/hires/894.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/894.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/894.png",
+        "hires": "pokemon-explorer/src/assets/hires/894.png"
       }
     },
     {
@@ -31705,9 +31705,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Dragons-maw", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/895.png",
-        "thumbnail": "src/assets/thumbnails/895.png",
-        "hires": "src/assets/hires/895.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/895.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/895.png",
+        "hires": "pokemon-explorer/src/assets/hires/895.png"
       }
     },
     {
@@ -31729,9 +31729,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Chilling-neigh", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/896.png",
-        "thumbnail": "src/assets/thumbnails/896.png",
-        "hires": "src/assets/hires/896.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/896.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/896.png",
+        "hires": "pokemon-explorer/src/assets/hires/896.png"
       }
     },
     {
@@ -31753,9 +31753,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Grim-neigh", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/897.png",
-        "thumbnail": "src/assets/thumbnails/897.png",
-        "hires": "src/assets/hires/897.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/897.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/897.png",
+        "hires": "pokemon-explorer/src/assets/hires/897.png"
       }
     },
     {
@@ -31777,9 +31777,9 @@ export const pokedexData: Pokedex = [
         "ability": [["Unnerve", "false"]]
       },
       "image": {
-        "sprite": "src/assets/sprites/898.png",
-        "thumbnail": "src/assets/thumbnails/898.png",
-        "hires": "src/assets/hires/898.png"
+        "sprite": "pokemon-explorer/src/assets/sprites/898.png",
+        "thumbnail": "pokemon-explorer/src/assets/thumbnails/898.png",
+        "hires": "pokemon-explorer/src/assets/hires/898.png"
       }
     }
   ]

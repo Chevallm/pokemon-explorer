@@ -1,6 +1,6 @@
 import { AppBar, BottomNavigation, BottomNavigationAction, Box, createTheme, Fab, Paper, ThemeProvider } from '@mui/material'
 import './App.css'
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import MenuBookIcon from '@mui/icons-material/MenuBook';
 import WatchLaterIcon from '@mui/icons-material/WatchLater';
 import '@fontsource/roboto/300.css';
@@ -98,7 +98,7 @@ function App() {
           <BottomNavigation
             showLabels
             value={page}
-            onChange={(page, newPage) => {
+            onChange={(_page, newPage) => {
               setPage(newPage);
             }}>
             <BottomNavigationAction label="Pokédex" icon={<MenuBookIcon/>}></BottomNavigationAction>

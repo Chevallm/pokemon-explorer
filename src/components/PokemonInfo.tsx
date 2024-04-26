@@ -75,8 +75,8 @@ export default function PokemonInfoComponent(props: PokemonInfoComponentProps) {
                                                 const when = pokemon.evolution.next?.[evolutionIndex][1];
                                                 return (
                                                     <Paper
-                                                        key={nextPokemon.id}
-                                                        onClick={() => setPokemonSelected(nextPokemon.id)}
+                                                        key={nextPokemon?.id}
+                                                        onClick={() => setPokemonSelected(nextPokemon!.id)}
                                                         elevation={1}
                                                         sx={{
                                                             padding: 2,

@@ -1,6 +1,6 @@
-import { BottomNavigation, BottomNavigationAction, Box, createTheme, Paper, ThemeProvider } from '@mui/material'
+import { AppBar, BottomNavigation, BottomNavigationAction, Box, createTheme, Fab, Paper, ThemeProvider } from '@mui/material'
 import './App.css'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import MenuBookIcon from '@mui/icons-material/MenuBook';
 import WatchLaterIcon from '@mui/icons-material/WatchLater';
 import '@fontsource/roboto/300.css';
@@ -12,12 +12,14 @@ import PokemonInfoComponent from './components/PokemonInfo';
 import SearchBar from './components/SearchBar';
 import { pokedexData, pokemonNames } from './pokedex';
 import { Pokedex } from './types/Pokedex';
+import { ArrowUpward } from '@mui/icons-material';
 
 function App() {
   
   const [page, setPage] = useState(0);
   const [pokemonSelected, setPokemonSelected] = useState<string | null>(null);
   const [filteredPokedex, setFilteredPokedex] = useState<Pokedex>([]);
+  const [scrollPosition, setScrollPosition] = useState(0);
   
   const darkTheme = createTheme({
     palette: {
@@ -32,6 +34,7 @@ function App() {
   function onGoBack() {
     setPokemonSelected(null);
     setFilteredPokedex([]);
+    scrollTo({top: scrollPosition, behavior: 'instant'});
   }
 
   function filterPokedex(query: string) {
@@ -46,10 +49,16 @@ function App() {
     const _filteredPokedex: Pokedex = filteredPokemonNamesIndexes.map(index => pokedexData[index]);
     setFilteredPokedex(_filteredPokedex);
   }
+
+  window.addEventListener('scroll', () => {
+    if (!pokemonSelected) {
+      setScrollPosition(window.scrollY)
+    }
+  });
   
   return (
     <>
-    <Box sx={{ pb: 7 }}>
+    <Box>
       <ThemeProvider
         theme={darkTheme}>
         {pokemonSelected ? (
@@ -59,13 +68,33 @@ function App() {
               onPokemonSelected={onPokemonSelected}/>
           ) : (
             <>
-            <Box sx={{width: '100%'}}>
+            <AppBar position='sticky'>
               <SearchBar onSearch={filterPokedex}></SearchBar>
+            </AppBar>
+            <Box sx={{mt: 2}}>
+              <PokedexComponent filteredPokedex={filteredPokedex} onPokemonSelected={onPokemonSelected}/>
             </Box>
-            <PokedexComponent filteredPokedex={filteredPokedex} onPokemonSelected={onPokemonSelected}/>
+            {window.scrollY && (
+              <Fab
+                onClick={() => {
+                  window.scrollTo({top: 0, behavior: 'smooth'})
+                }}
+                sx={{
+                    margin: 0,
+                    top: 'auto',
+                    right: 20,
+                    bottom: 75,
+                    left: 'auto',
+                    position: 'fixed'
+                }}
+                color="primary"
+                aria-label="back">
+                <ArrowUpward/>
+            </Fab>
+            )}
             </>
           )}
-        <Paper sx={{ position: 'fixed', bottom: 0, left: 0, right: 0 }} elevation={3}>
+        <Paper sx={{ position: 'sticky', bottom: 0, mt: 2}} elevation={3}>
           <BottomNavigation
             showLabels
             value={page}

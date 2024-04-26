@@ -12,14 +12,7 @@ type PokemonInfoComponentProps = {
 }
 export default function PokemonInfoComponent(props: PokemonInfoComponentProps) {
 
-    const fabStyle = {
-        margin: 0,
-        top: 'auto',
-        right: 20,
-        bottom: 75,
-        left: 'auto',
-        position: 'fixed'
-    }
+    
     const pokemonSelectedId = parseInt(props.pokemonSelected, 10);
     const pokemon = pokedexData.find(pokemonInPokedex => pokemonInPokedex.id === pokemonSelectedId)
     if (pokemon === undefined) {
@@ -42,8 +35,8 @@ export default function PokemonInfoComponent(props: PokemonInfoComponentProps) {
 
     return (
         <>
-            <Box>
-                <Paper elevation={2} sx={{mx: 20, display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+            <Box sx={{p: 4}}>
+                <Paper elevation={2} sx={{display: 'flex', flexDirection: 'column', alignItems: 'center', p: 2}}>
                     {/* Identity */}
                     <img src={pokemon.image.hires} height="400" width="400"/>
                     <Typography>{pokemon.name.english}</Typography>
@@ -76,12 +69,23 @@ export default function PokemonInfoComponent(props: PokemonInfoComponentProps) {
                                 {nextPokemons.length > 0 && (
                                     <Box sx={{display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
                                         <Typography sx={{mb: 2}}>Next evolutions</Typography>
-                                        <Box sx={{display: 'flex', justifyContent: 'center', columnGap: 2}}>
+                                        <Box sx={{display: 'flex', justifyContent: 'center', columnGap: 2, rowGap: 2, flexWrap: 'wrap'}}>
                                         {nextPokemons.filter(p => !!p).map((nextPokemon, evolutionIndex) => {
                                                 const pokemonName = nextPokemon?.name.english;
                                                 const when = pokemon.evolution.next?.[evolutionIndex][1];
                                                 return (
-                                                    <Paper key={nextPokemon.id} onClick={() => setPokemonSelected(nextPokemon.id)} elevation={1} sx={{padding: 2, display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+                                                    <Paper
+                                                        key={nextPokemon.id}
+                                                        onClick={() => setPokemonSelected(nextPokemon.id)}
+                                                        elevation={1}
+                                                        sx={{
+                                                            padding: 2,
+                                                            flexGrow: 1,
+                                                            display: 'flex',
+                                                            flexDirection: 'column',
+                                                            alignItems: 'center',
+                                                            textAlign: 'center'
+                                                            }}>
                                                         <img src={nextPokemon?.image.thumbnail}/>
                                                         <Typography sx={{mt: 1}}>{pokemonName} with {when}</Typography>
                                                     </Paper>
@@ -100,7 +104,14 @@ export default function PokemonInfoComponent(props: PokemonInfoComponentProps) {
             
             <Fab
                 onClick={props.onGoBack}
-                style={fabStyle}
+                sx={{
+                    margin: 0,
+                    top: 'auto',
+                    right: 20,
+                    bottom: 75,
+                    left: 'auto',
+                    position: 'fixed'
+                }}
                 color="primary"
                 aria-label="back">
                 <ArrowBack/>

@@ -1,3 +1,4 @@
+import { Typography } from "@mui/material"
 import { Box, SxProps } from "@mui/system"
 
 type TypeProps = {
@@ -37,18 +38,11 @@ export default function Type(props: TypeProps) {
         alignItems: 'center',
     }
 
-    const textStyle = {
-        'margin': '0 5px 0 10px',
-        'display': 'inline-block',
-        'min-width': '50px',
-        'text-align': 'center',
-    }
-
     return (
         <>
             <Box sx={spanStyle}>
                 <img src={`src/assets/types/${props.type.toLocaleLowerCase()}.png`}/>
-                <span style={textStyle}>{props.type}</span>
+                <Typography sx={{marginRight: '5px', marginLeft: '10px', display: 'inline-block', minWidth: '50px', textAlign: 'center'}}>{props.type}</Typography>
             </Box>
         </>
     )

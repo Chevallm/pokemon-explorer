@@ -8,7 +8,7 @@ import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 import PokedexComponent from './components/Pokedex';
-import PokemonInfoComponent from './components/PokemonInfo';
+import PokemonInfoComponent from "./components/PokemonInfo/PokemonInfoComponent";
 import SearchBar from './components/SearchBar';
 import { pokedexData, pokemonNames } from './pokedex';
 import { Pokedex } from './types/Pokedex';
@@ -19,7 +19,6 @@ function App() {
   const [page, setPage] = useState(0);
   const [pokemonSelected, setPokemonSelected] = useState<string | null>(null);
   const [filteredPokedex, setFilteredPokedex] = useState<Pokedex>([]);
-  const [scrollPosition, setScrollPosition] = useState(0);
   
   const darkTheme = createTheme({
     palette: {
@@ -34,13 +33,11 @@ function App() {
   function onGoBack() {
     setPokemonSelected(null);
     setFilteredPokedex([]);
-    scrollTo({top: scrollPosition, behavior: 'instant'});
   }
 
   function filterPokedex(query: string) {
     const lowerCaseQuery = query.toLocaleLowerCase();
     const filteredPokemonNamesIndexes = pokemonNames.reduce<number[]>((indexes, pokemonName, index) => {
-      console.log(pokemonName)
       if (pokemonName.includes(lowerCaseQuery)) {
         indexes.push(index);
       }
@@ -50,11 +47,6 @@ function App() {
     setFilteredPokedex(_filteredPokedex);
   }
 
-  window.addEventListener('scroll', () => {
-    if (!pokemonSelected) {
-      setScrollPosition(window.scrollY)
-    }
-  });
   
   return (
     <>
@@ -74,7 +66,7 @@ function App() {
             <Box sx={{mt: 2}}>
               <PokedexComponent filteredPokedex={filteredPokedex} onPokemonSelected={onPokemonSelected}/>
             </Box>
-            {window.scrollY && (
+            {window.scrollY > 0 && (
               <Fab
                 onClick={() => {
                   window.scrollTo({top: 0, behavior: 'smooth'})

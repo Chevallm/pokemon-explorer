@@ -41,7 +41,7 @@ export default function Type(props: TypeProps) {
     return (
         <>
             <Box sx={spanStyle}>
-                <img src={`src/assets/types/${props.type.toLocaleLowerCase()}.png`}/>
+                <img src={`./types/${props.type.toLocaleLowerCase()}.png`}/>
                 <Typography sx={{marginRight: '5px', marginLeft: '10px', display: 'inline-block', minWidth: '50px', textAlign: 'center'}}>{props.type}</Typography>
             </Box>
         </>

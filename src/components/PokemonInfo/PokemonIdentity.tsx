@@ -33,7 +33,7 @@ export default function PokemonIdentity(props: PokemonIdentityProps) {
             </Box>
 
             <Box sx={{width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
-                <Typography>Gender repartition</Typography>
+                <Typography variant="h5">Gender repartition</Typography>
                 <Box sx={{display: 'flex', justifyContent: 'center', width: '50%'}}>
                     <span className="h-8 w-full relative rounded-full" style={{backgroundColor: '#5A5A5A'}}>
                         <span className='absolute h-8 bg-blue-300 rounded-e-full text-left' style={{left: '50%', width: `${male}%`}}>

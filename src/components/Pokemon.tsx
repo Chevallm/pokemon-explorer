@@ -1,5 +1,6 @@
-import { Card } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import { Pokemon } from "../types/Pokemon"
+import Type from "./Type";
 
 type PokemonComponentProps = {
     pokemon: Pokemon,
@@ -16,7 +17,12 @@ export default function PokemonComponent(props: PokemonComponentProps) {
         <>
         <Card onClick={onClick} className="flex flex-col items-center gap-y-2">
             <img className="my-2" width="100" src={props.pokemon.image.thumbnail}></img>
-            <p>{props.pokemon.name.english}</p>
+            <Typography>{props.pokemon.name.english}</Typography>
+            <Box>
+                <Type type={props.pokemon.type[0]}></Type>
+                {props.pokemon.type[1] && <Type type={props.pokemon.type[1]}/>}
+            </Box>
+            
         </Card>
         </>
     )

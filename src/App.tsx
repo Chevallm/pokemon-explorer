@@ -13,12 +13,13 @@ import SearchBar from './components/SearchBar';
 import { pokedexData, pokemonNames } from './pokedex';
 import { Pokedex } from './types/Pokedex';
 import { ArrowUpward } from '@mui/icons-material';
+import PokedexFilter from './components/PokedexFilter/PokedexFilter';
 
 function App() {
   
   const [page, setPage] = useState(0);
   const [pokemonSelected, setPokemonSelected] = useState<string | null>(null);
-  const [filteredPokedex, setFilteredPokedex] = useState<Pokedex>([]);
+  const [filteredPokedex, setFilteredPokedex] = useState<Pokedex>(pokedexData);
   
   const darkTheme = createTheme({
     palette: {
@@ -32,10 +33,10 @@ function App() {
 
   function onGoBack() {
     setPokemonSelected(null);
-    setFilteredPokedex([]);
+    setFilteredPokedex(pokedexData);
   }
 
-  function filterPokedex(query: string) {
+  function filterPokemonByName(query: string) {
     const lowerCaseQuery = query.toLocaleLowerCase();
     const filteredPokemonNamesIndexes = pokemonNames.reduce<number[]>((indexes, pokemonName, index) => {
       if (pokemonName.includes(lowerCaseQuery)) {
@@ -44,7 +45,28 @@ function App() {
       return indexes;
     }, []);
     const _filteredPokedex: Pokedex = filteredPokemonNamesIndexes.map(index => pokedexData[index]);
-    setFilteredPokedex(_filteredPokedex);
+    if (_filteredPokedex.length < 1) {
+      setFilteredPokedex(pokedexData);
+    } else {
+      setFilteredPokedex(_filteredPokedex);
+    }
+    
+  }
+
+  function filterPokemonByTypes(types: Set<string>) {
+    console.log(types)
+    const _filteredPokedex = filteredPokedex.filter(
+      pokemon => pokemon.type
+      .filter(
+        type => type !== undefined
+      ).some(
+        pokemonType => types.has(pokemonType)
+      ));
+    if (_filteredPokedex.length < 1) {
+      setFilteredPokedex(pokedexData);
+    } else {
+      setFilteredPokedex(_filteredPokedex);
+    }
   }
 
   
@@ -61,7 +83,7 @@ function App() {
           ) : (
             <>
             <AppBar position='sticky'>
-              <SearchBar onSearch={filterPokedex}></SearchBar>
+              <PokedexFilter onSearchPokedex={filterPokemonByName} onTypeFilter={filterPokemonByTypes}/>
             </AppBar>
             <Box sx={{mt: 2}}>
               <PokedexComponent filteredPokedex={filteredPokedex} onPokemonSelected={onPokemonSelected}/>

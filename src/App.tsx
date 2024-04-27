@@ -9,7 +9,6 @@ import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 import PokedexComponent from './components/Pokedex';
 import PokemonInfoComponent from "./components/PokemonInfo/PokemonInfoComponent";
-import SearchBar from './components/SearchBar';
 import { pokedexData, pokemonNames } from './pokedex';
 import { Pokedex } from './types/Pokedex';
 import { ArrowUpward } from '@mui/icons-material';
@@ -60,7 +59,7 @@ function App() {
       .filter(
         type => type !== undefined
       ).some(
-        pokemonType => types.has(pokemonType)
+        pokemonType => types.has(pokemonType!)
       ));
     if (_filteredPokedex.length < 1) {
       setFilteredPokedex(pokedexData);
